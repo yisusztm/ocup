@@ -1,4 +1,4 @@
-|CÓD.,DESCRIPCIÓN,OCUPACIONES INCLUIDAS,GPR,PAG
+| CÓD.,DESCRIPCIÓN,OCUPACIONES INCLUIDAS,GPR,PAG
 1111,MIEMBROS DEL PODER EJECUTIVO Y DEL PODER LEGISLATIVO,"Presidentes del Gobierno Ministros del gobierno Diputados al Parlamento Secretarios de Estado Senadores
 Miembros de los órganos de gobierno de las CC.AA.
 Miembros de las asambleas legislativas de las CC.AA. Concejales
@@ -26,7 +26,7 @@ Directores de servicio postventa
 Directores de departamentos de estudios de mercado Directores de marketing",F; G; J; L,50
 1222,DIRECTORES DE PUBLICIDAD Y RELACIONES PÚBLICAS,"Directores de publicidad Directores de relaciones públicas
 Directores de gabinetes de prensa",F; G; J; L,52
-|CÓD.,DESCRIPCIÓN,OCUPACIONES INCLUIDAS,GPR,PAG
+| CÓD.,DESCRIPCIÓN,OCUPACIONES INCLUIDAS,GPR,PAG
 1223,DIRECTORES DE INVESTIGACIÓN Y DESARROLLO,"Directores de desarrollo de productos
 Directores de departamentos de investigación y desarrollo (I+D)",F; G; J; L,54
 1311,DIRECTORES DE PRODUCCIÓN DE EXPLOTACIONES AGROPECUARIAS Y FORESTALES,"Directores de silvicultura
@@ -62,7 +62,7 @@ Directores de centros de formación profesional Directores de universidades
 Rectores de universidades",F; G; J; L,78
 1327,"DIRECTORES DE SUCURSALES DE BANCOS, DE SERVICIOS FINANCIEROS Y DE SEGUROS","Directores de sucursales de banco Directores de cajas de ahorro Directores de cooperativas de crédito
 Directores de agencias de seguros",F; G; J; L,80
-|CÓD.,DESCRIPCIÓN,OCUPACIONES INCLUIDAS,GPR,PAG
+| CÓD.,DESCRIPCIÓN,OCUPACIONES INCLUIDAS,GPR,PAG
 1329,DIRECTORES DE OTRAS EMPRESAS DE SERVICIOS PROFESIONALES NO CLASIFICADOS BAJO OTROS EPÍGRAFES,"Directores de archivos Directores de galerías de arte Directores de servicios jurídicos Directores de bibliotecas Directores de museos
 Directores de establecimientos penitenciarios",F; G; J; L,82
 1411,DIRECTORES Y GERENTES DE HOTELES,Gerentes de hoteles,F; G; J; L,84
@@ -92,7 +92,7 @@ y comunitaria) Endocrinólogos Oftalmólogos Psiquiatras
 Médicos especializ. en rehabilitación",E; F; G; H; J; L; M,105
 2121,ENFERMEROS NO ESPECIALIZADOS,"Diplomados en enfermería no especializados Graduados en enfermería no especializados
 Enfermeros",E; F; G; H; J; L; M,107
-|CÓD.,DESCRIPCIÓN,OCUPACIONES INCLUIDAS,GPR,PAG
+| CÓD.,DESCRIPCIÓN,OCUPACIONES INCLUIDAS,GPR,PAG
 2122,ENFERMEROS ESPECIALIZADOS (EXCEPTO MATRONOS),"Enfermeros de geriatría Enfermeros de pediatría Enfermeros (enf. de salud mental) Enfermeros (enfermería del trabajo)
 Enfermeros (enfermería familiar y comunitaria)
 Enfermeros de cuidados médico-quirúrgicos",C; E; F; G; H; J; L; M,109
@@ -128,7 +128,7 @@ Profesores de tecnología para la formación profesional",F; G; J; L,137
 2230,PROFESORES DE ENSEÑANZA SECUNDARIA (EXCEPTO MATERIAS ESPECÍFICAS DE FORMACIÓN PROFESIONAL),"Profesores de enseñanza secundaria o formación profesional (materias no específicas)
 Profesores de instituto
 Profesores de enseñanza secundaria, artes",F; G; J; L,139
-|CÓD.,DESCRIPCIÓN,OCUPACIONES INCLUIDAS,GPR,PAG
+| CÓD.,DESCRIPCIÓN,OCUPACIONES INCLUIDAS,GPR,PAG
 2240,PROFESORES DE ENSEÑANZA PRIMARIA,Maestros de enseñanza primaria,F; G; J; L,141
 2251,MAESTROS DE EDUCACIÓN INFANTIL,Maestros de educación infantil,F; G; J; L,143
 2252,TÉCNICOS EN EDUCACIÓN INFANTIL,Técnicos en educación infantil,F; G; J; L,145
@@ -151,7 +151,7 @@ Profesores de pintura (clases particulares o academias)
 Profesores de escultura (clases particulares o academias)",C; E; F; G; J; L; M,157
 2325,INSTRUCTORES EN TECNOLOGÍAS DE LA INFORMACIÓN EN ENSEÑANZA NO REGLADA,"Profesores de informática (clases particulares o academias)
 Profesores de cursos de formación en tecnologías de la información",F; G; J; L,159
-|CÓD.,DESCRIPCIÓN,OCUPACIONES INCLUIDAS,GPR,PAG
+| CÓD.,DESCRIPCIÓN,OCUPACIONES INCLUIDAS,GPR,PAG
 2326,PROFESIONALES DE LA EDUCACIÓN AMBIENTAL,"Educadores ambientales
 Monitores de centros de interpretación de sendas de la naturaleza
 Monitores de centros de interpretación en medioambiente urbano o industrial
@@ -181,7 +181,7 @@ Estadísticos, economía",F; G; J,175
 2421,"BIÓLOGOS, BOTÁNICOS, ZOÓLOGOS Y AFINES","Bacteriólogos Biotecnólogos Botánicos Genetistas celulares Biólogos marinos Microbiólogos
 Biólogos moleculares Genetistas moleculares Farmacólogos
 Zoólogos",E; F; G; J,177
-|CÓD.,DESCRIPCIÓN,OCUPACIONES INCLUIDAS,GPR,PAG
+| CÓD.,DESCRIPCIÓN,OCUPACIONES INCLUIDAS,GPR,PAG
 2422,INGENIEROS AGRÓNOMOS,"Agrónomos, horticultura Edafólogos
 Ingenieros en agronomía, zootecnia
 Ingenieros en agronomía, fitotecnia",F; G; J,179
@@ -211,7 +211,7 @@ Ingenieros, extracción de petróleo y gas natural",F; G; J,201
 2437,INGENIEROS AMBIENTALES,"Ingenieros medioambientales Analistas medioambientales
 Técnicos especialistas en recuperación ambiental Ingenieros, control de la contaminación atmosférica
 Ingenieros, procesamiento de aguas residuales",F; G; J,203
-|CÓD.,DESCRIPCIÓN,OCUPACIONES INCLUIDAS,GPR,PAG
+| CÓD.,DESCRIPCIÓN,OCUPACIONES INCLUIDAS,GPR,PAG
 2439,INGENIEROS NO CLASIFICADOS BAJO OTROS EPÍGRAFES,"Ingenieros biomédicos Ingenieros de explosivos Ingenieros de materiales Ingenieros ópticos
 Ingenieros de seguridad",F; G; J,205
 2441,INGENIEROS EN ELECTRICIDAD,"Ingenieros en electricidad, iluminación
@@ -248,7 +248,7 @@ Técnicos urbanistas",E; F; G; J,241
 2482,DISEÑADORES DE PRODUCTOS Y DE PRENDAS,"Diseñadores de ropa Diseñadores de moda Diseñadores industriales
 Diseñadores de joyas",F; G; J,243
 2483,INGENIEROS TÉCNICOS EN TOPOGRAFÍA,Ingenieros técnicos en topografía,E; F; G; J,245
-|CÓD.,DESCRIPCIÓN,OCUPACIONES INCLUIDAS,GPR,PAG
+| CÓD.,DESCRIPCIÓN,OCUPACIONES INCLUIDAS,GPR,PAG
 2484,DISEÑADORES GRÁFICOS Y MULTIMEDIA,"Animadores de imágenes Artistas digitales Diseñadores gráficos Ilustradores
 Diseñadores multimedia Diseñadores de publicaciones
 Diseñadores de páginas web",E; F; G; J,247
@@ -284,7 +284,7 @@ Funcionarios del Grupo A o B o asimilados de la Administración Autonómica (n.c
 Funcionarios del Grupo A o B o asimilados de la Administración Local (n.c.o.p.)
 Inspectores de Finanzas del Estado Inspectores de Trabajo y Seguridad Social Secretarios de Ayuntamiento Subinspectores de Finanzas del Estado
 Subinspectores de Trabajo",F; G; J,271
-|CÓD.,DESCRIPCIÓN,OCUPACIONES INCLUIDAS,GPR,PAG
+| CÓD.,DESCRIPCIÓN,OCUPACIONES INCLUIDAS,GPR,PAG
 2624,ESPECIALISTAS EN POLÍTICAS Y SERVICIOS DE PERSONAL Y AFINES,"Técnicos superiores en administración de personal Técnicos superiores en recursos humanos Orientadores profesionales
 Analistas del mercado laboral",F; G; J; L,273
 2625,ESPECIALISTAS EN FORMACIÓN DE PERSONAL,Profesionales de la formación de personal en destrezas propias del puesto de trabajo,F; G; J; L,275
@@ -319,7 +319,7 @@ Explotadores de bases de datos
 Ingenieros informáticos (seguridad en la red)",F; G; J,301
 2810,ECONOMISTAS,"Econometristas Asesores económicos Analistas económicos
 Economistas",F; G; J,303
-|CÓD.,DESCRIPCIÓN,OCUPACIONES INCLUIDAS,GPR,PAG
+| CÓD.,DESCRIPCIÓN,OCUPACIONES INCLUIDAS,GPR,PAG
 2821,"SOCIÓLOGOS, GEÓGRAFOS, ANTROPÓLOGOS, ARQUEÓLOGOS Y AFINES","Antropólogos Arqueólogos Etnólogos Geógrafos Sociólogos
 Criminólogos",F; G; J,305
 2822,"FILÓSOFOS, HISTORIADORES Y PROFESIONALES EN CIENCIAS POLÍTICAS","Genealogistas Historiadores Filósofos
@@ -342,7 +342,7 @@ Redactores de discursos
 Redactores técnicos",F; G; J,321
 2922,PERIODISTAS,"Periodistas
 Redactores-jefes de prensa Redactores deportivos Reporteros de radio/TV Críticos",F; G; H; J,323
-|CÓD.,DESCRIPCIÓN,OCUPACIONES INCLUIDAS,GPR,PAG
+| CÓD.,DESCRIPCIÓN,OCUPACIONES INCLUIDAS,GPR,PAG
 2923,"FILÓLOGOS, INTÉRPRETES Y TRADUCTORES","Intérpretes Lexicógrafos Filólogos
 Intérpretes del lenguaje de signos Subtituladores
 Traductores
@@ -364,7 +364,7 @@ Cuentacuentos",F; G; H; J; L; M,335
 Informadores del estado del tráfico",F; G; H; J; L,337
 2937,PROFESIONALES DE ESPECTÁCULOS TAURINOS,"Toreros Banderilleros Rejoneadores
 Novilleros",A; B; C; D; E; G; H; J; M,339
-|CÓD.,DESCRIPCIÓN,OCUPACIONES INCLUIDAS,GPR,PAG
+| CÓD.,DESCRIPCIÓN,OCUPACIONES INCLUIDAS,GPR,PAG
 2939,ARTISTAS CREATIVOS E INTERPRETATIVOS NO CLASIFICADOS BAJO OTROS EPÍGRAFES,"Acróbatas Equilibristas Payasos Hipnotizadores Prestidigitadores Titiriteros Cómicos Ventrílocuos
 Domadores",F; G; H; J; M,341
 3110,DELINEANTES Y DIBUJANTES TÉCNICOS,"Delineantes y dibujantes técnicos
@@ -394,7 +394,7 @@ Técnicos en extracción/petróleo y gas natural",E; G; J,360
 3129,"OTROS TÉCNICOS DE LAS CIENCIAS FÍSICAS, QUÍMICAS, MEDIOAMBIENTALES Y DE LAS INGENIERÍAS","Técnicos en planificación y control de la producción Técnicos en organización industrial
 Técnicos en estudios de tiempos y movimientos Técnicos en estimación de tiempos y costes Técnicos en robótica
 Técnicos en investigación de incendios",E; G; J,362
-|CÓD.,DESCRIPCIÓN,OCUPACIONES INCLUIDAS,GPR,PAG
+| CÓD.,DESCRIPCIÓN,OCUPACIONES INCLUIDAS,GPR,PAG
 3131,TÉCNICOS EN INSTALACIONES DE PRODUCCIÓN DE ENERGÍA,"Operadores de central eléctrica Operadores de central hidroeléctrica Operadores de central nuclear Operadores de central solar
 Operadores de central de generación de energía
 Operadores de sistemas de energía",E; G; H; J; M,364
@@ -429,7 +429,7 @@ Técnicos en silvicultura",C; D; G; J; M,380
 Patrones de yate",E; F; G; I; J; L; M,384
 3153,PILOTOS DE AVIACIÓN Y PROFESIONALES AFINES,"Pilotos de aeronaves Oficiales mecánicos de vuelo Instructores de vuelo
 Oficiales navegantes de vuelo",E; F; G; H; I; J; L; M,386
-|CÓD.,DESCRIPCIÓN,OCUPACIONES INCLUIDAS,GPR,PAG
+| CÓD.,DESCRIPCIÓN,OCUPACIONES INCLUIDAS,GPR,PAG
 3154,CONTROLADORES DE TRÁFICO AÉREO,Controladores de tráfico aéreo,E; F; G; H; I; J; L; M,388
 3155,TÉCNICOS EN SEGURIDAD AERONÁUTICA,Técnicos en seguridad aeronáutica,E; G; H; J; L; M,390
 3160,"TÉCNICOS DE CONTROL DE CALIDAD DE LAS CIENCIAS FÍSICAS, QUÍMICAS Y DE LAS INGENIERÍAS","Técnicos, control de calidad en industrias manufactureras
@@ -467,7 +467,7 @@ Técnicos en laboratorio de diagnóstico clínico",E; G; J,416
 Mecánicos dentistas",E; F; G; J; M,420
 3317,TÉCNICOS EN AUDIOPRÓTESIS,"Técnicos superiores en audioprótesis
 Técnicos especialistas audioprotesistas",E; F; G; I; J; L,422
-|CÓD.,DESCRIPCIÓN,OCUPACIONES INCLUIDAS,GPR,PAG
+| CÓD.,DESCRIPCIÓN,OCUPACIONES INCLUIDAS,GPR,PAG
 3321,TÉCNICOS SUPERIORES EN HIGIENE BUCODENTAL,Técnicos superiores en higiene bucodental,E; F; G; J; M,424
 3322,TÉCNICOS SUPERIORES EN DOCUMENTACIÓN SANITARIA,Técnicos superiores en documentación sanitaria,G; J,426
 3323,TÉCNICOS SUPERIORES EN DIETÉTICA,Técnicos superiores en dietética y nutrición,G; J,428
@@ -498,7 +498,7 @@ Peritos judiciales",F; G; J; L,452
 Comerciales, ventas",F; G; J; L,454
 3521,MEDIADORES Y AGENTES DE SEGUROS,"Agentes de seguros Aseguradores Comerciales de seguros Corredores de seguros
 Mediadores de seguros",F; G; J; L,456
-|CÓD.,DESCRIPCIÓN,OCUPACIONES INCLUIDAS,GPR,PAG
+| CÓD.,DESCRIPCIÓN,OCUPACIONES INCLUIDAS,GPR,PAG
 3522,AGENTES DE COMPRAS,"Jefes de compras Agentes de compras
 Técnicos en comercio exterior
 Técnicos en gestión de existencias y/o almacén",F; G; J; L,458
@@ -531,7 +531,7 @@ Profesionales de apoyo, expedición de pasaportes, Administraciones Públicas",F
 3629,OTROS PROFESIONALES DE APOYO DE LA ADMINISTRACIÓN PÚBLICA PARA TAREAS DE INSPECCIÓN Y CONTROL Y TAREAS SIMILARES,Inspectores de precios,F; G; J; L,488
 3631,"TÉCNICOS DE LA POLICÍA NACIONAL, AUTONÓMICA Y LOCAL","Inspectores de policía Subinspectores de policía
 Técnicos especialistas, policía",F; G; H; I; J; L,490
-|CÓD.,DESCRIPCIÓN,OCUPACIONES INCLUIDAS,GPR,PAG
+| CÓD.,DESCRIPCIÓN,OCUPACIONES INCLUIDAS,GPR,PAG
 3632,SUBOFICIALES DE LA GUARDIA CIVIL,Suboficiales de la guardia civil,F; G; H; I; J; L,492
 3711,PROFESIONALES DE APOYO DE SERVICIOS JURÍDICOS Y SERVICIOS SIMILARES,"Oficiales, notaría Auxiliares de justicia Oficiales, justicia Pasantes, abogado
 Jueces de paz",F; G; I; J; L,494
@@ -558,7 +558,7 @@ Guías de actividades de aventura",A; D; F; G; I; L,512
 Fotógrafos científicos",F; G; J,514
 3732,DISEÑADORES Y DECORADORES DE INTERIOR,"Decoradores de escaparates Decoradores de interiores Escenógrafos Escaparatistas
 Expertos en ordenación de los puntos de venta",E; F; G; J; M,516
-|CÓD.,DESCRIPCIÓN,OCUPACIONES INCLUIDAS,GPR,PAG
+| CÓD.,DESCRIPCIÓN,OCUPACIONES INCLUIDAS,GPR,PAG
 3733,"TÉCNICOS EN GALERÍAS DE ARTE, MUSEOS Y BIBLIOTECAS","Técnicos en galerías de arte Técnicos en bibliotecas Técnicos en museos
 Taxidermistas",G; J,518
 3734,CHEFS,"Chefs
@@ -592,7 +592,7 @@ Técnicos en radiodifusión",E; G; I; J; L,536
 4111,EMPLEADOS DE CONTABILIDAD,"Administrativos contables
 Empleados del cálculo de costes",G; J,541
 4112,EMPLEADOS DE CONTROL DE PERSONAL Y NÓMINAS,Empleados administrativos de salarios y nóminas,G; J,543
-|CÓD.,DESCRIPCIÓN,OCUPACIONES INCLUIDAS,GPR,PAG
+| CÓD.,DESCRIPCIÓN,OCUPACIONES INCLUIDAS,GPR,PAG
 4113,"EMPLEADOS DE OFICINA DE SERVICIOS ESTADÍSTICOS, FINANCIEROS Y BANCARIOS","Empleados administrativos de estadística Empleados administrativos de entidades financieras Empleados de gestión financiera de empresas
 Empleados administrativos de seguros",G; J,545
 4121,EMPLEADOS DE CONTROL DE ABASTECIMIENTOS E INVENTARIO,"Almaceneros de empresas de transportes Almaceneros de industrias
@@ -626,7 +626,7 @@ Empleados de información de busques de pasaje
 Locutores de información en estaciones de tren",F; G; H; I; L,567
 4421,EMPLEADOS DE AGENCIAS DE VIAJES,"Técnicos de ventas en agencias de viajes Técnicos de productos en agencias de viajes Empleados de agencias de viajes
 Empleados de viajes de compañía aérea",F; G; H; I; J; L,569
-|CÓD.,DESCRIPCIÓN,OCUPACIONES INCLUIDAS,GPR,PAG
+| CÓD.,DESCRIPCIÓN,OCUPACIONES INCLUIDAS,GPR,PAG
 4422,RECEPCIONISTAS DE HOTELES,"Recepcionistas de hotel
 Conserjes-recepcionistas de hotel",F; G; H; I; L,571
 4423,TELEFONISTAS,"Telefonistas
@@ -657,7 +657,7 @@ Pizzero, restaurante",B; C; G; H; K; M,596
 Sumilleres",B; C; F; I; J; K; L; M,598
 5210,JEFES DE SECCIÓN DE TIENDAS Y ALMACENES,"Encargados de sección de centro comercial Empleados encargado de tienda
 Jefes de tiendas de gran superficie",F; G; I; J; L,600
-|CÓD.,DESCRIPCIÓN,OCUPACIONES INCLUIDAS,GPR,PAG
+| CÓD.,DESCRIPCIÓN,OCUPACIONES INCLUIDAS,GPR,PAG
 5220,VENDEDORES EN TIENDAS Y ALMACENES,"Dependientes empleados de comercio
 Dependientes de establecimientos de comercio al por mayor
 Dependientes en puestos de mercado (permanente) municipal
@@ -692,7 +692,7 @@ Ayudantes de ambulancia",H; I; J; L; M,630
 Ayudantes de dentista",F; I; J; M,632
 5710,TRABAJADORES DE LOS CUIDADOS PERSONALES A DOMICILIO,"Cuidadores de personas mayores a domicilio Cuidadores de enfermos a domicilio Auxiliares de enfermería en el hogar
 Auxiliares de ayuda a personas dependientes a domicilio",B; C; D; F; G; I; L; M,634
-|CÓD.,DESCRIPCIÓN,OCUPACIONES INCLUIDAS,GPR,PAG
+| CÓD.,DESCRIPCIÓN,OCUPACIONES INCLUIDAS,GPR,PAG
 5721,CUIDADORES DE NIÑOS EN GUARDERÍAS Y CENTROS EDUCATIVOS,"Cuidadores de guardería infantil Auxiliares de jardín de infancia
 Auxiliares de educación infantil (primer ciclo) Auxiliares de puericultura
 Vigilantes de comedor escolar
@@ -722,7 +722,7 @@ Gambuceros (empleados de despensa de barco)",F; G; J; L,654
 Porteros de comunidad de vecinos Bedeles
 Cuidadores encargados de edificios
 Sacristanes",L,658
-|CÓD.,DESCRIPCIÓN,OCUPACIONES INCLUIDAS,GPR,PAG
+| CÓD.,DESCRIPCIÓN,OCUPACIONES INCLUIDAS,GPR,PAG
 5840,TRABAJADORES PROPIETARIOS DE PEQUEÑOS ALOJAMIENTOS,"Trabajadores propietarios de pequeños alojamientos
 Propietarios de pensiones (sin trabajadores o muy pocos)
 Propietarios de casas de turismo rural (sin trabajadores o muy pocos)",C; F; G; I; J; L,660
@@ -763,7 +763,7 @@ Socorristas de playa",A; C; D; F; G; H; I; J; L; M,692
 Guardas de cotos de caza y pesca Guardas de riego
 Vigilantes de incendios forestales (excepto vigilantes-
 bomberos)",A; C; D; F; G; H; I; J; M,694
-|CÓD.,DESCRIPCIÓN,OCUPACIONES INCLUIDAS,GPR,PAG
+| CÓD.,DESCRIPCIÓN,OCUPACIONES INCLUIDAS,GPR,PAG
 5999,TRABAJADORES DE LOS SERVICIOS DE PROTECCIÓN Y SEGURIDAD NO CLASIFICADOS BAJO OTROS EPÍGRAFES,"Celadores guardamuelles
 Vigilantes de aparcamientos",J; L,696
 6110,"TRABAJADORES CUALIFICADOS EN ACTIVIDADES AGRÍCOLAS (EXCEPTO EN HUERTAS, INVERNADEROS, VIVEROS Y JARDINES)","Cultivadores de cereales y leguminosas Productores de cultivos industriales Fruticultores
@@ -791,7 +791,7 @@ Criadores de animales para zoo",A; B; C; D; G; M,713
 Agricultores de producciones mixtas (vegetal y animal)",A; B; C; D; G; M,715
 6410,TRABAJADORES CUALIFICADOS EN ACTIVIDADES FORESTALES Y DEL MEDIO NATURAL,"Trabajadores cualificados forestales Encargados-capataces forestales Extractores de corcho
 Carboneros (de carbón vegetal)",A; B; C; D; G; J; M,717
-|CÓD.,DESCRIPCIÓN,OCUPACIONES INCLUIDAS,GPR,PAG
+| CÓD.,DESCRIPCIÓN,OCUPACIONES INCLUIDAS,GPR,PAG
 6421,TRABAJADORES CUALIFICADOS EN LA ACUICULTURA,"Acuicultores
 Cultivadores de moluscos
 Trabajadores cualificados en piscifactorías Trabajadores cualificados en granjas marinas Encargados en piscifactorías
@@ -823,7 +823,7 @@ Operarios de construcción trabajos a gran altura
 Colocadores de prefabricados ligeros (pladur)",A; B; C; D; J; M,746
 7211,ESCAYOLISTAS,"Modelistas de escayola de la construcción
 Escayolistas decoradores",A; B; C; D; J; M,748
-|CÓD.,DESCRIPCIÓN,OCUPACIONES INCLUIDAS,GPR,PAG
+| CÓD.,DESCRIPCIÓN,OCUPACIONES INCLUIDAS,GPR,PAG
 7212,APLICADORES DE REVESTIMIENTOS DE PASTA Y MORTERO,"Revocadores Yesistas enlucidores
 Estuquistas decoradores
 Enfoscadores",A; B; C; D; J; M,750
@@ -857,7 +857,7 @@ Instaladores de lunas y cristales en vehículos",A; B; C; D; E; J; M,770
 Reparadores- mantenedores de instalaciones",A; B; C; D; J; M,772
 7295,PERSONAL DE LIMPIEZA DE FACHADAS DE EDIFICIOS Y CHIMENEAS,"Deshollinadores Limpiadores de fachadas
 Limpiadores de fachadas con chorro de arena",A; B; C; D; J; M,774
-|CÓD.,DESCRIPCIÓN,OCUPACIONES INCLUIDAS,GPR,PAG
+| CÓD.,DESCRIPCIÓN,OCUPACIONES INCLUIDAS,GPR,PAG
 7311,MOLDEADORES Y MACHEROS,"Moldeadores sobre banco, fundición de metales Moldeadores en suelo y fosas
 Macheros a mano.",A; B; C; D; G; M,776
 7312,SOLDADORES Y OXICORTADORES,"Cobresoldadores Oxicortadores, a mano Soldadores, por arco eléctrico
@@ -884,7 +884,7 @@ Afiladores de cuchillería",B; C; E; G; J; M,792
 Mecánicos de motores diesel (transporte por carretera)
 Ajustadores de motores (vehículos de motor) Mecánicos de motocicletas
 Mecánicos reparadores de vehículos de motor",A; B; C; D; E; G; J; M,794
-|CÓD.,DESCRIPCIÓN,OCUPACIONES INCLUIDAS,GPR,PAG
+| CÓD.,DESCRIPCIÓN,OCUPACIONES INCLUIDAS,GPR,PAG
 7402,MECÁNICOS Y AJUSTADORES DE MOTORES DE AVIÓN,"Mecánicos de motores de avión Técnicos de mantenimiento de aviones
 Supervisores de  mantenimiento de aviones Mecánicos de aviación
 Mecánicos de helicópteros Mecánicos de motores a reacción
@@ -916,7 +916,7 @@ electromedicina",A; B; C; E; G; J; M,812
 Cableadores de datos y telecomunicaciones Montadores de equipos informáticos
 Técnicos reparadores de equipos de telecomunicaciones
 Instaladores de telefonía",A; B; C; E; G; J; M,814
-|CÓD.,DESCRIPCIÓN,OCUPACIONES INCLUIDAS,GPR,PAG
+| CÓD.,DESCRIPCIÓN,OCUPACIONES INCLUIDAS,GPR,PAG
 7611,RELOJEROS Y MECÁNICOS DE INSTRUMENTOS DE PRECISIÓN,"Mecánicos de instrumentos de meteorología Constructores de instrumentos quirúrgicos
 Constructores de relojes",C; E; G; J; M,816
 7612,LUTIERES Y SIMILARES; AFINADORES DE INSTRUMENTOS MUSICALES,"Fabricantes de instrumentos musicales (de metal) Fabricantes de instrumentos musicales (de cuerda) Fabricantes de instrumentos musicales (de madera)
@@ -943,7 +943,7 @@ Artesanos de juguetes de metal",C; E; G; J; M,832
 Troqueladores, artes gráficas Técnicos en preimpresión Montadores de pantallas de serigrafía
 Confeccionadores de planchas de impresión Confeccionadores de pantallas de serigrafía
 Linotipistas",A; B; C; D; E; G; H; J; M,834
-|CÓD.,DESCRIPCIÓN,OCUPACIONES INCLUIDAS,GPR,PAG
+| CÓD.,DESCRIPCIÓN,OCUPACIONES INCLUIDAS,GPR,PAG
 7622,TRABAJADORES DE PROCESOS DE IMPRESIÓN,"Impresores a la plancha
 Operadores de máquinas de impresión digital Operadores de alimentación (impresión) Operadores de prensas de flexografía Operadores de prensas de fotograbado",A; B; C; D; E; G; H; J; M,836
 7623,TRABAJADORES DE PROCESOS DE ENCUADERNACIÓN,"Encuadernadores Operadores de guillotinas
@@ -973,7 +973,7 @@ Operarios en la elaboración de vinos",C,852
 Operarios de fabricación de cigarrillos Clasificadores de hojas de tabaco Mezcladores de tabaco",C; M,854
 7709,CATADORES Y CLASIFICADORES DE ALIMENTOS Y BEBIDAS,"Clasificadores de alimentos Degustadores de alimentos Catadores de licores Catadores de té
 Catadores de vinos",E; G; K,856
-|CÓD.,DESCRIPCIÓN,OCUPACIONES INCLUIDAS,GPR,PAG
+| CÓD.,DESCRIPCIÓN,OCUPACIONES INCLUIDAS,GPR,PAG
 7811,TRABAJADORES DEL TRATAMIENTO DE LA MADERA,"Operadores de estufas y hornos para secado de madera
 Operadores de secadora Secadores de madera Impregnadores de madera
 Trabajadores del tratamiento de la madera y corcho
@@ -1009,7 +1009,7 @@ Grumetes encargados de la pólvora
 Dinamiteros",A; B; C; D; E; G; H; J,880
 7893,"CLASIFICADORES Y PROBADORES DE PRODUCTOS (EXCEPTO ALIMENTOS, BEBIDAS Y TABACO)","Clasificadores de productos
 Clasificadores de lanas",G,882
-|CÓD.,DESCRIPCIÓN,OCUPACIONES INCLUIDAS,GPR,PAG
+| CÓD.,DESCRIPCIÓN,OCUPACIONES INCLUIDAS,GPR,PAG
 7894,FUMIGADORES Y OTROS CONTROLADORES DE PLAGAS Y MALAS HIERBAS,"Fumigadores Controladores de plagas
 Controladores de malas hierbas",A; B; C; J,884
 7899,"OFICIALES, OPERARIOS Y ARTESANOS DE OTROS OFICIOS NO CLASIFICADOS BAJO OTROS EPÍGRAFES","Arregladores de flores Pulidores de objetivos ópticos
@@ -1037,7 +1037,7 @@ Operadores de maquinas pulidoras de piedras",A; B; C; G; H; J; M,895
 Operadores de coquización",A; B; C; H; J; M,897
 8122,"OPERADORES DE MÁQUINAS PULIDORAS, GALVANIZADORAS Y RECUBRIDORAS DE METALES","Operadores de máquina, galvanoplastia
 Operadores de máquina, pulidora/metalurgia Operadores de máquina, recubridora/alambre",A; B; C; E; H; J; M,899
-|CÓD.,DESCRIPCIÓN,OCUPACIONES INCLUIDAS,GPR,PAG
+| CÓD.,DESCRIPCIÓN,OCUPACIONES INCLUIDAS,GPR,PAG
 8131,OPERADORES EN PLANTAS INDUSTRIALES QUÍMICAS,"Operadores de planta química
 Operadores de instalaciones de tratamiento químico térmico de productos
 Operadores de reactor, procesos químicos
@@ -1071,7 +1071,7 @@ Operadores de máquinas para preparar moldes de resina",C; G; J; M,909
 Operadores de máquinas para fabricar manteles, toallitas y compresas
 Operadores de máquinas cortadora/plegadora de papel y cartón
 Operadores de máquina troqueladoras de papel, cartón y materiales afines",C; G; J; M,911
-|CÓD.,DESCRIPCIÓN,OCUPACIONES INCLUIDAS,GPR,PAG
+| CÓD.,DESCRIPCIÓN,OCUPACIONES INCLUIDAS,GPR,PAG
 8144,"OPERADORES DE SERRERÍAS, DE MÁQUINAS DE FABRICACIÓN DE TABLEROS Y DE INSTALACIONES AFINES PARA EL TRATAMIENTO DE LA MADERA Y EL CORCHO","Operadores de máquinas tronzadoras de madera Operadores de máquinas descortezadoras de madera
 Operadores de sierras circulares (madera) Operadores de fabricación de laminados de madera
 Operadores de máquinas de fabricación de aglomerados
@@ -1104,7 +1104,7 @@ Operadores de máquinas de tintura de hilados y fibras",B; C; D; G; J; M,923
 8155,OPERADORES DE MÁQUINAS PARA TRATAR PIELES Y CUERO,"Operadores de máquinas de curtido de pieles y cueros
 Operadores de máquinas cortadoras (preparación de pieles y cueros)
 Operadores de máquinas de planchado y grabado de curtidos",B; C; D; G; J; M,925
-|CÓD.,DESCRIPCIÓN,OCUPACIONES INCLUIDAS,GPR,PAG
+| CÓD.,DESCRIPCIÓN,OCUPACIONES INCLUIDAS,GPR,PAG
 8156,"OPERADORES DE MÁQUINAS PARA LA FABRICACIÓN DEL CALZADO, MARROQUINERÍA Y GUANTERÍA DE PIEL","Operadores de máquinas cortadora de piezas de calzado
 Operadores de máquinas de cosido y aparado de calzado
 Operadores de máquinas de acabado de calzado
@@ -1132,7 +1132,7 @@ Fogoneros",C; G; J; M,937
 Operadores de máquinas envasadoras de azúcar Operadores de máquinas embotelladoras de bebidas
 Embaladores envasadores de medicinas Operadores de máquinas empaquetadoras Operadores de máquinas etiquetadoras
 Operadores de máquinas enlatadoras de conservas",C; G; H; J; M,939
-|CÓD.,DESCRIPCIÓN,OCUPACIONES INCLUIDAS,GPR,PAG
+| CÓD.,DESCRIPCIÓN,OCUPACIONES INCLUIDAS,GPR,PAG
 8199,OPERADORES DE INSTALACIONES Y MAQUINARIA FIJAS NO CLASIFICADOS BAJO OTROS EPÍGRAFES,"Operadores de máquina de fabricación de chips de silicio
 Operadores de máquina empalmadora de cables y cuerdas",G; J; M,941
 8201,ENSAMBLADORES DE MAQUINARIA MECÁNICA,"Montadores de motores Mecánicos de banco (camiones) Montadores de vehículos Instaladores de motores
@@ -1154,7 +1154,7 @@ Tractoristas",B; C; G; H; I; J; M,953
 Conductores de transporte de maderas Operadores de máquina taladora de árboles",B; C; G; H; I; J; M,955
 8331,OPERADORES DE MAQUINARIA DE MOVIMIENTOS DE TIERRAS Y EQUIPOS SIMILARES,"Operadores de niveladoras Operadores de excavadoras Operadores de explanadoras Operadores de apisonadoras Operadores de quitanieves Operadores de martinetes
 Operadores de asfaltadoras",B; C; G; H; I; J; M,957
-|CÓD.,DESCRIPCIÓN,OCUPACIONES INCLUIDAS,GPR,PAG
+| CÓD.,DESCRIPCIÓN,OCUPACIONES INCLUIDAS,GPR,PAG
 8332,"OPERADORES DE GRÚAS, MONTACARGAS Y DE MAQUINARIA SIMILAR DE MOVIMIENTO DE MATERIALES","Operadores de aparatos elevadores Operadores de grúas móviles Operadores de grúas de torre
 Operadores de teleféricos",C; E; G; H; I; J; M,959
 8333,OPERADORES DE CARRETILLAS ELEVADORAS,"Operadores de carretillas elevadoras Conductores de toro
@@ -1188,7 +1188,7 @@ Limpiadores de autobuses",A; B; C,980
 Lavanderos a mano Planchadores a mano",B; C,982
 9222,LIMPIADORES DE VEHÍCULOS,"Limpiadores de coches
 Lavacoches a mano",A; B; C,984
-|CÓD.,DESCRIPCIÓN,OCUPACIONES INCLUIDAS,GPR,PAG
+| CÓD.,DESCRIPCIÓN,OCUPACIONES INCLUIDAS,GPR,PAG
 9223,LIMPIADORES DE VENTANAS,"Limpiadores de ventanas
 Limpiadores de ventanas a grandes alturas Limpiadores de cristales en edificios",A; B; C; D; J,986
 9229,OTRO PERSONAL DE LIMPIEZA,"Limpiadores de alfombras y moquetas Limpiadores de piscinas
@@ -1220,7 +1220,7 @@ Recogedores selectivos de residuos",A; B; C; D; M,1008
 9443,BARRENDEROS Y AFINES,"Barrenderos de parques Barrenderos de calles Barrenderos de estación de tren Barrenderos de aeropuerto
 Peones limpiadores de la vía pública
 Operarios mantenedores de alcantarillado",A; B; C; D,1010
-|CÓD.,DESCRIPCIÓN,OCUPACIONES INCLUIDAS,GPR,PAG
+| CÓD.,DESCRIPCIÓN,OCUPACIONES INCLUIDAS,GPR,PAG
 9490,OTRAS OCUPACIONES ELEMENTALES,"Revisores de tickets de entrada en espectáculos Empleados guardarropas
 Revisores de parquímetros
 Ayudantes aparcacoches",D,1012
@@ -1248,7 +1248,7 @@ Sepultureros",A; B; C; D; J; M,1028
 Peones de demolición",A; B; C; D; J; M,1030
 9603,"PEONES DE LA MINERÍA, CANTERAS Y OTRAS INDUSTRIAS EXTRACTIVAS","Peones de exterior de minas Peones de canteras
 Peones de salinas",A; B; C; D; J; M,1032
-|CÓD.,DESCRIPCIÓN,OCUPACIONES INCLUIDAS,GPR,PAG
+| CÓD.,DESCRIPCIÓN,OCUPACIONES INCLUIDAS,GPR,PAG
 9700,PEONES DE LAS INDUSTRIAS MANUFACTURERAS,"Peones de la industria Peones industria alimentaria Peones industria metalúrgica Peones industria textil
 Peones de matadero industrial Peones manipuladores de pescado
 Encajadores, envasadores y embotelladores a mano Etiquetadores a mano
