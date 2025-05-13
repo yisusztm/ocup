@@ -1,8 +1,8 @@
-CODIGO,DESCRIPCION,GRUPO,PAG.
+|CODIGO,DESCRIPCION,GRUPO,PAG.
 2511,Abogados,F; G; J; L,249
 2511,Abogados del Estado,F; G; J; L,249
-5899,AcompaÒantes en clubes nocturnos,F; G; I; L,672
-2939,AcrÛbatas,F; G; H; J; M,341
+5899,Acompa√±antes en clubes nocturnos,F; G; I; L,672
+2939,Acr√≥batas,F; G; H; J; M,341
 2935,Actores,F; G; H; J; L; M,335
 2415,Actuarios,F; G; J,173
 6421,Acuicultores,A; B; C; D; G; M,719
@@ -14,99 +14,99 @@ CODIGO,DESCRIPCION,GRUPO,PAG.
 1323,"Administradores de instalaciones
 sanitarias",F; G; J; L,72
 2722,Administradores de redes,F; G; J,297
-2722,Administradores de sistemas inform·ticos,F; G; J,297
+2722,Administradores de sistemas inform√°ticos,F; G; J,297
 3814,Administradores de sitios Web,E; G; J,530
 4111,Administrativos contables,G; J,541
-7122,"Adornistas, piedra o m·rmol",A; B; C; D; J; M,734
-7324,Afiladores de cuchillerÌa,B; C; E; G; J; M,792
+7122,"Adornistas, piedra o m√°rmol",A; B; C; D; J; M,734
+7324,Afiladores de cuchiller√≠a,B; C; E; G; J; M,792
 7324,Afiladores de herramientas,B; C; E; G; J; M,792
 7612,Afinadores de instrumentos musicales,C; E; G; I; J; M,818
 4430,Agentes censales,F; G; I; J; L,577
 3510,Agentes comerciales,F; G; J; L,454
 2640,"Agentes comerciales de ventas que
-precisan conocimientos tÈcnicos",F; G; H; J; L,279
+precisan conocimientos t√©cnicos",F; G; H; J; L,279
 3401,Agentes de cambio y bolsa,F; G; H; J; L,444
 3522,Agentes de compras,F; G; J; L,458
 2824,Agentes de desarrollo local,F; G; J; L,311
-4430,Agentes de encuestas por telÈfono,F; G; I; J; L,577
+4430,Agentes de encuestas por tel√©fono,F; G; I; J; L,577
 2825,Agentes de igualdad de oportunidades para mujeres y hombres,F; G; J; L,313
-5921,Agentes de la PolicÌa Nacional,F; G; H; I; J; L; M,676
+5921,Agentes de la Polic√≠a Nacional,F; G; H; I; J; L; M,676
 2622,Agentes de la propiedad industrial,F; G; J,269
 3534,Agentes de la propiedad inmobiliaria,F; I; J; L,468
-4123,Agentes de logÌstica de transportes,G; J,551
+4123,Agentes de log√≠stica de transportes,G; J,551
 8312,Agentes de maniobras de ferrocarriles,C; G; H; I; J,951
-3533,Agentes de oficinas de colocaciÛn,F; I; J; L,466
-5922,Agentes de policÌa autonÛmico,F; G; H; I; J; L; M,678
-5923,Agentes de policÌa local,F; G; H; I; J; L; M,680
+3533,Agentes de oficinas de colocaci√≥n,F; I; J; L,466
+5922,Agentes de polic√≠a auton√≥mico,F; G; H; I; J; L; M,678
+5923,Agentes de polic√≠a local,F; G; H; I; J; L; M,680
 3521,Agentes de seguros,F; G; J; L,456
 4123,Agentes de tren,G; J,551
 3539,Agentes deportivos,F; I; J; L,472
 3539,Agentes literarios,F; I; J; L,472
-3531,Agentes marÌtimos,F; J; L,462
+3531,Agentes mar√≠timos,F; J; L,462
 5923,Agentes municipales,F; G; H; I; J; L; M,680
-2652,"Agentes publicistas, comunicaciÛn",F; G; J; L,283
+2652,"Agentes publicistas, comunicaci√≥n",F; G; J; L,283
 3539,Agentes teatrales,F; I; J; L,472
-CODIGO,DESCRIPCION,GRUPO,PAG.
+|CODIGO,DESCRIPCION,GRUPO,PAG.
 3621,Agentes tributarios,F; G; I; J; L,482
 6300,"Agricultores de producciones mixtas
 (vegetal y animal)",A; B; C; D; G; M,715
 6110,Agricultores olivareros,A; B; C; D; G; J; M,699
-2422,"AgrÛnomos, horticultura",F; G; J,179
+2422,"Agr√≥nomos, horticultura",F; G; J,179
 7702,"Ahumadores, pescados",A; B; C; D; G; J; M,842
 3721,Ajedrecistas,A; B; C; D; G; H; J; M,506
-7401,"Ajustadores de motores (vehÌculos de
+7401,"Ajustadores de motores (veh√≠culos de
 motor)",A; B; C; D; E; G; J; M,794
 7521,Ajustadores-electricistas de dinamos,A; B; C; D; E; G; J; M,806
-7121,AlbaÒiles,A; B; C; D; J; M,732
+7121,Alba√±iles,A; B; C; D; J; M,732
 1111,Alcaldes,F; G; J; L,36
-0011,AlfÈreces,F; G; H; I; J; L,1043
-0011,AlfÈreces de fragata,F; G; H; I; J; L,1043
+0011,Alf√©reces,F; G; H; I; J; L,1043
+0011,Alf√©reces de fragata,F; G; H; I; J; L,1043
 4121,Almaceneros de empresas de transportes,J,547
 4121,Almaceneros de industrias,J,547
 7705,"Almazareros, artesanal",C; M,848
 0011,Almirantes,F; G; H; I; J; L,1043
-2426,AmbientÛlogos,F; G; J,187
-3314,Analistas clÌnicos,E; G; J,416
+2426,Ambient√≥logos,F; G; J,187
+3314,Analistas cl√≠nicos,E; G; J,416
 2712,Analistas de aplicaciones,F; G; J,289
 2721,Analistas de bases de datos,F; G; J,295
 2719,"Analistas de calidad de sistemas
-inform·ticos",F; G; J,293
-2723,Analistas de comunicaciones inform·ticas,F; G; J,299
+inform√°ticos",F; G; J,293
+2723,Analistas de comunicaciones inform√°ticas,F; G; J,299
 2613,Analistas de inversiones,F; G; J,265
 2426,Analistas de la calidad del agua,F; G; J,187
-2426,Analistas de la contaminaciÛn atmosfÈrica,F; G; J,187
-2621,Analistas de organizaciÛn y mÈtodos,F; G; J,267
+2426,Analistas de la contaminaci√≥n atmosf√©rica,F; G; J,187
+2621,Analistas de organizaci√≥n y m√©todos,F; G; J,267
 2711,Analistas de sistemas,F; G; J,287
 2624,Analistas del mercado laboral,F; G; J; L,273
-2810,Analistas econÛmicos,F; G; J,303
+2810,Analistas econ√≥micos,F; G; J,303
 2613,Analistas expertos en obligaciones,F; G; J,265
 2437,Analistas medioambientales,F; G; J,203
 2712,Analistas programadores,F; G; J,289
 3715,Animadores comunitarios,F; I; L,502
-2484,Animadores de im·genes,E; F; G; J,247
-3715,Animadores geri·tricos,F; I; L,502
+2484,Animadores de im√°genes,E; F; G; J,247
+3715,Animadores geri√°tricos,F; I; L,502
 3724,"Animadores socioculturales,
 entretenimiento",A; D; F; G; I; L,512
-3724,Animadores turÌsticos,A; D; F; G; I; L,512
+3724,Animadores tur√≠sticos,A; D; F; G; I; L,512
 3523,Anotadores portuario,F; J; L,460
-2821,AntropÛlogos,F; G; J,305
+2821,Antrop√≥logos,F; G; J,305
 9420,Aparcacoches callejeros (no conductores),G; L,996
 6204,Apicultores,B; C; G; J; M,709
 3739,Apuntadores,G; I; J; L; M,522
-3722,¡rbitros,A; B; C; D; F; G; H; I; J; L,508
-CODIGO,DESCRIPCION,GRUPO,PAG.
+3722,√Årbitros,A; B; C; D; F; G; H; I; J; L,508
+|CODIGO,DESCRIPCION,GRUPO,PAG.
 2911,Archivistas,F; G; J,317
 7314,Armadores de blindaje de buques,A; B; C; D; G; J; M,782
 7322,Armeros,A; B; C; E; G; J; M,788
-2821,ArqueÛlogos,F; G; J,305
+2821,Arque√≥logos,F; G; J,305
 2451,Arquitectos,E; F; G; J,213
 2451,Arquitectos de interior,E; F; G; J,213
 2452,Arquitectos paisajistas,E; F; G; J,215
-2481,Arquitectos tÈcnicos,E; F; G; J,241
+2481,Arquitectos t√©cnicos,E; F; G; J,241
 7899,Arregladores de flores,C; E; G; J,886
 7618,Artesanos de alfombras,C; E; G; J; M,830
-7617,Artesanos de artÌculos de madera,C; E; G; J; M,828
-7619,Artesanos de artÌculos de piedra,C; E; G; J; M,832
+7617,Artesanos de art√≠culos de madera,C; E; G; J; M,828
+7619,Artesanos de art√≠culos de piedra,C; E; G; J; M,832
 7619,Artesanos de juguetes de metal,C; E; G; J; M,832
 7618,Artesanos del cuero,C; E; G; J; M,830
 7617,Artesanos tejedores de junco,C; E; G; J; M,828
@@ -118,69 +118,69 @@ CODIGO,DESCRIPCION,GRUPO,PAG.
 telecomunicaciones",F; G; H; J; L,285
 2611,Asesores contables,F; G; J,261
 2326,"Asesores de centros y programas de
-educaciÛn ambiental",F; G; J; L,161
+educaci√≥n ambiental",F; G; J; L,161
 2622,Asesores de empresas,F; G; J,269
-2613,Asesores de inversiones en tÌtulos valores,F; G; J,265
-2810,Asesores econÛmicos,F; G; J,303
+2613,Asesores de inversiones en t√≠tulos valores,F; G; J,265
+2810,Asesores econ√≥micos,F; G; J,303
 2612,Asesores en inversiones,F; G; J,263
-2599,Asesores jurÌdicos,F; G; J; L,259
-3125,"Asesores tÈcnicos de sistemas de
+2599,Asesores jur√≠dicos,F; G; J; L,259
+3125,"Asesores t√©cnicos de sistemas de
 electromedicina",E; G; H; J,354
-5823,"Asistentes acompaÒantes de grupo
-turÌstico",F; I; J; L,648
+5823,"Asistentes acompa√±antes de grupo
+tur√≠stico",F; I; J; L,648
 3613,Asistentes de correspondencia,F; G; I; J; L,478
-3613,Asistentes de direcciÛn,F; G; I; J; L,478
-3739,Asistentes de direcciÛn (radiodifusiÛn),G; I; J; L; M,522
-9100,Asistentes del servicio domÈsticos,B; C,978
-3612,Asistentes jurÌdico-legales,F; G; I; J; L,476
+3613,Asistentes de direcci√≥n,F; G; I; J; L,478
+3739,Asistentes de direcci√≥n (radiodifusi√≥n),G; I; J; L; M,522
+9100,Asistentes del servicio dom√©sticos,B; C,978
+3612,Asistentes jur√≠dico-legales,F; G; I; J; L,476
 3613,Asistentes personales,F; G; I; J; L,478
-5891,Asistentes personales (compaÒÌa),F; I; L,662
+5891,Asistentes personales (compa√±√≠a),F; I; L,662
 2824,Asistentes sociales,F; G; J; L,311
-5895,AstrÛlogos,F; G; I; L,670
-2411,AstrÛnomos,F; G; J,165
+5895,Astr√≥logos,F; G; I; L,670
+2411,Astr√≥nomos,F; G; J,165
 3721,Atletas,A; B; C; D; G; H; J; M,506
-3739,Atrecistas (radiodifusiÛn),G; I; J; L; M,522
+3739,Atrecistas (radiodifusi√≥n),G; I; J; L; M,522
 2611,Auditores,F; G; J,261
-2719,Auditores asesores inform·ticos,F; G; J,293
+2719,Auditores asesores inform√°ticos,F; G; J,293
 2426,Auditores medioambientales,F; G; J,187
 3404,Auxiliares actuariales,G; J; L,450
 5824,Auxiliares congresos y exposiciones,F; H; I; J; L,650
-CODIGO,DESCRIPCION,GRUPO,PAG.
+|CODIGO,DESCRIPCION,GRUPO,PAG.
 4210,Auxiliares de archivo,J,553
 5710,"Auxiliares de ayuda a personas
 dependientes a domicilio",B; C; D; F; G; I; L; M,634
 4210,Auxiliares de biblioteca,J,553
-5721,"Auxiliares de educaciÛn infantil (primer
+5721,"Auxiliares de educaci√≥n infantil (primer
 ciclo)",B; C; D; G; I; J; L; M,636
-5612,"Auxiliares de enfermerÌa de centros de
-atenciÛn primaria",F; I; J; L; M,626
-5612,"Auxiliares de enfermerÌa de consultorios
-mÈdicos",F; I; J; L; M,626
-5611,Auxiliares de enfermerÌa de geriatrÌa,B; C; D; F; H; I; J; L; M,624
-5611,"Auxiliares de enfermerÌa de salud mental y
-toxicomanÌas",B; C; D; F; H; I; J; L; M,624
-5710,Auxiliares de enfermerÌa en el hogar,B; C; D; F; G; I; L; M,634
-5721,Auxiliares de jardÌn de infancia,B; C; D; G; I; J; L; M,636
+5612,"Auxiliares de enfermer√≠a de centros de
+atenci√≥n primaria",F; I; J; L; M,626
+5612,"Auxiliares de enfermer√≠a de consultorios
+m√©dicos",F; I; J; L; M,626
+5611,Auxiliares de enfermer√≠a de geriatr√≠a,B; C; D; F; H; I; J; L; M,624
+5611,"Auxiliares de enfermer√≠a de salud mental y
+toxicoman√≠as",B; C; D; F; H; I; J; L; M,624
+5710,Auxiliares de enfermer√≠a en el hogar,B; C; D; F; G; I; L; M,634
+5721,Auxiliares de jard√≠n de infancia,B; C; D; G; I; J; L; M,636
 3711,Auxiliares de justicia,F; G; I; J; L,494
 5721,Auxiliares de puericultura,B; C; D; G; I; J; L; M,636
-5611,Auxiliares de quirÛfano,B; C; D; F; H; I; J; L; M,624
+5611,Auxiliares de quir√≥fano,B; C; D; F; H; I; J; L; M,624
 5824,"Auxiliares de tierra, en general",F; H; I; J; L,650
 5821,Auxiliares de vuelo,D; F; G; I; J; L; M,644
 6205,Avicultores,A; B; C; D; G; M,711
 9490,Ayudantes aparcacoches,D,1012
 5622,Ayudantes de ambulancia,H; I; J; L; M,630
-5891,Ayudantes de c·mara,F; I; L,662
+5891,Ayudantes de c√°mara,F; I; L,662
 9310,Ayudantes de cocina,C; M,990
 3403,Ayudantes de contabilidad,G; J,448
 5629,Ayudantes de dentista,F; I; J; M,632
 5621,Ayudantes de farmacia,F; I; J; L,628
-9310,Ayudantes de reposterÌa,C; M,990
+9310,Ayudantes de reposter√≠a,C; M,990
 3327,Ayudantes de veterinarios,J; M,436
-4412,Azafatos de informaciÛn,F; G; H; I; L,567
-2421,BacteriÛlogos,E; F; G; J,177
+4412,Azafatos de informaci√≥n,F; G; H; I; L,567
+2421,Bacteri√≥logos,E; F; G; J,177
 2933,Bailarines callejeros,A; B; C; D; F; G; H; J; M,331
 2933,Bailarines de ballet,A; B; C; D; F; G; H; J; M,331
-2933,Bailarines de espect·culos,A; B; C; D; F; G; H; J; M,331
+2933,Bailarines de espect√°culos,A; B; C; D; F; G; H; J; M,331
 2937,Banderilleros,A; B; C; D; E; G; H; J; M,339
 5811,Barberos,B; C; F; H; J; M,640
 7232,"Barnizadores de productos
@@ -189,20 +189,20 @@ manufacturados",A; B; C; D; J; M,760
 manufacturados",A; B; C; D; J; M,758
 9443,Barrenderos de aeropuerto,A; B; C; D,1010
 9443,Barrenderos de calles,A; B; C; D,1010
-9443,Barrenderos de estaciÛn de tren,A; B; C; D,1010
+9443,Barrenderos de estaci√≥n de tren,A; B; C; D,1010
 9443,Barrenderos de parques,A; B; C; D,1010
 9441,Basureros,A; B; C; D; M,1006
 5833,Bedeles,L,658
-2912,BibliÛgrafos,F; G; J,319
+2912,Bibli√≥grafos,F; G; J,319
 2912,Bibliotecarios,F; G; J,319
-2421,BiÛlogos marinos,E; F; G; J,177
-2421,BiÛlogos moleculares,E; F; G; J,177
-CODIGO,DESCRIPCION,GRUPO,PAG.
-2421,BiotecnÛlogos,E; F; G; J,177
+2421,Bi√≥logos marinos,E; F; G; J,177
+2421,Bi√≥logos moleculares,E; F; G; J,177
+|CODIGO,DESCRIPCION,GRUPO,PAG.
+2421,Biotecn√≥logos,E; F; G; J,177
 7615,Biseladores de cristales,C; E; G; H; J; M,824
 7521,Bobinadores,A; B; C; D; E; G; J; M,806
 7706,Bodegueros de cerveza,C,850
-7707,Bodegueros vinÌcolas,C,852
+7707,Bodegueros vin√≠colas,C,852
 5931,Bomberos (excepto forestales),A; B; C; D; F; G; H; I; J; L; M,682
 5931,Bomberos de aeropuerto,A; B; C; D; F; G; H; I; J; L; M,682
 5932,Bomberos forestales,A; B; C; D; F; G; H; I; J; L; M,684
@@ -210,12 +210,12 @@ CODIGO,DESCRIPCION,GRUPO,PAG.
 forestales)",A; B; C; D; F; G; H; I; J; L; M,682
 2830,Bonzos,F; G; J; L,315
 7834,Bordadores,C; E; G; J; M,870
-2421,Bot·nicos,E; F; G; J,177
+2421,Bot√°nicos,E; F; G; J,177
 9431,Botones,L,998
 3721,Boxeadores,A; B; C; D; G; H; J; M,506
 0012,Brigadas,F; G; H; I; J; L,1045
 3339,Brujos,F; G; L; M,442
-7324,BruÒidores de metales,B; C; E; G; J; M,792
+7324,Bru√±idores de metales,B; C; E; G; J; M,792
 9420,Buzoneadores,G; L,996
 7891,Buzos,A; B; C; D; G; H; I; J; L; M,878
 7533,"Cableadores de datos y
@@ -234,31 +234,31 @@ telecomunicaciones",A; B; C; E; G; J; M,814
 5120,Camareros de mesa,B; C; F; I; J; K; L; M,598
 5821,Camareros de tren,D; F; G; I; J; L; M,644
 5000,"Camareros propietarios de bares y
-cafeterÌas",B; C; F; G; H; I; J; K; L; M,594
+cafeter√≠as",B; C; F; G; H; I; J; K; L; M,594
 2932,Cantantes,E; F; G; I; J; L; M,329
-7122,Canteros de la construcciÛn,A; B; C; D; J; M,734
-3142,Capataces agrÌcolas,C; E; G; J,378
+7122,Canteros de la construcci√≥n,A; B; C; D; J; M,734
+3142,Capataces agr√≠colas,C; E; G; J,378
 0011,Capitanes,F; G; H; I; J; L,1043
 3152,Capitanes de barcos,E; F; G; I; J; L; M,384
-0011,Capitanes de navÌo,F; G; H; I; J; L,1043
+0011,Capitanes de nav√≠o,F; G; H; I; J; L,1043
 0011,Capitanes generales,F; G; H; I; J; L,1043
-6410,Carboneros (de carbÛn vegetal),A; B; C; D; G; J; M,717
+6410,Carboneros (de carb√≥n vegetal),A; B; C; D; G; J; M,717
 7701,Carniceros,A; B; C; D; G; J; M,840
 5220,"Carniceros, pescaderos, charcuteros",C; F; I; J; L,602
 7131,Carpinteros de armar,A; B; C; D; J; M,736
 7131,Carpinteros de astilleros,A; B; C; D; J; M,736
-7131,Carpinteros de la construcciÛn,A; B; C; D; J; M,736
-CODIGO,DESCRIPCION,GRUPO,PAG.
+7131,Carpinteros de la construcci√≥n,A; B; C; D; J; M,736
+|CODIGO,DESCRIPCION,GRUPO,PAG.
 7131,Carpinteros de obra,A; B; C; D; J; M,736
-7132,Carpinteros met·licos,A; B; C; D; J; M,738
+7132,Carpinteros met√°licos,A; B; C; D; J; M,738
 7820,Carreteros,A; B; C; D; G; J; M,862
 8333,Carretillero almacenero,E; G; H; I; J; M,961
 4221,Carteros,C; F; H; J,555
-2454,CartÛgrafos,F; G; J,219
+2454,Cart√≥grafos,F; G; J,219
 7709,Catadores de licores,E; G; K,856
-7709,Catadores de tÈ,E; G; K,856
+7709,Catadores de t√©,E; G; K,856
 7709,Catadores de vinos,E; G; K,856
-2210,Catedr·ticos,F; G; J; L,135
+2210,Catedr√°ticos,F; G; J; L,135
 6430,Cazadores,A; B; C; D; G; J; M,725
 5629,Celadores de hospital,F; I; J; M,632
 5999,Celadores guardamuelles,J; L,696
@@ -267,18 +267,18 @@ CODIGO,DESCRIPCION,GRUPO,PAG.
 7322,Cerrajeros,A; B; C; E; G; J; M,788
 7617,Cesteros,C; E; G; J; M,828
 7701,Chacineros-charcuteros,A; B; C; D; G; J; M,840
-7313,"Chapista, automÛviles.",A; B; C; D; E; G; J; M,780
+7313,"Chapista, autom√≥viles.",A; B; C; D; E; G; J; M,780
 7313,"Chapista, aviones.",A; B; C; D; E; G; J; M,780
 3734,Chefs,F; G; H; J; K; M,520
 3734,Chefs ejecutivos,F; G; H; J; K; M,520
 3734,Chefs pasteleros,F; G; H; J; K; M,520
 3734,Chefs salseros,F; G; H; J; K; M,520
 7703,Chocolateros,B; C; G; K; M,844
-8412,ChÛferes particulares asalariados,B; G; H; I; J; L; M,967
-8411,ChÛferes particulares con coche propio,B; G; H; I; J; L; M,965
+8412,Ch√≥feres particulares asalariados,B; G; H; I; J; L; M,967
+8411,Ch√≥feres particulares con coche propio,B; G; H; I; J; L; M,965
 9320,Churreros,C; K; M,992
-2426,CientÌficos de conservaciÛn,F; G; J,187
-2426,CientÌficos medioambientales,F; G; J,187
+2426,Cient√≠ficos de conservaci√≥n,F; G; J,187
+2426,Cient√≠ficos medioambientales,F; G; J,187
 7708,Cigarreros,C; M,854
 2112,Cirujanos,E; F; G; H; J; L; M,105
 7709,Clasificadores de alimentos,E; G; K,856
@@ -289,8 +289,8 @@ CODIGO,DESCRIPCION,GRUPO,PAG.
 7893,Clasificadores de productos,G,882
 4221,"Clasificadores-repartidores de
 correspondencia",C; F; H; J,555
-2412,ClimatÛlogos,F; G; J,167
-2413,ClimatÛlogos,F; G; J,169
+2412,Climat√≥logos,F; G; J,167
+2413,Climat√≥logos,F; G; J,169
 5500,Cobradores de aparcamientos,F; H; J,622
 4445,Cobradores de deudas a morosos,F; G; I; J; L,587
 4445,Cobradores de donativos,F; G; I; J; L,587
@@ -298,13 +298,13 @@ correspondencia",C; F; H; J,555
 4445,Cobradores de recibos,F; G; I; J; L,587
 7312,Cobresoldadores,A; B; C; D; G; H; J; M,778
 7706,"Cocedores de malta, cerveza",C,850
-CODIGO,DESCRIPCION,GRUPO,PAG.
+|CODIGO,DESCRIPCION,GRUPO,PAG.
 9812,"Cocheros, coche a caballo",I; J,1038
 5110,Cocineros (no propietarios),B; C; G; H; K; M,596
 5110,Cocineros de comedor de empresa,B; C; G; H; K; M,596
 5110,Cocineros en restaurantes,B; C; G; H; K; M,596
 5000,Cocineros propietarios de restaurantes,B; C; F; G; H; I; J; K; L; M,594
-9320,"Cocineros-preparadores de hamburguesas, s·ndwiches y bocadillos",C; K; M,992
+9320,"Cocineros-preparadores de hamburguesas, s√°ndwiches y bocadillos",C; K; M,992
 4222,Codificadores de datos,J,557
 7835,Colchoneros,C; E; G; J; M,872
 7293,Colocadores de cristales,A; B; C; D; E; J; M,770
@@ -314,118 +314,118 @@ CODIGO,DESCRIPCION,GRUPO,PAG.
 0011,Comandantes,F; G; H; I; J; L,1043
 3521,Comerciales de seguros,F; G; J; L,456
 3510,"Comerciales, ventas",F; G; J; L,454
-2939,CÛmicos,F; G; H; J; M,341
+2939,C√≥micos,F; G; H; J; M,341
 3531,Comisionistas de aduanas,F; J; L,462
 2932,Compositores,E; F; G; I; J; L; M,329
 1111,Concejales,F; G; J; L,36
-8432,"Conductores asalariados de camiÛn
+8432,"Conductores asalariados de cami√≥n
 cisterna",B; G; H; I; J; M,973
-8432,"Conductores asalariados de camiÛn de
+8432,"Conductores asalariados de cami√≥n de
 gran tonelaje",B; G; H; I; J; M,973
-8432,"Conductores asalariados de camiÛn de
-mercancÌas peligrosas",B; G; H; I; J; M,973
-8432,"Conductores asalariados de camiÛn TIR
+8432,"Conductores asalariados de cami√≥n de
+mercanc√≠as peligrosas",B; G; H; I; J; M,973
+8432,"Conductores asalariados de cami√≥n TIR
 (transporte internacional)",B; G; H; I; J; M,973
 8412,Conductores asalariados de camionetas,B; G; H; I; J; L; M,967
-8420,Conductores de autob˙s,B; G; H; I; J; M,969
+8420,Conductores de autob√∫s,B; G; H; I; J; M,969
 5941,"Conductores de coche blindado habilitados
 para ir armados",G; H; I; J; L; M,686
-8420,Conductores de microb˙s,B; G; H; I; J; M,969
+8420,Conductores de microb√∫s,B; G; H; I; J; M,969
 8333,Conductores de toro,E; G; H; I; J; M,961
 8322,Conductores de transporte de maderas,B; C; G; H; I; J; M,955
-8420,Conductores de tranvÌa,B; G; H; I; J; M,969
+8420,Conductores de tranv√≠a,B; G; H; I; J; M,969
 8311,Conductores de trenes,G; H; I; J; L; M,949
-8431,"Conductores propietarios de camiÛn
+8431,"Conductores propietarios de cami√≥n
 cisterna",B; G; H; I; J; M,971
-8431,"Conductores propietarios de camiÛn de
+8431,"Conductores propietarios de cami√≥n de
 gran tonelaje",B; G; H; I; J; M,971
-8431,"Conductores propietarios de camiÛn de
-mercancÌas peligrosas",B; G; H; I; J; M,971
-8431,"Conductores propietarios de camiÛn TIR
+8431,"Conductores propietarios de cami√≥n de
+mercanc√≠as peligrosas",B; G; H; I; J; M,971
+8431,"Conductores propietarios de cami√≥n TIR
 (transporte internacional)",B; G; H; I; J; M,971
 8411,Conductores propietarios de camionetas,B; G; H; I; J; L; M,965
 7621,"Confeccionadores de pantallas de
-serigrafÌa",A; B; C; D; E; G; H; J; M,834
+serigraf√≠a",A; B; C; D; E; G; H; J; M,834
 7621,"Confeccionadores de planchas de
-impresiÛn",A; B; C; D; E; G; H; J; M,834
+impresi√≥n",A; B; C; D; E; G; H; J; M,834
 2426,Consejeros medioambientales,F; G; J,187
-CODIGO,DESCRIPCION,GRUPO,PAG.
+|CODIGO,DESCRIPCION,GRUPO,PAG.
 5833,Conserjes de edificios,L,658
 5833,Conserjes de hotel,L,658
-5833,Conserjes de pabellÛn deportivo,L,658
+5833,Conserjes de pabell√≥n deportivo,L,658
 4422,Conserjes-recepcionistas de hotel,F; G; H; I; L,571
-2911,Conservadores de galerÌa de arte,F; G; J,317
+2911,Conservadores de galer√≠a de arte,F; G; J,317
 2911,Conservadores de museo,F; G; J,317
 3523,Consignatarios,F; J; L,460
 1316,Constructores,F; G; J; L,66
 8209,Constructores de cajas,C; E; G; H; J; M,947
-7611,Constructores de instrumentos quir˙rgicos,C; E; G; J; M,816
+7611,Constructores de instrumentos quir√∫rgicos,C; E; G; J; M,816
 7611,Constructores de relojes,C; E; G; J; M,816
-1112,CÛnsules generales,F; G; J; L,38
-2621,Consultores de gestiÛn,F; G; J,267
+1112,C√≥nsules generales,F; G; J; L,38
+2621,Consultores de gesti√≥n,F; G; J,267
 2711,Consultores de sistemas,F; G; J,287
 2426,Consultores medioambientales,F; G; J,187
 3739,Continuistas,G; I; J; L; M,522
 8340,Contramaestres de cubierta,A; B; C; D; H; I; J; M,963
-3811,"Controladores de ejecuciÛn de programas
-inform·ticos",E; G; J,524
+3811,"Controladores de ejecuci√≥n de programas
+inform√°ticos",E; G; J,524
 7894,Controladores de malas hierbas,A; B; C; J,884
 7894,Controladores de plagas,A; B; C; J,884
-3139,Controladores de robÛtica industrial,G; J; M,374
-3154,Controladores de tr·fico aÈreo,E; F; G; H; I; J; L; M,388
+3139,Controladores de rob√≥tica industrial,G; J; M,374
+3154,Controladores de tr√°fico a√©reo,E; F; G; H; I; J; L; M,388
 2623,Controladores laborales,F; G; J,271
 2921,Coordinadores de editorial,F; G; J,321
-2326,"Coordinadores de equipos de educaciÛn y
-formaciÛn ambiental",F; G; J; L,161
+2326,"Coordinadores de equipos de educaci√≥n y
+formaci√≥n ambiental",F; G; J; L,161
 3739,Coordinadores de especialistas,G; I; J; L; M,522
 2321,Coordinadores de planes de estudios,F; G; J; L,151
 3739,"Coordinadores de programas
-(radiodifusiÛn)",G; I; J; L; M,522
+(radiodifusi√≥n)",G; I; J; L; M,522
 3125,"Coordinadores y supervisores de
 mantenimiento de sistemas de electromedicina",E; G; H; J,354
-2933,CoreÛgrafos,A; B; C; D; F; G; H; J; M,331
+2933,Core√≥grafos,A; B; C; D; F; G; H; J; M,331
 0011,Coroneles,F; G; H; I; J; L,1043
 4222,Correctores de pruebas de imprenta,J,557
 3534,Corredores de fincas,F; I; J; L,468
 3521,Corredores de seguros,F; G; J; L,456
 3401,Corredores de valores,F; G; H; J; L,444
-9512,Cortadores de cÈsped,A; B; C; D; M,1016
+9512,Cortadores de c√©sped,A; B; C; D; M,1016
 7615,Cortadores de cristales,C; E; G; H; J; M,824
 7833,Cortadores de guantes,C; E; G; J; M,868
 7833,Cortadores de prendas de vestir,C; E; G; J; M,868
-7623,"Cosedores, encuadernaciÛn",B; C; D; E; G; H; J; M,838
+7623,"Cosedores, encuadernaci√≥n",B; C; D; E; G; H; J; M,838
 7834,Costureros,C; E; G; J; M,870
 6209,Criadores caracoles,A; B; C; D; G; M,713
-6209,Criadores de animales de peleterÌa,A; B; C; D; G; M,713
-CODIGO,DESCRIPCION,GRUPO,PAG.
+6209,Criadores de animales de peleter√≠a,A; B; C; D; G; M,713
+|CODIGO,DESCRIPCION,GRUPO,PAG.
 6209,Criadores de animales para laboratorio,A; B; C; D; G; M,713
 6209,Criadores de animales para zoo,A; B; C; D; G; M,713
 6209,Criadores de aves de caza,A; B; C; D; G; M,713
 6205,Criadores de aves de corral,A; B; C; D; G; M,711
 6209,Criadores de avestruces,A; B; C; D; G; M,713
 6205,Criadores de conejos,A; B; C; D; G; M,711
-6209,Criadores de especies cinegÈticas,A; B; C; D; G; M,713
+6209,Criadores de especies cineg√©ticas,A; B; C; D; G; M,713
 6209,Criadores de ganado equino,A; B; C; D; G; M,713
 6203,Criadores de ganado porcino,A; B; C; D; G; M,707
 6209,Criadores de gatos,A; B; C; D; G; M,713
 6209,Criadores de perros,A; B; C; D; G; M,713
-2821,CriminÛlogos,F; G; J,305
+2821,Crimin√≥logos,F; G; J,305
 7293,Cristaleros,A; B; C; D; E; J; M,770
 7293,Cristaleros de claraboyas,A; B; C; D; E; J; M,770
-2922,CrÌticos,F; G; H; J,323
+2922,Cr√≠ticos,F; G; H; J,323
 4443,Crupieres,F; G; H; I; J; L,583
 2935,Cuentacuentos,F; G; H; J; L; M,335
 6202,Cuidadores  ganado ovino o caprino,A; B; C; D; G; M,705
 5893,"Cuidadores de animales en parques
-zoolÛgicos",C; J; L; M,666
+zool√≥gicos",C; J; L; M,666
 5710,Cuidadores de enfermos a domicilio,B; C; D; F; G; I; L; M,634
 6203,Cuidadores de ganado porcino,A; B; C; D; G; M,707
 6201,Cuidadores de ganado vacuno,A; B; C; D; G; M,703
-5721,Cuidadores de guarderÌa infantil,B; C; D; G; I; J; L; M,636
+5721,Cuidadores de guarder√≠a infantil,B; C; D; G; I; J; L; M,636
 5710,"Cuidadores de personas mayores a
 domicilio",B; C; D; F; G; I; L; M,634
 5833,Cuidadores encargados de edificios,L,658
-5721,"Cuidadores-acompaÒantes en autob˙s
+5721,"Cuidadores-acompa√±antes en autob√∫s
 escolar",B; C; D; G; I; J; L; M,636
 6110,Cultivadores de cereales y leguminosas,A; B; C; D; G; J; M,699
 6120,Cultivadores de fresas,A; B; C; D; G; M,701
@@ -436,7 +436,7 @@ escolar",B; C; D; G; I; J; L; M,636
 3732,Decoradores de escaparates,E; F; G; J; M,516
 3732,Decoradores de interiores,E; F; G; J; M,516
 7709,Degustadores de alimentos,E; G; K,856
-3110,Delineantes y dibujantes tÈcnicos,E; G; J; M,344
+3110,Delineantes y dibujantes t√©cnicos,E; G; J; M,344
 5492,Demostradores de producto en comercio,F; I; L,616
 2151,Dentistas,C; E; F; G; H; J; M,117
 5499,Dependientes de alquiler de coches,F; I; J; L,620
@@ -446,10 +446,10 @@ comercio al por mayor",C; F; I; J; L,602
 5412,Dependientes de mercados itinerantes,F; I; J; L,608
 5411,Dependientes de quioscos,F; I; L,606
 5220,Dependientes empleados de comercio,C; F; I; J; L,602
-CODIGO,DESCRIPCION,GRUPO,PAG.
+|CODIGO,DESCRIPCION,GRUPO,PAG.
 5220,"Dependientes en puestos de mercado
 (permanente) municipal",C; F; I; J; L,602
-5000,"Dependientes propietarios de churrerÌa-
+5000,"Dependientes propietarios de churrer√≠a-
 camioneta",B; C; F; G; H; I; J; K; L; M,594
 5300,"Dependientes propietarios de puestos de
 mercado permanente",C; F; G; I; J; L,604
@@ -464,16 +464,16 @@ Web",F; G; J,291
 2931,Dibujantes de comics,F; G; J,327
 2931,Dibujantes publicitarios,F; G; J,327
 7892,Dinamiteros,A; B; C; D; E; G; H; J,880
-2121,"Diplomados en enfermerÌa no
+2121,"Diplomados en enfermer√≠a no
 especializados",E; F; G; H; J; L; M,107
-2153,"Diplomados en nutriciÛn humana y
-dietÈtica",F; G; J,121
+2153,"Diplomados en nutrici√≥n humana y
+diet√©tica",F; G; J,121
 1111,Diputados al Parlamento,F; G; J; L,36
-1111,"Diputados de DiputaciÛn provincial, DiputaciÛn Foral del PaÌs Vasco, Cabildo
+1111,"Diputados de Diputaci√≥n provincial, Diputaci√≥n Foral del Pa√≠s Vasco, Cabildo
 insular o Consejo insular",F; G; J; L,36
-1315,Directores de abastecimiento y distribuciÛn,F; G; J; L,64
+1315,Directores de abastecimiento y distribuci√≥n,F; G; J; L,64
 1327,Directores de agencias de seguros,F; G; J; L,80
-1315,Directores de almacÈn,F; G; J; L,64
+1315,Directores de almac√©n,F; G; J; L,64
 1329,Directores de archivos,F; G; J; L,82
 2932,Directores de banda,E; F; G; I; J; L; M,329
 1329,Directores de bibliotecas,F; G; J; L,82
@@ -483,20 +483,20 @@ insular o Consejo insular",F; G; J; L,36
 1325,Directores de centros de acogida,F; G; J; L,76
 1322,"Directores de centros de cuidados
 infantiles fuera del sistema educativo",F; G; J; L,70
-1324,"Directores de centros de dÌa para la
+1324,"Directores de centros de d√≠a para la
 tercera edad",F; G; J; L,74
-1326,"Directores de centros de formaciÛn
+1326,"Directores de centros de formaci√≥n
 profesional",F; G; J; L,78
 1326,Directores de centros de primaria,F; G; J; L,78
 1326,Directores de centros de secundaria,F; G; J; L,78
 1323,Directores de centros sanitarios,F; G; J; L,72
 2934,Directores de cine,F; G; J,333
-1221,Directores de comercializaciÛn,F; G; J; L,50
+1221,Directores de comercializaci√≥n,F; G; J; L,50
 1221,Directores de comercio exterior,F; G; J; L,50
 1315,Directores de compras,F; G; J; L,64
-1212,Directores de contrataciÛn,F; G; J; L,46
-1327,Directores de cooperativas de crÈdito,F; G; J; L,80
-CODIGO,DESCRIPCION,GRUPO,PAG.
+1212,Directores de contrataci√≥n,F; G; J; L,46
+1327,Directores de cooperativas de cr√©dito,F; G; J; L,80
+|CODIGO,DESCRIPCION,GRUPO,PAG.
 1211,"Directores de departamentos de
 contabilidad",F; G; J; L,44
 1219,"Directores de departamentos de control de
@@ -505,7 +505,7 @@ calidad",F; G; J; L,48
 1221,"Directores de departamentos de estudios
 de mercado",F; G; J; L,50
 1223,"Directores de departamentos de
-investigaciÛn y desarrollo (I+D)",F; G; J; L,54
+investigaci√≥n y desarrollo (I+D)",F; G; J; L,54
 1211,"Directores de departamentos de
 presupuestos",F; G; J; L,44
 1212,"Directores de departamentos de recursos
@@ -521,68 +521,68 @@ laborales",F; G; J; L,46
 2934,Directores de escena,F; G; J,333
 1329,"Directores de establecimientos
 penitenciarios",F; G; J; L,82
-1312,Directores de explotaciones acuÌcolas,F; G; J; L,58
-1311,Directores de explotaciones agrÌcolas,F; G; J; L,56
+1312,Directores de explotaciones acu√≠colas,F; G; J; L,58
+1311,Directores de explotaciones agr√≠colas,F; G; J; L,56
 1311,Directores de explotaciones ganaderas,F; G; J; L,56
-1212,Directores de formaciÛn de personal,F; G; J; L,46
-2934,Directores de fotografÌa,F; G; J,333
+1212,Directores de formaci√≥n de personal,F; G; J; L,46
+2934,Directores de fotograf√≠a,F; G; J,333
 1222,Directores de gabinetes de prensa,F; G; J; L,52
-1329,Directores de galerÌas de arte,F; G; J; L,82
+1329,Directores de galer√≠as de arte,F; G; J; L,82
 1313,Directores de industrias manufactureras,F; G; J; L,60
-1321,Directores de inform·tica,F; G; J; L,68
+1321,Directores de inform√°tica,F; G; J; L,68
 1219,Directores de instalaciones,F; G; J; L,48
-1112,Directores de la funciÛn p˙blica,F; G; J; L,38
-1315,Directores de logÌstica,F; G; J; L,64
+1112,Directores de la funci√≥n p√∫blica,F; G; J; L,38
+1315,Directores de log√≠stica,F; G; J; L,64
 1221,Directores de marketing,F; G; J; L,50
 1314,Directores de minas,F; G; J; L,62
 1329,Directores de museos,F; G; J; L,82
 1325,"Directores de otros centros de servicios
 sociales",F; G; J; L,76
-1312,Directores de piscifactorÌas,F; G; J; L,58
-1219,Directores de planificaciÛn corporativa,F; G; J; L,48
+1312,Directores de piscifactor√≠as,F; G; J; L,58
+1219,Directores de planificaci√≥n corporativa,F; G; J; L,48
 1321,Directores de proceso de datos,F; G; J; L,68
-1314,Directores de producciÛn (cantera),F; G; J; L,62
-1314,"Directores de producciÛn (extracciÛn de
-gas y petrÛleo)",F; G; J; L,62
-1314,Directores de producciÛn (minerÌa),F; G; J; L,62
-1313,Directores de producciÛn y operaciones (industrias manufactureras),F; G; J; L,60
-CODIGO,DESCRIPCION,GRUPO,PAG.
-1316,Directores de proyectos de construcciÛn,F; G; J; L,66
+1314,Directores de producci√≥n (cantera),F; G; J; L,62
+1314,"Directores de producci√≥n (extracci√≥n de
+gas y petr√≥leo)",F; G; J; L,62
+1314,Directores de producci√≥n (miner√≠a),F; G; J; L,62
+1313,Directores de producci√≥n y operaciones (industrias manufactureras),F; G; J; L,60
+|CODIGO,DESCRIPCION,GRUPO,PAG.
+1316,Directores de proyectos de construcci√≥n,F; G; J; L,66
 1222,Directores de publicidad,F; G; J; L,52
-1222,Directores de relaciones p˙blicas,F; G; J; L,52
+1222,Directores de relaciones p√∫blicas,F; G; J; L,52
 1324,Directores de residencias,F; G; J; L,74
-1212,Directores de selecciÛn de personal,F; G; J; L,46
+1212,Directores de selecci√≥n de personal,F; G; J; L,46
 1221,Directores de servicio postventa,F; G; J; L,50
 1219,Directores de servicios de limpieza,F; G; J; L,48
-1329,Directores de servicios jurÌdicos,F; G; J; L,82
+1329,Directores de servicios jur√≠dicos,F; G; J; L,82
 1311,Directores de silvicultura,F; G; J; L,56
 1327,Directores de sucursales de banco,F; G; J; L,80
-1321,Directores de tecnologÌa de la informaciÛn,F; G; J; L,68
+1321,Directores de tecnolog√≠a de la informaci√≥n,F; G; J; L,68
 1326,Directores de universidades,F; G; J; L,78
 1221,Directores de ventas,F; G; J; L,50
 1211,Directores financieros,F; G; J; L,44
 1120,"Directores generales, empresa privada",F; G; J; L,42
-1120,"Directores generales, empresa p˙blica",F; G; J; L,42
+1120,"Directores generales, empresa p√∫blica",F; G; J; L,42
 2326,"Directores gerentes de centro de
-educaciÛn ambiental",F; G; J; L,161
+educaci√≥n ambiental",F; G; J; L,161
 2932,Directores musicales,E; F; G; I; J; L; M,329
-2934,Directores tÈcnicos,F; G; J,333
-1113,"Dirigentes, fundaciÛn",F; G; J; L,40
-1113,"Dirigentes, organizaciÛn empresarial",F; G; J; L,40
-1113,"Dirigentes, organizaciÛn humanitaria",F; G; J; L,40
-1113,"Dirigentes, partido polÌtico",F; G; J; L,40
+2934,Directores t√©cnicos,F; G; J,333
+1113,"Dirigentes, fundaci√≥n",F; G; J; L,40
+1113,"Dirigentes, organizaci√≥n empresarial",F; G; J; L,40
+1113,"Dirigentes, organizaci√≥n humanitaria",F; G; J; L,40
+1113,"Dirigentes, partido pol√≠tico",F; G; J; L,40
 1113,"Dirigentes, sindicato de trabajadores",F; G; J; L,40
-2721,DiseÒadores de bases de datos,F; G; J,295
-2482,DiseÒadores de joyas,F; G; J,243
-2326,"DiseÒadores de materiales de educaciÛn
+2721,Dise√±adores de bases de datos,F; G; J,295
+2482,Dise√±adores de joyas,F; G; J,243
+2326,"Dise√±adores de materiales de educaci√≥n
 ambiental",F; G; J; L,161
-2482,DiseÒadores de moda,F; G; J,243
-2484,DiseÒadores de p·ginas web,E; F; G; J,247
-2484,DiseÒadores de publicaciones,E; F; G; J,247
-2482,DiseÒadores de ropa,F; G; J,243
-2484,DiseÒadores gr·ficos,E; F; G; J,247
-2482,DiseÒadores industriales,F; G; J,243
-2484,DiseÒadores multimedia,E; F; G; J,247
+2482,Dise√±adores de moda,F; G; J,243
+2484,Dise√±adores de p√°ginas web,E; F; G; J,247
+2484,Dise√±adores de publicaciones,E; F; G; J,247
+2482,Dise√±adores de ropa,F; G; J,243
+2484,Dise√±adores gr√°ficos,E; F; G; J,247
+2482,Dise√±adores industriales,F; G; J,243
+2484,Dise√±adores multimedia,E; F; G; J,247
 9420,Distribuidores de prensa gratuita,G; L,996
 2912,Documentalistas,F; G; J,319
 2939,Domadores,F; G; H; J; M,341
@@ -592,68 +592,68 @@ ambiental",F; G; J; L,161
 7820,Ebanistas,A; B; C; D; G; J; M,862
 2810,Econometristas,F; G; J,303
 2810,Economistas,F; G; J,303
-2422,EdafÛlogos,F; G; J,179
+2422,Edaf√≥logos,F; G; J,179
 2326,Educadores ambientales,F; G; J; L,161
 2824,Educadores de familia,F; G; J; L,311
 2824,Educadores sociales,F; G; J; L,311
-CODIGO,DESCRIPCION,GRUPO,PAG.
+|CODIGO,DESCRIPCION,GRUPO,PAG.
 7705,"Elaboradores de aceite, artesanal",C; M,848
 7705,"Elaboradores de conservas, frutas,
 verduras y hortalizas",C; M,848
 7510,Electricistas,A; B; C; D; E; G; J; M,804
-7510,Electricistas en escenario o platÛ,A; B; C; D; E; G; J; M,804
+7510,Electricistas en escenario o plat√≥,A; B; C; D; E; G; J; M,804
 7510,"Electricistas reparadores de la
-construcciÛn",A; B; C; D; E; G; J; M,804
-7532,"ElectrÛnicos-ajustadores de aparatos
-mÈdicos",A; B; C; E; G; J; M,812
+construcci√≥n",A; B; C; D; E; G; J; M,804
+7532,"Electr√≥nicos-ajustadores de aparatos
+m√©dicos",A; B; C; E; G; J; M,812
 3325,Electroterapeutas,A; B; C; F; G; M,432
 1112,Embajadores,F; G; J; L,38
 8193,Embaladores envasadores de medicinas,C; G; H; J; M,939
 5892,Embalsamadores,C; G,664
-7522,Empalmadores de cables elÈctricos,A; B; C; D; E; G; J; M,808
+7522,Empalmadores de cables el√©ctricos,A; B; C; D; E; G; J; M,808
 7231,Empapeladores,A; B; C; D; J; M,758
 4121,"Empleados administrativos de
-almacenamiento y recepciÛn",J,547
+almacenamiento y recepci√≥n",J,547
 4210,Empleados administrativos de archivo,J,553
 4210,Empleados administrativos de biblioteca,J,553
 4113,"Empleados administrativos de entidades
 financieras",G; J,545
-4113,Empleados administrativos de estadÌstica,G; J,545
+4113,Empleados administrativos de estad√≠stica,G; J,545
 4123,"Empleados administrativos de los servicios
 de transporte",G; J,551
 4112,"Empleados administrativos de salarios y
-nÛminas",G; J,543
+n√≥minas",G; J,543
 4113,Empleados administrativos de seguros,G; J,545
 4223,"Empleados administrativos de servicios de
 personal",J,559
-4500,Empleados administrativos en general con tareas de atenciÛn al p˙blico,F; H; I; J; L,591
+4500,Empleados administrativos en general con tareas de atenci√≥n al p√∫blico,F; H; I; J; L,591
 4309,"Empleados administrativos en general sin
-tareas de atenciÛn al p˙blico",J,563
-4121,Empleados controladores de peso/b·scula,J,547
+tareas de atenci√≥n al p√∫blico",J,563
+4121,Empleados controladores de peso/b√°scula,J,547
 4421,Empleados de agencias de viajes,F; G; H; I; J; L,569
-4444,Empleados de casas de empeÒos,F; G; I; J; L,585
-4424,"Empleados de centro de informaciÛn
-(telefÛnica) de atenciÛn al cliente",F; H; I; J; L,575
-4113,"Empleados de gestiÛn financiera de
+4444,Empleados de casas de empe√±os,F; G; I; J; L,585
+4424,"Empleados de centro de informaci√≥n
+(telef√≥nica) de atenci√≥n al cliente",F; H; I; J; L,575
+4113,"Empleados de gesti√≥n financiera de
 empresas",G; J,545
 9100,Empleados de hogar,B; C,978
-4412,"Empleados de informaciÛn de busques de
+4412,"Empleados de informaci√≥n de busques de
 pasaje",F; G; H; I; L,567
-4309,"Empleados de inserciÛn de anuncios
+4309,"Empleados de inserci√≥n de anuncios
 clasificados",J,563
 4446,Empleados de mostrador de correos,F; G; H; I; J; L,589
 4441,Empleados de oficina de cambio,F; G; H; I; J; L,579
 4122,"Empleados de oficina de servicios de
-apoyo a la producciÛn",G; J,549
-4121,Empleados de pedidos en almacÈn,J,547
-4122,Empleados de planificaciÛn de materiales,G; J,549
-CODIGO,DESCRIPCION,GRUPO,PAG.
-5892,Empleados de pompas f˙nebres,C; G,664
+apoyo a la producci√≥n",G; J,549
+4121,Empleados de pedidos en almac√©n,J,547
+4122,Empleados de planificaci√≥n de materiales,G; J,549
+|CODIGO,DESCRIPCION,GRUPO,PAG.
+5892,Empleados de pompas f√∫nebres,C; G,664
 4309,"Empleados de publicaciones (no
 especializados)",J,563
-4421,Empleados de viajes de compaÒÌa aÈrea,F; G; H; I; J; L,569
-4111,Empleados del c·lculo de costes,G; J,541
-4411,Empleados en puntos de informaciÛn,F; G; H; I; J; L,565
+4421,Empleados de viajes de compa√±√≠a a√©rea,F; G; H; I; J; L,569
+4111,Empleados del c√°lculo de costes,G; J,541
+4411,Empleados en puntos de informaci√≥n,F; G; H; I; J; L,565
 4443,Empleados en salas de juegos recreativos,F; G; H; I; J; L,583
 5210,Empleados encargado de tienda,F; G; I; J; L,600
 9490,Empleados guardarropas,D,1012
@@ -662,43 +662,43 @@ especializados)",J,563
 embotelladores a mano",A; B; C; D; H; M,1034
 8192,Encargados de caldera,C; G; J; M,937
 3204,"Encargados de instalaciones, tratamiento
-quÌmico",F; G; J; L,400
-5831,Encargados de lavanderÌa/lencerÌa,F; G; J; L,654
-3204,"Encargados de operadores de m·quinas, fabricaciÛn/productos quÌmicos",F; G; J; L,400
-5210,"Encargados de secciÛn de centro
+qu√≠mico",F; G; J; L,400
+5831,Encargados de lavander√≠a/lencer√≠a,F; G; J; L,654
+3204,"Encargados de operadores de m√°quinas, fabricaci√≥n/productos qu√≠micos",F; G; J; L,400
+5210,"Encargados de secci√≥n de centro
 comercial",F; G; I; J; L,600
-3207,"Encargados de taller, encuadernaciÛn",F; G; J; L,406
+3207,"Encargados de taller, encuadernaci√≥n",F; G; J; L,406
 3207,"Encargados de taller,
-fabricaciÛn/productos de papel",F; G; J; L,406
-3207,"Encargados de taller, impresiÛn/artes
-gr·ficas",F; G; J; L,406
+fabricaci√≥n/productos de papel",F; G; J; L,406
+3207,"Encargados de taller, impresi√≥n/artes
+gr√°ficas",F; G; J; L,406
 3206,"Encargados de taller, madera/tratamiento
 en instalaciones",F; G; J; L,404
 3739,Encargados de vestuario,G; I; J; L; M,522
-6421,Encargados en piscifactorÌas,A; B; C; D; G; M,719
+6421,Encargados en piscifactor√≠as,A; B; C; D; G; M,719
 3201,"Encargados o capataces de minas,
 canteras o salinas",G; J; L,394
-3202,"Encargados, construcciÛn de edificios",D; F; H; J; L,396
-6205,Encargados/capataces granja avÌcola,A; B; C; D; G; M,711
+3202,"Encargados, construcci√≥n de edificios",D; F; H; J; L,396
+6205,Encargados/capataces granja av√≠cola,A; B; C; D; G; M,711
 6410,Encargados-capataces forestales,A; B; C; D; G; J; M,717
 9210,Encerador de suelos,A; B; C,980
 7111,Encofradores,A; B; C; D; H; J; M,728
 7623,Encuadernadores,B; C; D; E; G; H; J; M,838
-2112,EndocrinÛlogos,E; F; G; H; J; L; M,105
+2112,Endocrin√≥logos,E; F; G; H; J; L; M,105
 2121,Enfermeros,E; F; G; H; J; L; M,107
 2122,Enfermeros (enf. de salud mental),C; E; F; G; H; J; L; M,109
-2122,Enfermeros (enfermerÌa del trabajo),C; E; F; G; H; J; L; M,109
-2122,"Enfermeros (enfermerÌa familiar y
+2122,Enfermeros (enfermer√≠a del trabajo),C; E; F; G; H; J; L; M,109
+2122,"Enfermeros (enfermer√≠a familiar y
 comunitaria)",C; E; F; G; H; J; L; M,109
-2122,"Enfermeros de cuidados mÈdico-
-quir˙rgicos",C; E; F; G; H; J; L; M,109
-2122,Enfermeros de geriatrÌa,C; E; F; G; H; J; L; M,109
-2123,Enfermeros de obstetricia-ginecologÌa,B; C; E; F; G; H; J; L; M,111
-2122,Enfermeros de pediatrÌa,C; E; F; G; H; J; L; M,109
+2122,"Enfermeros de cuidados m√©dico-
+quir√∫rgicos",C; E; F; G; H; J; L; M,109
+2122,Enfermeros de geriatr√≠a,C; E; F; G; H; J; L; M,109
+2123,Enfermeros de obstetricia-ginecolog√≠a,B; C; E; F; G; H; J; L; M,111
+2122,Enfermeros de pediatr√≠a,C; E; F; G; H; J; L; M,109
 7212,Enfoscadores,A; B; C; D; J; M,750
 7613,Engastadores de piedras preciosas,C; E; G; J; M,820
-CODIGO,DESCRIPCION,GRUPO,PAG.
-2427,EnÛlogos,F; G; J; K,189
+|CODIGO,DESCRIPCION,GRUPO,PAG.
+2427,En√≥logos,F; G; J; K,189
 3339,Ensalmadores,F; G; L; M,442
 8209,Ensambladores de bicicletas,C; E; G; H; J; M,947
 8209,Ensambladores de cuchillos,C; E; G; H; J; M,947
@@ -706,28 +706,28 @@ CODIGO,DESCRIPCION,GRUPO,PAG.
 8209,Ensambladores de municiones,C; E; G; H; J; M,947
 8209,Ensambladores de persianas,C; E; G; H; J; M,947
 7112,"Ensambladores de prefabricados de
-hormigÛn",A; B; C; D; H; J; M,730
+hormig√≥n",A; B; C; D; H; J; M,730
 8209,Ensambladores de productos textiles,C; E; G; H; J; M,947
 8209,Ensambladores de puertas,C; E; G; H; J; M,947
 8209,Ensambladores de termos,C; E; G; H; J; M,947
 8201,Ensambladores de turbinas,B; C; D; E; G; H; J; M,943
-8209,Ensambladores juguetes de pl·stico,C; E; G; H; J; M,947
-8209,Ensambladores plumas y bolÌgrafos,C; E; G; H; J; M,947
-8209,Ensambladores productos de cartÛn,C; E; G; H; J; M,947
+8209,Ensambladores juguetes de pl√°stico,C; E; G; H; J; M,947
+8209,Ensambladores plumas y bol√≠grafos,C; E; G; H; J; M,947
+8209,Ensambladores productos de cart√≥n,C; E; G; H; J; M,947
 8209,Ensambladores productos de cuero,C; E; G; H; J; M,947
 2921,Ensayistas,F; G; J,321
-3722,Entrenadores de esquÌ,A; B; C; D; F; G; H; I; J; L,508
-3722,Entrenadores de nataciÛn,A; B; C; D; F; G; H; I; J; L,508
+3722,Entrenadores de esqu√≠,A; B; C; D; F; G; H; I; J; L,508
+3722,Entrenadores de nataci√≥n,A; B; C; D; F; G; H; I; J; L,508
 3722,Entrenadores deportivos,A; B; C; D; F; G; H; I; J; L,508
 3723,"Entrenadores personal, gimnasios",A; B; C; D; F; G; H; I; J; L; M,510
 4430,Entrevistadores-encuestadores,F; G; I; J; L,577
-2158,EpidemiÛlogos,F; G; J,131
-2130,EpidemiÛlogos veterinarios,C; E; G; H; J; M,113
+2158,Epidemi√≥logos,F; G; J,131
+2130,Epidemi√≥logos veterinarios,C; E; G; H; J; M,113
 2939,Equilibristas,F; G; H; J; M,341
 5922,Ertzainas,F; G; H; I; J; L; M,678
 3732,Escaparatistas,E; F; G; J; M,516
 7211,Escayolistas decoradores,A; B; C; D; J; M,748
-3732,EscenÛgrafos,E; F; G; J; M,516
+3732,Escen√≥grafos,E; F; G; J; M,516
 5941,"Escoltas personales habilitados para ir
 armados",G; H; I; J; L; M,686
 5942,"Escoltas personales no habilitados para ir
@@ -738,28 +738,28 @@ armados",G; H; I; J; M,688
 7616,Esmaltadores de vidrio,C; E; G; J; M,826
 3739,Especialistas,G; I; J; L; M,522
 3125,"Especialistas en aplicaciones
-electromÈdicas",E; G; H; J,354
-2651,Especialistas en comercializaciÛn,F; G; J,281
+electrom√©dicas",E; G; H; J,354
+2651,Especialistas en comercializaci√≥n,F; G; J,281
 2611,Especialistas en contabilidad,F; G; J,261
 5811,Especialistas en cuidado del cabello,B; C; F; H; J; M,640
-2321,"Especialistas en elaboraciÛn de planes de
+2321,"Especialistas en elaboraci√≥n de planes de
 estudios",F; G; J; L,151
 2651,Especialistas en estudios de mercado,F; G; J,281
-2326,Especialistas en infraestructuras o equipamientos de educaciÛn ambiental,F; G; J; L,161
-2321,Especialistas en material did·ctico,F; G; J; L,151
-CODIGO,DESCRIPCION,GRUPO,PAG.
-6201,Especialistas en ordeÒo de vacuno,A; B; C; D; G; M,703
+2326,Especialistas en infraestructuras o equipamientos de educaci√≥n ambiental,F; G; J; L,161
+2321,Especialistas en material did√°ctico,F; G; J; L,151
+|CODIGO,DESCRIPCION,GRUPO,PAG.
+6201,Especialistas en orde√±o de vacuno,A; B; C; D; G; M,703
 3125,"Especialistas en producto de sistemas de
 electromedicina",E; G; H; J,354
 2651,Especialistas en publicidad,F; G; J,281
 2729,Especialistas en seguridad de las TIC,F; G; J,301
 5812,Especialistas en tratamientos de belleza,B; C; F; H; J; M,642
-6202,Especialistas ordeÒo ovejas/cabras,A; B; C; D; G; M,705
+6202,Especialistas orde√±o ovejas/cabras,A; B; C; D; G; M,705
 3721,Esquiadores,A; B; C; D; G; H; J; M,506
 6202,Esquiladores,A; B; C; D; G; M,705
-2416,EstadÌsticos,F; G; J,175
-2416,"EstadÌsticos, demografÌa",F; G; J,175
-2416,"EstadÌsticos, economÌa",F; G; J,175
+2416,Estad√≠sticos,F; G; J,175
+2416,"Estad√≠sticos, demograf√≠a",F; G; J,175
+2416,"Estad√≠sticos, econom√≠a",F; G; J,175
 7321,Estampadores en prensa,A; B; C; D; E; G; J; M,786
 4301,Esteneotipistas,J,561
 5812,Esteticistas,B; C; F; H; J; M,642
@@ -769,13 +769,13 @@ electromedicina",E; G; H; J,354
 7618,Estiradores de fibras textiles,C; E; G; J; M,830
 7212,Estuquistas decoradores,A; B; C; D; J; M,750
 9700,Etiquetadores a mano,A; B; C; D; H; M,1034
-2821,EtnÛlogos,F; G; J,305
+2821,Etn√≥logos,F; G; J,305
 3405,Evaluadores de siniestros,F; G; J; L,452
 5430,"Expendedores de combustible en
 gasolineras",C; F; I; L,612
 5430,"Expendedores de combustible en puerto
 deportivo",C; F; I; L,612
-3732,"Expertos en ordenaciÛn de los puntos de
+3732,"Expertos en ordenaci√≥n de los puntos de
 venta",E; F; G; J; M,516
 2729,Explotadores de bases de datos,F; G; J,301
 6410,Extractores de corcho,A; B; C; D; G; J; M,717
@@ -788,20 +788,20 @@ madera)",C; E; G; I; J; M,818
 metal)",C; E; G; I; J; M,818
 7820,Fabricantes de ruedas,A; B; C; D; G; J; M,862
 4123,Factores de empresa de transporte,G; J,551
-2140,FarmacÈuticos,E; F; G; J,115
-2140,FarmacÈuticos de farmacia hospitalaria,E; F; G; J,115
-2140,FarmacÈuticos titulares de farmacias,E; F; G; J,115
-2421,FarmacÛlogos,E; F; G; J,177
+2140,Farmac√©uticos,E; F; G; J,115
+2140,Farmac√©uticos de farmacia hospitalaria,E; F; G; J,115
+2140,Farmac√©uticos titulares de farmacias,E; F; G; J,115
+2421,Farmac√≥logos,E; F; G; J,177
 5412,Feriantes,F; I; J; L,608
 7111,Ferrallistas,A; B; C; D; H; J; M,728
 3739,Figurantes,G; I; J; L; M,522
 7702,Fileteadores de pescado,A; B; C; D; G; J; M,842
-2923,FilÛlogos,F; G; J; L,325
-2822,FilÛsofos,F; G; J,307
-CODIGO,DESCRIPCION,GRUPO,PAG.
+2923,Fil√≥logos,F; G; J; L,325
+2822,Fil√≥sofos,F; G; J,307
+|CODIGO,DESCRIPCION,GRUPO,PAG.
 2512,Fiscales,F; G; J; L,251
-2411,FÌsicos,F; G; J,165
-2411,FÌsicos nucleares,F; G; J,165
+2411,F√≠sicos,F; G; J,165
+2411,F√≠sicos nucleares,F; G; J,165
 2152,Fisioterapeutas,A; B; C; E; F; G; J; M,119
 3339,Fitoterapeutas,F; G; L; M,442
 6120,Floricultores,A; B; C; D; G; M,701
@@ -809,28 +809,28 @@ CODIGO,DESCRIPCION,GRUPO,PAG.
 7221,Fontaneros,A; B; C; D; J; M,752
 2729,Forenses en TIC,F; G; J,301
 7321,Forjadores manual,A; B; C; D; E; G; J; M,786
-7321,"Forjadores, martillo pilÛn",A; B; C; D; E; G; J; M,786
-2326,"Formadores en educaciÛn e interpretaciÛn
+7321,"Forjadores, martillo pil√≥n",A; B; C; D; E; G; J; M,786
+2326,"Formadores en educaci√≥n e interpretaci√≥n
 ambiental",F; G; J; L,161
-3731,FotÛgrafos aÈreos,F; G; J,514
-3731,FotÛgrafos cientÌficos,F; G; J,514
-3731,FotÛgrafos gr·ficos,F; G; J,514
-3731,FotÛgrafos industriales,F; G; J,514
-3731,FotÛgrafos publicitarios,F; G; J,514
-3731,FotÛgrafos retratistas,F; G; J,514
+3731,Fot√≥grafos a√©reos,F; G; J,514
+3731,Fot√≥grafos cient√≠ficos,F; G; J,514
+3731,Fot√≥grafos gr√°ficos,F; G; J,514
+3731,Fot√≥grafos industriales,F; G; J,514
+3731,Fot√≥grafos publicitarios,F; G; J,514
+3731,Fot√≥grafos retratistas,F; G; J,514
 9310,Fregaplatos,C; M,990
 6110,Fruticultores,A; B; C; D; G; J; M,699
 7894,Fumigadores,A; B; C; J,884
 5991,Funcionarios de prisiones,G; I; J; L; M,690
-2426,Funcionarios de servicio de conservaciÛn,F; G; J,187
-2623,"Funcionarios del Cuerpo de GestiÛn de la
-AdministraciÛn Civil del Estado",F; G; J,271
+2426,Funcionarios de servicio de conservaci√≥n,F; G; J,187
+2623,"Funcionarios del Cuerpo de Gesti√≥n de la
+Administraci√≥n Civil del Estado",F; G; J,271
 2623,"Funcionarios del Cuerpo Especial de
 Instituciones Penitenciarias",F; G; J,271
-2623,Funcionarios del Grupo A o B o asimilados de la AdministraciÛn AutonÛmica (n.c.o.p.),F; G; J,271
-2623,Funcionarios del Grupo A o B o asimilados de la AdministraciÛn Local (n.c.o.p.),F; G; J,271
+2623,Funcionarios del Grupo A o B o asimilados de la Administraci√≥n Auton√≥mica (n.c.o.p.),F; G; J,271
+2623,Funcionarios del Grupo A o B o asimilados de la Administraci√≥n Local (n.c.o.p.),F; G; J,271
 3135,Fundidores de alto horno,G; H; J; M,372
-8121,Fundidores de segunda fusiÛn (metalurgia),A; B; C; H; J; M,897
+8121,Fundidores de segunda fusi√≥n (metalurgia),A; B; C; H; J; M,897
 3721,Futbolistas,A; B; C; D; G; H; J; M,506
 5831,"Gambuceros (empleados de despensa de
 barco)",F; G; J; L,654
@@ -843,13 +843,13 @@ carne",A; B; C; D; G; M,703
 0011,Generales del aire,F; G; H; I; J; L,1043
 2421,Genetistas celulares,E; F; G; J,177
 2421,Genetistas moleculares,E; F; G; J,177
-2414,GeofÌsicos,F; G; J,171
-2821,GeÛgrafos,F; G; J,305
-CODIGO,DESCRIPCION,GRUPO,PAG.
-2414,GeÛlogos,F; G; J,171
+2414,Geof√≠sicos,F; G; J,171
+2821,Ge√≥grafos,F; G; J,305
+|CODIGO,DESCRIPCION,GRUPO,PAG.
+2414,Ge√≥logos,F; G; J,171
 1509,Gerentes de agencias de viajes,F; G; J; L,100
 1419,Gerentes de albergues juveniles,F; G; J; L,86
-1422,Gerentes de bares y cafeterÌas,F; G; J; L,90
+1422,Gerentes de bares y cafeter√≠as,F; G; J; L,90
 1419,Gerentes de camping,F; G; J; L,86
 1419,Gerentes de camping de autocaravanas,F; G; J; L,86
 1501,Gerentes de casinos,F; G; J; L,98
@@ -860,32 +860,32 @@ CODIGO,DESCRIPCION,GRUPO,PAG.
 1501,Gerentes de centros deportivos,F; G; J; L,98
 1431,Gerentes de comercios al por mayor,F; G; J; L,94
 1432,Gerentes de comercios al por menor,F; G; J; L,96
-1509,"Gerentes de empresas de gestiÛn de
+1509,"Gerentes de empresas de gesti√≥n de
 residuos",F; G; J; L,100
-1501,Gerentes de escuelas de equitaciÛn,F; G; J; L,98
+1501,Gerentes de escuelas de equitaci√≥n,F; G; J; L,98
 1432,"Gerentes de establecimientos de
-alimentaciÛn",F; G; J; L,96
+alimentaci√≥n",F; G; J; L,96
 1411,Gerentes de hoteles,F; G; J; L,84
 1419,Gerentes de moteles,F; G; J; L,86
 1501,Gerentes de parques de atracciones,F; G; J; L,98
 1421,Gerentes de restaurantes,F; G; J; L,88
-1501,Gerentes de salas cinematogr·ficas,F; G; J; L,98
+1501,Gerentes de salas cinematogr√°ficas,F; G; J; L,98
 1501,Gerentes de salas de billar/juegos,F; G; J; L,98
 1501,Gerentes de salas teatrales,F; G; J; L,98
 1432,Gerentes de supermercados,F; G; J; L,96
 1432,Gerentes de tiendas,F; G; J; L,96
 3534,Gestores inmobiliarios,F; I; J; L,468
 5831,Gobernantes de hospital,F; G; J; L,654
-5831,Gobernantes de hostelerÌa,F; G; J; L,654
+5831,Gobernantes de hosteler√≠a,F; G; J; L,654
 3721,Golfistas,A; B; C; D; G; H; J; M,506
 7616,Grabadores al aguafuerte de vidrio,C; E; G; J; M,826
 4301,Grabadores de datos en ordenador,J,561
-7122,"Grabadores de inscripciones, piedra Û
-m·rmol a mano",A; B; C; D; J; M,734
+7122,"Grabadores de inscripciones, piedra √≥
+m√°rmol a mano",A; B; C; D; J; M,734
 7616,Grabadores de vidrio,C; E; G; J; M,826
-2121,"Graduados en enfermerÌa no
+2121,"Graduados en enfermer√≠a no
 especializados",E; F; G; H; J; L; M,107
-7892,Grumetes encargados de la pÛlvora,A; B; C; D; E; G; H; J,880
+7892,Grumetes encargados de la p√≥lvora,A; B; C; D; E; G; H; J,880
 8312,Guardafrenos de ferrocarriles,C; G; H; I; J,951
 8312,Guardagujas de ferrocarriles,C; G; H; I; J,951
 5993,Guardas de cotos de caza y pesca,A; C; D; F; G; H; I; J; M,694
@@ -893,13 +893,13 @@ especializados",E; F; G; H; J; L; M,107
 5993,Guardas forestales,A; C; D; F; G; H; I; J; M,694
 5910,Guardias civiles,F; G; H; I; J; L; M,674
 7837,Guarnicioneros,C; E; G; J; M,876
-5823,GuÌas acompaÒantes de viaje turÌstico,F; I; J; L,648
-3724,GuÌas de actividades de aventura,A; D; F; G; I; L,512
-5825,GuÌas de museo,F; I; J; L,652
-CODIGO,DESCRIPCION,GRUPO,PAG.
-5825,GuÌas de parque natural,F; I; J; L,652
-5823,GuÌas de ruta turÌstica,F; I; J; L,648
-5825,GuÌas local de turismo,F; I; J; L,652
+5823,Gu√≠as acompa√±antes de viaje tur√≠stico,F; I; J; L,648
+3724,Gu√≠as de actividades de aventura,A; D; F; G; I; L,512
+5825,Gu√≠as de museo,F; I; J; L,652
+|CODIGO,DESCRIPCION,GRUPO,PAG.
+5825,Gu√≠as de parque natural,F; I; J; L,652
+5823,Gu√≠as de ruta tur√≠stica,F; I; J; L,648
+5825,Gu√≠as local de turismo,F; I; J; L,652
 2921,Guionistas,F; G; J,321
 7704,"Heladeros, artesanal",B; C; D; M,846
 7122,Hendedores-tronzadores piedra,A; B; C; D; J; M,734
@@ -910,161 +910,161 @@ CODIGO,DESCRIPCION,GRUPO,PAG.
 2939,Hipnotizadores,F; G; H; J; M,341
 2822,Historiadores,F; G; J,307
 7891,Hombres rana de salvamento,A; B; C; D; G; H; I; J; L; M,878
-3331,HomeÛpatas,E; F; G; J; L; M,440
+3331,Home√≥patas,E; F; G; J; L; M,440
 6120,Horticultores,A; B; C; D; G; M,701
 2484,Ilustradores,E; F; G; J,247
-3110,Ilustradores tÈcnicos,E; G; J; M,344
+3110,Ilustradores t√©cnicos,E; G; J; M,344
 2830,Imanes,F; G; J; L,315
 7193,Impermeabilizadores de terrazas,A; B; C; D; J; M,744
 7811,Impregnadores de madera,A; B; C; D; M,858
 7622,Impresores a la plancha,A; B; C; D; E; G; H; J; M,836
-2936,Informadores del estado del tr·fico,F; G; H; J; L,337
+2936,Informadores del estado del tr√°fico,F; G; H; J; L,337
 4411,Informadores en oficina de turismo,F; G; H; I; J; L,565
 2326,"Informadores y documentalistas de
-educaciÛn ambiental",F; G; J; L,161
-2434,Ingenieros aeron·ticos,F; G; J,197
-2432,"Ingenieros agrÛnomos, construcciones
+educaci√≥n ambiental",F; G; J; L,161
+2434,Ingenieros aeron√°ticos,F; G; J,197
+2432,"Ingenieros agr√≥nomos, construcciones
 rurales",F; G; J,193
-2433,"Ingenieros agrÛnomos, maquinaria
-agrÌcola",F; G; J,195
-2439,Ingenieros biomÈdicos,F; G; J,205
+2433,"Ingenieros agr√≥nomos, maquinaria
+agr√≠cola",F; G; J,195
+2439,Ingenieros biom√©dicos,F; G; J,205
 2712,Ingenieros de aplicaciones,F; G; J,289
-2442,Ingenieros de diseÒo de hardware,F; G; J,209
+2442,Ingenieros de dise√±o de hardware,F; G; J,209
 2439,Ingenieros de explosivos,F; G; J,205
 2431,Ingenieros de instalaciones industriales,F; G; J,191
 2439,Ingenieros de materiales,F; G; J,205
 2423,"Ingenieros de montes, explotaciones
 forestales",F; G; J,181
 2423,"Ingenieros de montes, silvipascicultura",F; G; J,181
-2431,Ingenieros de organizaciÛn industrial,F; G; J,191
-2431,Ingenieros de planificaciÛn y producciÛn,F; G; J,191
-2443,Ingenieros de radiodifusiÛn,F; G; J,211
+2431,Ingenieros de organizaci√≥n industrial,F; G; J,191
+2431,Ingenieros de planificaci√≥n y producci√≥n,F; G; J,191
+2443,Ingenieros de radiodifusi√≥n,F; G; J,211
 2439,Ingenieros de seguridad,F; G; J,205
-2453,Ingenieros de tr·fico,F; G; J,217
+2453,Ingenieros de tr√°fico,F; G; J,217
 2425,Ingenieros del medio natural,F; G; J,185
-2442,Ingenieros electrÛnicos,F; G; J,209
-2422,"Ingenieros en agronomÌa, fitotecnia",F; G; J,179
-2422,"Ingenieros en agronomÌa, zootecnia",F; G; J,179
-2432,Ingenieros en construcciÛn y obra civil,F; G; J,193
-CODIGO,DESCRIPCION,GRUPO,PAG.
+2442,Ingenieros electr√≥nicos,F; G; J,209
+2422,"Ingenieros en agronom√≠a, fitotecnia",F; G; J,179
+2422,"Ingenieros en agronom√≠a, zootecnia",F; G; J,179
+2432,Ingenieros en construcci√≥n y obra civil,F; G; J,193
+|CODIGO,DESCRIPCION,GRUPO,PAG.
 2441,"Ingenieros en electricidad, equipo
-electromec·nico",F; G; J,207
-2441,"Ingenieros en electricidad, iluminaciÛn",F; G; J,207
-2441,"Ingenieros en electricidad, producciÛn de
-energÌa",F; G; J,207
-2433,Ingenieros en mec·nica industrial,F; G; J,195
+electromec√°nico",F; G; J,207
+2441,"Ingenieros en electricidad, iluminaci√≥n",F; G; J,207
+2441,"Ingenieros en electricidad, producci√≥n de
+energ√≠a",F; G; J,207
+2433,Ingenieros en mec√°nica industrial,F; G; J,195
 2436,Ingenieros en metalurgia,F; G; J,201
 2436,Ingenieros en minas,F; G; J,201
 2443,Ingenieros en telecomunicaciones,F; G; J,211
 2425,Ingenieros forestales,F; G; J,185
 2425,Ingenieros forestales y del medio natural,F; G; J,185
-2454,Ingenieros geÛgrafos,F; G; J,219
+2454,Ingenieros ge√≥grafos,F; G; J,219
 2431,Ingenieros industriales,F; G; J,191
-2729,"Ingenieros inform·ticos (seguridad en la
+2729,"Ingenieros inform√°ticos (seguridad en la
 red)",F; G; J,301
-2711,Ingenieros inform·ticos de sistemas,F; G; J,287
-2723,Ingenieros inform·ticos en redes,F; G; J,299
-2433,Ingenieros mec·nicos,F; G; J,195
+2711,Ingenieros inform√°ticos de sistemas,F; G; J,287
+2723,Ingenieros inform√°ticos en redes,F; G; J,299
+2433,Ingenieros mec√°nicos,F; G; J,195
 2437,Ingenieros medioambientales,F; G; J,203
 2433,Ingenieros navales,F; G; J,195
-2439,Ingenieros Ûpticos,F; G; J,205
-2435,Ingenieros quÌmicos,F; G; J,199
-2435,"Ingenieros quÌmicos, caucho y pl·stico",F; G; J,199
-2435,"Ingenieros quÌmicos, petrÛleo y gas natural",F; G; J,199
-2464,Ingenieros tÈcnicos aeron·uticos,E; F; G; J,227
-2472,Ingenieros tÈcnicos de diseÒo de hardware,F; G; J,237
-2462,Ingenieros tÈcnicos de obras p˙blicas,F; G; J,223
-2461,"Ingenieros tÈcnicos de organizaciÛn
+2439,Ingenieros √≥pticos,F; G; J,205
+2435,Ingenieros qu√≠micos,F; G; J,199
+2435,"Ingenieros qu√≠micos, caucho y pl√°stico",F; G; J,199
+2435,"Ingenieros qu√≠micos, petr√≥leo y gas natural",F; G; J,199
+2464,Ingenieros t√©cnicos aeron√°uticos,E; F; G; J,227
+2472,Ingenieros t√©cnicos de dise√±o de hardware,F; G; J,237
+2462,Ingenieros t√©cnicos de obras p√∫blicas,F; G; J,223
+2461,"Ingenieros t√©cnicos de organizaci√≥n
 industrial",F; G; J,221
-2461,"Ingenieros tÈcnicos de planificaciÛn y
-producciÛn",F; G; J,221
-2424,"Ingenieros tÈcnicos en agronomÌa,
+2461,"Ingenieros t√©cnicos de planificaci√≥n y
+producci√≥n",F; G; J,221
+2424,"Ingenieros t√©cnicos en agronom√≠a,
 hortofruticultura",F; G; J,183
-2462,"Ingenieros tÈcnicos en construcciÛn y obra
+2462,"Ingenieros t√©cnicos en construcci√≥n y obra
 civil",F; G; J,223
-2471,Ingenieros tÈcnicos en electricidad,F; G; J,235
-2472,Ingenieros tÈcnicos en electrÛnica,F; G; J,237
-2466,Ingenieros tÈcnicos en minas,F; G; J,231
-2465,Ingenieros tÈcnicos en quÌmica,E; F; G; J,229
-2473,Ingenieros tÈcnicos en telecomunicaciones,F; G; J,239
-2483,Ingenieros tÈcnicos en topografÌa,E; F; G; J,245
-2425,Ingenieros tÈcnicos forestales,F; G; J,185
-2461,Ingenieros tÈcnicos industriales,F; G; J,221
-2469,"Ingenieros tÈcnicos industriales, eficiencia",F; G; J,233
-2463,Ingenieros tÈcnicos mec·nicos,F; G; J,225
-2463,Ingenieros tÈcnicos navales,F; G; J,225
-CODIGO,DESCRIPCION,GRUPO,PAG.
-2469,"Ingenieros tÈcnicos, estudio de tiempos y
+2471,Ingenieros t√©cnicos en electricidad,F; G; J,235
+2472,Ingenieros t√©cnicos en electr√≥nica,F; G; J,237
+2466,Ingenieros t√©cnicos en minas,F; G; J,231
+2465,Ingenieros t√©cnicos en qu√≠mica,E; F; G; J,229
+2473,Ingenieros t√©cnicos en telecomunicaciones,F; G; J,239
+2483,Ingenieros t√©cnicos en topograf√≠a,E; F; G; J,245
+2425,Ingenieros t√©cnicos forestales,F; G; J,185
+2461,Ingenieros t√©cnicos industriales,F; G; J,221
+2469,"Ingenieros t√©cnicos industriales, eficiencia",F; G; J,233
+2463,Ingenieros t√©cnicos mec√°nicos,F; G; J,225
+2463,Ingenieros t√©cnicos navales,F; G; J,225
+|CODIGO,DESCRIPCION,GRUPO,PAG.
+2469,"Ingenieros t√©cnicos, estudio de tiempos y
 movimientos",F; G; J,233
-2432,"Ingenieros, construcciÛn/aeropuertos",F; G; J,193
-2432,"Ingenieros, construcciÛn/carreteras y
+2432,"Ingenieros, construcci√≥n/aeropuertos",F; G; J,193
+2432,"Ingenieros, construcci√≥n/carreteras y
 autopistas",F; G; J,193
-2432,"Ingenieros, construcciÛn/edificios",F; G; J,193
-2432,"Ingenieros, construcciÛn/puentes",F; G; J,193
-2437,"Ingenieros, control de la contaminaciÛn
-atmosfÈrica",F; G; J,203
-2436,"Ingenieros, extracciÛn de petrÛleo y gas
+2432,"Ingenieros, construcci√≥n/edificios",F; G; J,193
+2432,"Ingenieros, construcci√≥n/puentes",F; G; J,193
+2437,"Ingenieros, control de la contaminaci√≥n
+atmosf√©rica",F; G; J,203
+2436,"Ingenieros, extracci√≥n de petr√≥leo y gas
 natural",F; G; J,201
 2437,"Ingenieros, procesamiento de aguas
 residuales",F; G; J,203
 3404,"Inspectores de entrevistadores, censos y
 encuestas",G; J; L,450
 2623,Inspectores de Finanzas del Estado,F; G; J,271
-3631,Inspectores de policÌa,F; G; H; I; J; L,490
+3631,Inspectores de polic√≠a,F; G; H; I; J; L,490
 3629,Inspectores de precios,F; G; J; L,488
 2623,Inspectores de Trabajo y Seguridad Social,F; G; J,271
 2321,Inspectores escolares,F; G; J; L,151
 2130,Inspectores veterinarios,C; E; G; H; J; M,113
-7132,Instaladores de cerramientos met·licos,A; B; C; D; J; M,738
+7132,Instaladores de cerramientos met√°licos,A; B; C; D; J; M,738
 7223,"Instaladores de conducciones en obra
-p˙blica",A; B; C; D; J; M,756
-7192,Instaladores de fachadas tÈcnicas,A; B; C; D; J; M,742
-7315,Instaladores de funiculares y telefÈricos,A; B; C; D; E; G; J; M,784
+p√∫blica",A; B; C; D; J; M,756
+7192,Instaladores de fachadas t√©cnicas,A; B; C; D; J; M,742
+7315,Instaladores de funiculares y telef√©ricos,A; B; C; D; E; G; J; M,784
 7222,Instaladores de gas,A; B; C; D; J; M,754
 7293,"Instaladores de lunas y cristales en
-vehÌculos",A; B; C; D; E; J; M,770
+veh√≠culos",A; B; C; D; E; J; M,770
 7292,Instaladores de material aislante,A; B; C; D; J; M,768
 7292,"Instaladores de material aislante en
-calderas y tuberÌas",A; B; C; D; J; M,768
-7292,"Instaladores de material aislante en instalaciones de refrigeraciÛn y
-climatizaciÛn",A; B; C; D; J; M,768
+calderas y tuber√≠as",A; B; C; D; J; M,768
+7292,"Instaladores de material aislante en instalaciones de refrigeraci√≥n y
+climatizaci√≥n",A; B; C; D; J; M,768
 7292,Instaladores de material insonorizante,A; B; C; D; J; M,768
 7193,"Instaladores de materiales de
-impermeabilizaciÛn en edificios",A; B; C; D; J; M,744
+impermeabilizaci√≥n en edificios",A; B; C; D; J; M,744
 7240,Instaladores de moqueta,A; B; C; D; J; M,762
 8201,Instaladores de motores,B; C; D; E; G; H; J; M,943
 7533,Instaladores de ordenadores,A; B; C; E; G; J; M,814
 7315,"Instaladores de pozos y equipos de
-perforaciÛn de petrÛleo y gas",A; B; C; D; E; G; J; M,784
-7294,Instaladores de sistemas de energÌa solar,A; B; C; D; J; M,772
-7533,Instaladores de telefonÌa,A; B; C; E; G; J; M,814
-7221,Instaladores de tuberÌas,A; B; C; D; J; M,752
-7223,Instaladores de tubos para conducciones en zanjas en obra p˙blica,A; B; C; D; J; M,756
-7522,"Instaladores reparadores de lÌneas
-elÈctricas de tracciÛn",A; B; C; D; E; G; J; M,808
-CODIGO,DESCRIPCION,GRUPO,PAG.
-7522,"Instaladores reparadores de lÌneas
-elÈctricas subterr·neas",A; B; C; D; E; G; J; M,808
-7522,"Instaladores reparadores de lÌneas
-elÈctricas, tendido aÈreo",A; B; C; D; E; G; J; M,808
+perforaci√≥n de petr√≥leo y gas",A; B; C; D; E; G; J; M,784
+7294,Instaladores de sistemas de energ√≠a solar,A; B; C; D; J; M,772
+7533,Instaladores de telefon√≠a,A; B; C; E; G; J; M,814
+7221,Instaladores de tuber√≠as,A; B; C; D; J; M,752
+7223,Instaladores de tubos para conducciones en zanjas en obra p√∫blica,A; B; C; D; J; M,756
+7522,"Instaladores reparadores de l√≠neas
+el√©ctricas de tracci√≥n",A; B; C; D; E; G; J; M,808
+|CODIGO,DESCRIPCION,GRUPO,PAG.
+7522,"Instaladores reparadores de l√≠neas
+el√©ctricas subterr√°neas",A; B; C; D; E; G; J; M,808
+7522,"Instaladores reparadores de l√≠neas
+el√©ctricas, tendido a√©reo",A; B; C; D; E; G; J; M,808
 7532,"Instaladores-reparadores de equipos de
 electromedicina",A; B; C; E; G; J; M,812
-3723,Instructores de aerÛbic,A; B; C; D; F; G; H; I; J; L; M,510
+3723,Instructores de aer√≥bic,A; B; C; D; F; G; H; I; J; L; M,510
 3723,Instructores de buceo,A; B; C; D; F; G; H; I; J; L; M,510
-3723,Instructores de educaciÛn fÌsica,A; B; C; D; F; G; H; I; J; L; M,510
-3723,Instructores de equitaciÛn,A; B; C; D; F; G; H; I; J; L; M,510
-3723,Instructores de esquÌ,A; B; C; D; F; G; H; I; J; L; M,510
-3723,Instructores de nataciÛn,A; B; C; D; F; G; H; I; J; L; M,510
+3723,Instructores de educaci√≥n f√≠sica,A; B; C; D; F; G; H; I; J; L; M,510
+3723,Instructores de equitaci√≥n,A; B; C; D; F; G; H; I; J; L; M,510
+3723,Instructores de esqu√≠,A; B; C; D; F; G; H; I; J; L; M,510
+3723,Instructores de nataci√≥n,A; B; C; D; F; G; H; I; J; L; M,510
 3723,Instructores de vela,A; B; C; D; F; G; H; I; J; L; M,510
 3153,Instructores de vuelo,E; F; G; H; I; J; L; M,386
 2932,Instrumentistas,E; F; G; I; J; L; M,329
 3713,Integradores sociales,F; G; I; J; L,498
-3533,"Intermediarios en la contrataciÛn de mano
+3533,"Intermediarios en la contrataci√≥n de mano
 de obra",F; I; J; L,466
-2923,IntÈrpretes,F; G; J; L,325
-2923,IntÈrpretes del lenguaje de signos,F; G; J; L,325
+2923,Int√©rpretes,F; G; J; L,325
+2923,Int√©rpretes del lenguaje de signos,F; G; J; L,325
 2611,Interventores,F; G; J,261
-2326,Investigadores en educaciÛn ambiental,F; G; J; L,161
+2326,Investigadores en educaci√≥n ambiental,F; G; J; L,161
 2426,Investigadores medioambientales,F; G; J,187
 6120,Jardineros,A; B; C; D; G; M,701
 3734,Jefes de cocina,F; G; H; J; K; M,520
@@ -1074,35 +1074,35 @@ de obra",F; I; J; L,466
 3125,"Jefes de equipo de instaladores de
 sistemas de electromedicina",E; G; H; J,354
 3201,Jefes de equipo de mineros,G; J; L,394
-3205,"Jefes de equipo de operadores de m·quinas de fabricaciÛn de productos de
+3205,"Jefes de equipo de operadores de m√°quinas de fabricaci√≥n de productos de
 caucho",F; G; J; L,402
-3205,"Jefes de equipo de operadores de m·quinas de fabricaciÛn de productos de
-material pl·stico",F; G; J; L,402
+3205,"Jefes de equipo de operadores de m√°quinas de fabricaci√≥n de productos de
+material pl√°stico",F; G; J; L,402
 3205,"Jefes de equipo de operadores de
-m·quinas de fabricaciÛn de productos de resinas naturales",F; G; J; L,402
+m√°quinas de fabricaci√≥n de productos de resinas naturales",F; G; J; L,402
 3203,"Jefes de equipo de operadores
-m·quina/elaboraciÛn (productos alimenticios, bebidas y tabaco)",F; G; J; L,398
+m√°quina/elaboraci√≥n (productos alimenticios, bebidas y tabaco)",F; G; J; L,398
 3202,"Jefes de equipo de trabajadores de
 acabado",D; F; H; J; L,396
-3206,"Jefes de equipo, fabricaciÛn de papel",F; G; J; L,404
+3206,"Jefes de equipo, fabricaci√≥n de papel",F; G; J; L,404
 1315,Jefes de estaciones de autobuses,F; G; J; L,64
 1315,Jefes de estaciones de ferrocarril,F; G; J; L,64
 4443,Jefes de sala de bingo,F; G; H; I; J; L,583
 5210,Jefes de tiendas de gran superficie,F; G; I; J; L,600
 7613,Joyeros,C; E; G; J; M,820
 2513,Jueces,F; G; H; J; L,253
-CODIGO,DESCRIPCION,GRUPO,PAG.
+|CODIGO,DESCRIPCION,GRUPO,PAG.
 3711,Jueces de paz,F; G; I; J; L,494
 9222,Lavacoches a mano,A; B; C,984
 9221,Lavanderos a mano,B; C,982
 9434,Lectores del contador de la electricidad,J,1004
 9434,Lectores del contador del agua,J,1004
 9434,Lectores del contador del gas,J,1004
-9543,LeÒadores,A; B; C; D; J; M,1026
-2923,LexicÛgrafos,F; G; J; L,325
+9543,Le√±adores,A; B; C; D; J; M,1026
+2923,Lexic√≥grafos,F; G; J; L,325
 9420,Limpiabotas,G; L,996
 9420,"Limpiadores callejeros de lunas de
-automÛviles",G; L,996
+autom√≥viles",G; L,996
 9229,Limpiadores de alfombras y moquetas,A; B; C,988
 9210,Limpiadores de autobuses,A; B; C,980
 9210,Limpiadores de aviones,A; B; C,980
@@ -1119,29 +1119,29 @@ arena",A; B; C; D; J; M,774
 9210,Limpiadores de trenes,A; B; C,980
 9223,Limpiadores de ventanas,A; B; C; D; J,986
 9223,Limpiadores de ventanas a grandes alturas,A; B; C; D; J,986
-9100,Limpiadores domÈsticos,B; C,978
+9100,Limpiadores dom√©sticos,B; C,978
 9210,Limpiadores en instituciones sanitarias,A; B; C,980
 9221,Limpiadores en seco a mano,B; C,982
 9543,Limpiadores-desbrozadores de montes,A; B; C; D; J; M,1026
 7621,Linotipistas,A; B; C; D; E; G; H; J; M,834
-4412,"Locutores de informaciÛn en estaciones de
+4412,"Locutores de informaci√≥n en estaciones de
 tren",F; G; H; I; L,567
 2936,Locutores de radio,F; G; H; J; L,337
-2936,Locutores de televisiÛn,F; G; H; J; L,337
+2936,Locutores de televisi√≥n,F; G; H; J; L,337
 2936,Locutores deportivos,F; G; H; J; L,337
 2154,Logopedas,F; G; J; L,123
 7311,Macheros a mano.,A; B; C; D; G; M,776
-2251,Maestros de educaciÛn infantil,F; G; J; L,143
-2240,Maestros de enseÒanza primaria,F; G; J; L,141
-2311,"Maestros de niÒos con dificultades
-auditivas, enseÒanza especial",F; G; J; L,147
-2311,"Maestros de niÒos con dificultades
-visuales, enseÒanza especial",F; G; J; L,147
-2220,"Maestros de taller de artes pl·sticas y
-diseÒo",F; G; J; L,137
+2251,Maestros de educaci√≥n infantil,F; G; J; L,143
+2240,Maestros de ense√±anza primaria,F; G; J; L,141
+2311,"Maestros de ni√±os con dificultades
+auditivas, ense√±anza especial",F; G; J; L,147
+2311,"Maestros de ni√±os con dificultades
+visuales, ense√±anza especial",F; G; J; L,147
+2220,"Maestros de taller de artes pl√°sticas y
+dise√±o",F; G; J; L,137
 2513,Magistrados,F; G; H; J; L,253
 5120,Maitres,B; C; F; I; J; K; L; M,598
-CODIGO,DESCRIPCION,GRUPO,PAG.
+|CODIGO,DESCRIPCION,GRUPO,PAG.
 9811,"Maleteros de carga y descarga en
 aeropuerto (handling)",A; B; C; D; H; M,1036
 7121,Mamposteros,A; B; C; D; J; M,732
@@ -1158,71 +1158,71 @@ aeropuerto (handling)",A; B; C; D; H; M,1036
 9310,Marmitones,C; M,990
 7240,Marmolistas,A; B; C; D; J; M,762
 3325,Masajistas deportivos,A; B; C; F; G; M,432
-5812,Masajistas no terapÈuticos,B; C; F; H; J; M,642
-3325,Masajistas terapÈuticos,A; B; C; F; G; M,432
+5812,Masajistas no terap√©uticos,B; C; F; H; J; M,642
+3325,Masajistas terap√©uticos,A; B; C; F; G; M,432
 7701,Matarifes,A; B; C; D; G; J; M,840
-2415,Matem·ticos,F; G; J,173
-2415,"Matem·ticos, matem·ticas aplicadas",F; G; J,173
+2415,Matem√°ticos,F; G; J,173
+2415,"Matem√°ticos, matem√°ticas aplicadas",F; G; J,173
 7322,Matriceros,A; B; C; E; G; J; M,788
 2123,Matronos,B; C; E; F; G; H; J; L; M,111
 5821,Mayordomos de barco,D; F; G; I; J; L; M,644
-5832,Mayordomos domÈsticos,F; G; I; L,656
-7401,"Mec·nicos ajustadores de sistemas de
-frenado de automÛviles",A; B; C; D; E; G; J; M,794
-7521,Mec·nicos de ascensores,A; B; C; D; E; G; J; M,806
-7402,Mec·nicos de aviaciÛn,A; B; C; D; E; G; J; M,796
-8201,Mec·nicos de banco (camiones),B; C; D; E; G; H; J; M,943
-7405,Mec·nicos de bicicletas,A; B; C; D; E; G; J; M,802
-7531,Mec·nicos de cajeros autom·ticos,A; B; C; D; E; G; J; M,810
-7402,"Mec·nicos de componentes de motores de
-reacciÛn",A; B; C; D; E; G; J; M,796
-7402,Mec·nicos de helicÛpteros,A; B; C; D; E; G; J; M,796
-7611,"Mec·nicos de instrumentos de
-meteorologÌa",C; E; G; J; M,816
-7403,Mec·nicos de m·quinas de minerÌa,A; B; C; D; E; G; J; M,798
-7403,Mec·nicos de m·quinas fijas,A; B; C; D; E; G; J; M,798
-7401,Mec·nicos de motocicletas,A; B; C; D; E; G; J; M,794
-7402,Mec·nicos de motores a reacciÛn,A; B; C; D; E; G; J; M,796
-7402,Mec·nicos de motores de aviÛn,A; B; C; D; E; G; J; M,796
-7404,Mec·nicos de motores de tren,A; B; C; D; E; G; J; M,800
-7401,"Mec·nicos de motores diesel (transporte
+5832,Mayordomos dom√©sticos,F; G; I; L,656
+7401,"Mec√°nicos ajustadores de sistemas de
+frenado de autom√≥viles",A; B; C; D; E; G; J; M,794
+7521,Mec√°nicos de ascensores,A; B; C; D; E; G; J; M,806
+7402,Mec√°nicos de aviaci√≥n,A; B; C; D; E; G; J; M,796
+8201,Mec√°nicos de banco (camiones),B; C; D; E; G; H; J; M,943
+7405,Mec√°nicos de bicicletas,A; B; C; D; E; G; J; M,802
+7531,Mec√°nicos de cajeros autom√°ticos,A; B; C; D; E; G; J; M,810
+7402,"Mec√°nicos de componentes de motores de
+reacci√≥n",A; B; C; D; E; G; J; M,796
+7402,Mec√°nicos de helic√≥pteros,A; B; C; D; E; G; J; M,796
+7611,"Mec√°nicos de instrumentos de
+meteorolog√≠a",C; E; G; J; M,816
+7403,Mec√°nicos de m√°quinas de miner√≠a,A; B; C; D; E; G; J; M,798
+7403,Mec√°nicos de m√°quinas fijas,A; B; C; D; E; G; J; M,798
+7401,Mec√°nicos de motocicletas,A; B; C; D; E; G; J; M,794
+7402,Mec√°nicos de motores a reacci√≥n,A; B; C; D; E; G; J; M,796
+7402,Mec√°nicos de motores de avi√≥n,A; B; C; D; E; G; J; M,796
+7404,Mec√°nicos de motores de tren,A; B; C; D; E; G; J; M,800
+7401,"Mec√°nicos de motores diesel (transporte
 por carretera)",A; B; C; D; E; G; J; M,794
-3316,Mec·nicos de prÛtesis dentales,E; F; G; J; M,420
-7250,Mec·nicos de sistemas de climatizaciÛn,A; B; C; D; J; M,764
-7250,Mec·nicos de sistemas de refrigeraciÛn,A; B; C; D; J; M,764
-3316,Mec·nicos dentistas,E; F; G; J; M,420
-CODIGO,DESCRIPCION,GRUPO,PAG.
-7521,"Mec·nicos electricistas de aparatos
-electrodomÈsticos",A; B; C; D; E; G; J; M,806
-7531,Mec·nicos electrÛnico,A; B; C; D; E; G; J; M,810
-7401,"Mec·nicos reparadores de vehÌculos de
+3316,Mec√°nicos de pr√≥tesis dentales,E; F; G; J; M,420
+7250,Mec√°nicos de sistemas de climatizaci√≥n,A; B; C; D; J; M,764
+7250,Mec√°nicos de sistemas de refrigeraci√≥n,A; B; C; D; J; M,764
+3316,Mec√°nicos dentistas,E; F; G; J; M,420
+|CODIGO,DESCRIPCION,GRUPO,PAG.
+7521,"Mec√°nicos electricistas de aparatos
+electrodom√©sticos",A; B; C; D; E; G; J; M,806
+7531,Mec√°nicos electr√≥nico,A; B; C; D; E; G; J; M,810
+7401,"Mec√°nicos reparadores de veh√≠culos de
 motor",A; B; C; D; E; G; J; M,794
-7403,"Mec·nicos/reparadores de m·quinas de
-construcciÛn",A; B; C; D; E; G; J; M,798
-7521,Mec·nicos-electricista,A; B; C; D; E; G; J; M,806
+7403,"Mec√°nicos/reparadores de m√°quinas de
+construcci√≥n",A; B; C; D; E; G; J; M,798
+7521,Mec√°nicos-electricista,A; B; C; D; E; G; J; M,806
 3521,Mediadores de seguros,F; G; J; L,456
-2111,MÈdicos de cabecera,E; F; G; H; J; L; M,103
-2111,MÈdicos de familia,E; F; G; H; J; L; M,103
-2112,MÈdicos especialistas,E; F; G; H; J; L; M,105
-2112,MÈdicos especializ. en rehabilitaciÛn,E; F; G; H; J; L; M,105
-2151,MÈdicos estomatÛlogos,C; E; F; G; H; J; M,117
-2411,MÈdicos fÌsicos,F; G; J,165
-2112,"MÈdicos internos residentes (excepto
-mÈdicos de familia y comunitaria)",E; F; G; H; J; L; M,105
-2111,"MÈdicos internos residentes
+2111,M√©dicos de cabecera,E; F; G; H; J; L; M,103
+2111,M√©dicos de familia,E; F; G; H; J; L; M,103
+2112,M√©dicos especialistas,E; F; G; H; J; L; M,105
+2112,M√©dicos especializ. en rehabilitaci√≥n,E; F; G; H; J; L; M,105
+2151,M√©dicos estomat√≥logos,C; E; F; G; H; J; M,117
+2411,M√©dicos f√≠sicos,F; G; J,165
+2112,"M√©dicos internos residentes (excepto
+m√©dicos de familia y comunitaria)",E; F; G; H; J; L; M,105
+2111,"M√©dicos internos residentes
 especializados en Medicina de Familia y Comunitaria",E; F; G; H; J; L; M,103
 6421,Mejilloneros de batea,A; B; C; D; G; M,719
 4221,Mensajeros,C; F; H; J,555
 9433,Mensajeros a pie,D; H,1002
 4221,"Mensajeros de correspondencia
 motorizado",C; F; H; J,555
-2412,MeteorÛlogos,F; G; J,167
-2412,"MeteorÛlogos, predicciÛn del tiempo",F; G; J,167
+2412,Meteor√≥logos,F; G; J,167
+2412,"Meteor√≥logos, predicci√≥n del tiempo",F; G; J,167
 7708,Mezcladores de tabaco,C; M,854
-2421,MicrobiÛlogos,E; F; G; J,177
+2421,Microbi√≥logos,E; F; G; J,177
 1111,"Miembros de las asambleas legislativas de
 las CC.AA.",F; G; J; L,36
-1111,"Miembros de los Ûrganos de gobierno de
+1111,"Miembros de los √≥rganos de gobierno de
 las CC.AA.",F; G; J; L,36
 1111,"Miembros del Consejo General del Poder
 Judicial",F; G; J; L,36
@@ -1231,442 +1231,442 @@ Judicial",F; G; J; L,36
 8111,Mineros del arranque de metales,A; B; C; D; H; M,889
 8111,"Mineros del arranque de piedras
 ornamentales",A; B; C; D; H; M,889
-8111,Mineros del arranque del carbÛn,A; B; C; D; H; M,889
+8111,Mineros del arranque del carb√≥n,A; B; C; D; H; M,889
 1111,Ministros del gobierno,F; G; J; L,36
 3716,"Misioneros, seglar",F; I; J; L,504
 7615,Modeladores de vidrio,C; E; G; H; J; M,824
 7322,Modelistas,A; B; C; E; G; J; M,788
-7211,Modelistas de escayola de la construcciÛn,A; B; C; D; J; M,748
+7211,Modelistas de escayola de la construcci√≥n,A; B; C; D; J; M,748
 7614,Modelistas de objetos de loza y porcelana,C; E; G; J; M,822
-5493,Modelos artÌsticos,F; H; M,618
+5493,Modelos art√≠sticos,F; H; M,618
 5493,Modelos de moda,F; H; M,618
 5493,Modelos de publicidad,F; H; M,618
-CODIGO,DESCRIPCION,GRUPO,PAG.
+|CODIGO,DESCRIPCION,GRUPO,PAG.
 7831,Modistos,C; E; G; J; M,864
 7614,Moldeadores de muelas abrasivas,C; E; G; J; M,822
-7899,Moldeadores de objetivos Ûpticos,C; E; G; J,886
+7899,Moldeadores de objetivos √≥pticos,C; E; G; J,886
 7614,"Moldeadores de objetos de loza y
 porcelana",C; E; G; J; M,822
 7311,Moldeadores en suelo y fosas,A; B; C; D; G; M,776
-7311,"Moldeadores sobre banco, fundiciÛn de
+7311,"Moldeadores sobre banco, fundici√≥n de
 metales",A; B; C; D; G; M,776
 2326,"Monitores de aula de naturaleza
 permanente u otros equipamientos",F; G; J; L,161
-2326,Monitores de centros de interpretaciÛn de sendas de la naturaleza,F; G; J; L,161
-2326,Monitores de centros de interpretaciÛn en medioambiente urbano o industrial,F; G; J; L,161
+2326,Monitores de centros de interpretaci√≥n de sendas de la naturaleza,F; G; J; L,161
+2326,Monitores de centros de interpretaci√≥n en medioambiente urbano o industrial,F; G; J; L,161
 3724,Monitores de tiempo libre,A; D; F; G; I; L,512
-3715,"Monitores socioculturales, integraciÛn",F; I; L,502
-2326,"Monitores/guÌas/intÈrpretes del patrimonio
+3715,"Monitores socioculturales, integraci√≥n",F; I; L,502
+2326,"Monitores/gu√≠as/int√©rpretes del patrimonio
 socionatural",F; G; J; L,161
-8156,"Montadores a m·quina de talones de
+8156,"Montadores a m√°quina de talones de
 calzado",C; E; G; H; J; M,927
-8156,"Montadores a m·quina para confeccionar
+8156,"Montadores a m√°quina para confeccionar
 guantes",C; E; G; H; J; M,927
 8201,"Montadores ajustadores de elementos
-mec·nicos de motores aeron·uticos",B; C; D; E; G; H; J; M,943
+mec√°nicos de motores aeron√°uticos",B; C; D; E; G; H; J; M,943
 7199,Montadores de andamios,A; B; C; D; J; M,746
-8202,Montadores de aparatos electrÛnicos,C; E; G; H; J; M,945
+8202,Montadores de aparatos electr√≥nicos,C; E; G; H; J; M,945
 8202,"Montadores de aparatos y cuadros
-elÈctricos",C; E; G; H; J; M,945
+el√©ctricos",C; E; G; H; J; M,945
 8202,Montadores de bobinadora/motores,C; E; G; H; J; M,945
-8202,Montadores de equipos electrÛnicos,C; E; G; H; J; M,945
-7533,Montadores de equipos inform·ticos,A; B; C; E; G; J; M,814
-7314,Montadores de estructuras met·licas,A; B; C; D; G; J; M,782
+8202,Montadores de equipos electr√≥nicos,C; E; G; H; J; M,945
+7533,Montadores de equipos inform√°ticos,A; B; C; E; G; J; M,814
+7314,Montadores de estructuras met√°licas,A; B; C; D; G; J; M,782
 7222,"Montadores de instalaciones de gas en
 edificios",A; B; C; D; J; M,754
 7294,Montadores de instalaciones solares,A; B; C; D; J; M,772
 8209,Montadores de joyas,C; E; G; H; J; M,947
-8202,Montadores de maquinaria elÈctrica,C; E; G; H; J; M,945
+8202,Montadores de maquinaria el√©ctrica,C; E; G; H; J; M,945
 8201,Montadores de motores,B; C; D; E; G; H; J; M,943
-7621,Montadores de pantallas de serigrafÌa,A; B; C; D; E; G; H; J; M,834
-7294,Montadores de placas de energÌa solar,A; B; C; D; J; M,772
-8202,Montadores de telÈfonos,C; E; G; H; J; M,945
+7621,Montadores de pantallas de serigraf√≠a,A; B; C; D; E; G; H; J; M,834
+7294,Montadores de placas de energ√≠a solar,A; B; C; D; J; M,772
+8202,Montadores de tel√©fonos,C; E; G; H; J; M,945
 8202,Montadores de televisores,C; E; G; H; J; M,945
-8201,Montadores de vehÌculos,B; C; D; E; G; H; J; M,943
+8201,Montadores de veh√≠culos,B; C; D; E; G; H; J; M,943
 3831,Montadores de video,E; G; I; J,534
 7315,"Montadores-instaladores de aparatos de
-elevaciÛn",A; B; C; D; E; G; J; M,784
+elevaci√≥n",A; B; C; D; E; G; J; M,784
 7315,Montadores-instaladores de ascensores,A; B; C; D; E; G; J; M,784
 7315,"Montadores-instaladores de cables,
 cuerdas y/o poleas",A; B; C; D; E; G; J; M,784
 9543,Monteros,A; B; C; D; J; M,1026
 8440,"Motoristas repartidores (excepto
-mensajerÌa)",A; B; C; D; G; H; I; J; M,975
-CODIGO,DESCRIPCION,GRUPO,PAG.
+mensajer√≠a)",A; B; C; D; G; H; I; J; M,975
+|CODIGO,DESCRIPCION,GRUPO,PAG.
 8440,"Motoristas, repartidores de pizzas",A; B; C; D; G; H; I; J; M,975
 9432,Mozo de equipaje,A; B; C; D; H,1000
-5922,Mozos díescuadra,F; G; H; I; J; L; M,678
-9811,"Mozos de almacÈn, mercados de abastos",A; B; C; D; H; M,1036
+5922,Mozos d¬íescuadra,F; G; H; I; J; L; M,678
+9811,"Mozos de almac√©n, mercados de abastos",A; B; C; D; H; M,1036
 9520,Mozos de cuadra,A; B; C; D; M,1018
 9811,Mozos de mudanzas,A; B; C; D; H; M,1036
-2932,M˙sicos callejeros,E; F; G; I; J; L; M,329
-2932,M˙sicos de salas de fiesta,E; F; G; I; J; L; M,329
-3331,NaturÛpatas,E; F; G; J; L; M,440
-5722,NiÒeros,B; C; D; G; I; J; L; M,638
+2932,M√∫sicos callejeros,E; F; G; I; J; L; M,329
+2932,M√∫sicos de salas de fiesta,E; F; G; I; J; L; M,329
+3331,Natur√≥patas,E; F; G; J; L; M,440
+5722,Ni√±eros,B; C; D; G; I; J; L; M,638
 2591,Notarios,F; G; J; L,255
 2921,Novelistas,F; G; J,321
 2937,Novilleros,A; B; C; D; E; G; H; J; M,339
-5895,Numerom·nticos,F; G; I; L,670
-2414,OceanÛgrafos geofÌsicos,F; G; J,171
-2414,OceanÛgrafos geolÛgicos,F; G; J,171
-2151,OdontÛlogos,C; E; F; G; H; J; M,117
+5895,Numerom√°nticos,F; G; I; L,670
+2414,Ocean√≥grafos geof√≠sicos,F; G; J,171
+2414,Ocean√≥grafos geol√≥gicos,F; G; J,171
+2151,Odont√≥logos,C; E; F; G; H; J; M,117
 3152,Oficiales de barco,E; F; G; I; J; L; M,384
 3151,Oficiales maquinistas de barcos,E; G; I; J; L; M,382
-3153,Oficiales mec·nicos de vuelo,E; F; G; H; I; J; L; M,386
+3153,Oficiales mec√°nicos de vuelo,E; F; G; H; I; J; L; M,386
 3153,Oficiales navegantes de vuelo,E; F; G; H; I; J; L; M,386
 3711,"Oficiales, justicia",F; G; I; J; L,494
-3711,"Oficiales, notarÌa",F; G; I; J; L,494
-7899,"Oficiales, operarios y artesanos de artes mec·nicas y de otros oficios no
-clasificados bajo otros epÌgrafes",C; E; G; J,886
-2112,OftalmÛlogos,E; F; G; H; J; L; M,105
+3711,"Oficiales, notar√≠a",F; G; I; J; L,494
+7899,"Oficiales, operarios y artesanos de artes mec√°nicas y de otros oficios no
+clasificados bajo otros ep√≠grafes",C; E; G; J,886
+2112,Oftalm√≥logos,E; F; G; H; J; L; M,105
 9543,Ojeadores,A; B; C; D; J; M,1026
-8160,"Operadores  fabricaciÛn de productos de
-panaderÌa",C; G; H; J; M,931
-7622,Operadores de alimentaciÛn (impresiÛn),A; B; C; D; E; G; H; J; M,836
+8160,"Operadores  fabricaci√≥n de productos de
+panader√≠a",C; G; H; J; M,931
+7622,Operadores de alimentaci√≥n (impresi√≥n),A; B; C; D; E; G; H; J; M,836
 7623,Operadores de alzadoras,B; C; D; E; G; H; J; M,838
 3134,"Operadores de amasadoras para la
-refinaciÛn de petrÛleo y gas natural",C; G; J; M,370
+refinaci√≥n de petr√≥leo y gas natural",C; G; J; M,370
 8332,Operadores de aparatos elevadores,C; E; G; H; I; J; M,959
 8331,Operadores de apisonadoras,B; C; G; H; I; J; M,957
 8331,Operadores de asfaltadoras,B; C; G; H; I; J; M,957
-3812,Operadores de asistencia tÈcnica,E; F; G; J; L,526
+3812,Operadores de asistencia t√©cnica,E; F; G; J; L,526
 3139,"Operadores de cadena de montaje
 automatizada",G; J; M,374
 8192,Operadores de caldera de buque,C; G; J; M,937
-3831,Operadores de c·mara,E; G; I; J,534
+3831,Operadores de c√°mara,E; G; I; J,534
 8333,Operadores de carretillas elevadoras,E; G; H; I; J; M,961
 4424,Operadores de central de alarmas,F; H; I; J; L,575
-4424,Operadores de central de averÌas,F; H; I; J; L,575
-3131,"Operadores de central de generaciÛn de
-energÌa",E; G; H; J; M,364
-3131,Operadores de central elÈctrica,E; G; H; J; M,364
-3131,Operadores de central hidroelÈctrica,E; G; H; J; M,364
-CODIGO,DESCRIPCION,GRUPO,PAG.
+4424,Operadores de central de aver√≠as,F; H; I; J; L,575
+3131,"Operadores de central de generaci√≥n de
+energ√≠a",E; G; H; J; M,364
+3131,Operadores de central el√©ctrica,E; G; H; J; M,364
+3131,Operadores de central hidroel√©ctrica,E; G; H; J; M,364
+|CODIGO,DESCRIPCION,GRUPO,PAG.
 3131,Operadores de central nuclear,E; G; H; J; M,364
 3131,Operadores de central solar,E; G; H; J; M,364
-4423,Operadores de centralita telefÛnica,F; H; I; L,573
+4423,Operadores de centralita telef√≥nica,F; H; I; L,573
 3135,"Operadores de control de tren de
-laminaciÛn",G; H; J; M,372
-8121,Operadores de coquizaciÛn,A; B; C; H; J; M,897
+laminaci√≥n",G; H; J; M,372
+8121,Operadores de coquizaci√≥n,A; B; C; H; J; M,897
 8321,Operadores de cosechadora,B; C; G; H; I; J; M,953
 7623,Operadores de encuadernadoras,B; C; D; E; G; H; J; M,838
 4301,Operadores de entrada de datos,J,561
 8322,"Operadores de equipos de corte de
 troncos",B; C; G; H; I; J; M,955
-3133,"Operadores de equipos de destilaciÛn y de
-reacciÛn quÌmica",G; J; M,368
-8131,"Operadores de equipos de destilaciÛn y
-reacciÛn quÌmica",C; G; J; M,901
-3133,"Operadores de equipos de filtraciÛn y
-separaciÛn de sustancias quÌmicas",G; J; M,368
-3832,Operadores de equipos de radiodifusiÛn,E; G; I; J; L,536
-3811,Operadores de equipos inform·ticos,E; G; J,524
-3132,Operadores de estaciÛn de bombeo,G; J; M,366
+3133,"Operadores de equipos de destilaci√≥n y de
+reacci√≥n qu√≠mica",G; J; M,368
+8131,"Operadores de equipos de destilaci√≥n y
+reacci√≥n qu√≠mica",C; G; J; M,901
+3133,"Operadores de equipos de filtraci√≥n y
+separaci√≥n de sustancias qu√≠micas",G; J; M,368
+3832,Operadores de equipos de radiodifusi√≥n,E; G; I; J; L,536
+3811,Operadores de equipos inform√°ticos,E; G; J,524
+3132,Operadores de estaci√≥n de bombeo,G; J; M,366
 7811,"Operadores de estufas y hornos para
 secado de madera",A; B; C; D; M,858
 8331,Operadores de excavadoras,B; C; G; H; I; J; M,957
 8331,Operadores de explanadoras,B; C; G; H; I; J; M,957
-8142,"Operadores de fabricaciÛn de juguetes de
-pl·stico",C; G; J; M,909
-8144,"Operadores de fabricaciÛn de laminados
+8142,"Operadores de fabricaci√≥n de juguetes de
+pl√°stico",C; G; J; M,909
+8144,"Operadores de fabricaci√≥n de laminados
 de madera",C; D; G; J; M,913
-8160,Operadores de fabricaciÛn de pan,C; G; H; J; M,931
+8160,Operadores de fabricaci√≥n de pan,C; G; H; J; M,931
 7812,Operadores de fresadoras de madera,A; B; C; D; G; J; M,860
-8332,Operadores de gr˙as de torre,C; E; G; H; I; J; M,959
-8332,Operadores de gr˙as mÛviles,C; E; G; H; I; J; M,959
+8332,Operadores de gr√∫as de torre,C; E; G; H; I; J; M,959
+8332,Operadores de gr√∫as m√≥viles,C; E; G; H; I; J; M,959
 7623,Operadores de guillotinas,B; C; D; E; G; H; J; M,838
-8191,"Operadores de hornos de cer·mica y
+8191,"Operadores de hornos de cer√°mica y
 porcelana",B; C; D; G; J; M,935
-8191,"Operadores de hornos de producciÛn de
+8191,"Operadores de hornos de producci√≥n de
 vidrio",B; C; D; G; J; M,935
 8191,Operadores de hornos de tejas y ladrillos,B; C; D; G; J; M,935
 3132,Operadores de incineradora,G; J; M,366
-3132,"Operadores de instalaciÛn de tratamiento
+3132,"Operadores de instalaci√≥n de tratamiento
 de aguas",G; J; M,366
-3132,"Operadores de instalaciÛn de tratamiento
+3132,"Operadores de instalaci√≥n de tratamiento
 de aguas residuales",G; J; M,366
 3134,"Operadores de instalaciones de gas
 natural",C; G; J; M,370
 3134,Operadores de instalaciones de parafina,C; G; J; M,370
 3133,"Operadores de instalaciones de
-tratamiento quÌmico tÈrmico",G; J; M,368
-8131,Operadores de instalaciones de tratamiento quÌmico tÈrmico de productos,C; G; J; M,901
+tratamiento qu√≠mico t√©rmico",G; J; M,368
+8131,Operadores de instalaciones de tratamiento qu√≠mico t√©rmico de productos,C; G; J; M,901
 8131,"Operadores de instalaciones para producir
 abonos artificiales",C; G; J; M,901
-CODIGO,DESCRIPCION,GRUPO,PAG.
+|CODIGO,DESCRIPCION,GRUPO,PAG.
 8112,Operadores de lavaderos de mineral,A; B; C; G; H; J; M,891
 7323,Operadores de mandriladora,A; B; C; E; G; H; J; M,790
 7191,Operadores de mantenimiento de edificios,B; C; D; J; M,740
-8199,"Operadores de m·quina de fabricaciÛn de
+8199,"Operadores de m√°quina de fabricaci√≥n de
 chips de silicio",G; J; M,941
-8141,"Operadores de m·quina de fabricaciÛn de
-neum·ticos",C; G; J; M,907
-8141,"Operadores de m·quina de fabricaciÛn de
+8141,"Operadores de m√°quina de fabricaci√≥n de
+neum√°ticos",C; G; J; M,907
+8141,"Operadores de m√°quina de fabricaci√≥n de
 productos de caucho",C; G; J; M,907
-8192,Operadores de m·quina de vapor,C; G; J; M,937
-8141,"Operadores de m·quina de vulcanizaciÛn
-de neum·ticos",C; G; J; M,907
-8199,"Operadores de m·quina empalmadora de
+8192,Operadores de m√°quina de vapor,C; G; J; M,937
+8141,"Operadores de m√°quina de vulcanizaci√≥n
+de neum√°ticos",C; G; J; M,907
+8199,"Operadores de m√°quina empalmadora de
 cables y cuerdas",G; J; M,941
-8121,"Operadores de m·quina estiradora de
+8121,"Operadores de m√°quina estiradora de
 metales",A; B; C; H; J; M,897
-8141,"Operadores de m·quina extrusora de
+8141,"Operadores de m√°quina extrusora de
 caucho",C; G; J; M,907
-8141,"Operadores de m·quina mezcladora-
+8141,"Operadores de m√°quina mezcladora-
 amasadora de caucho",C; G; J; M,907
-8133,"Operadores de m·quina para fabricar cinta
-para pelÌculas de cine",C; E; G; J,905
-8133,"Operadores de m·quina para fabricar
-papel fotogr·fico",C; E; G; J,905
-8133,"Operadores de m·quina para fabricar
-pelÌcula fotogr·fica",C; E; G; J,905
-8322,"Operadores de m·quina taladora de
-·rboles",B; C; G; H; I; J; M,955
-8121,"Operadores de m·quina trefiladora de
+8133,"Operadores de m√°quina para fabricar cinta
+para pel√≠culas de cine",C; E; G; J,905
+8133,"Operadores de m√°quina para fabricar
+papel fotogr√°fico",C; E; G; J,905
+8133,"Operadores de m√°quina para fabricar
+pel√≠cula fotogr√°fica",C; E; G; J,905
+8322,"Operadores de m√°quina taladora de
+√°rboles",B; C; G; H; I; J; M,955
+8121,"Operadores de m√°quina trefiladora de
 metales",A; B; C; H; J; M,897
-8143,"Operadores de m·quina troqueladoras de papel, cartÛn y materiales afines",C; G; J; M,911
-8133,"Operadores de m·quina, ampliaciÛn de
-fotografÌas",C; E; G; J,905
-8132,"Operadores de m·quina, fabricaciÛn de
-cosmÈticos",C; E; G; J,903
-8132,"Operadores de m·quina, fabricaciÛn de
+8143,"Operadores de m√°quina troqueladoras de papel, cart√≥n y materiales afines",C; G; J; M,911
+8133,"Operadores de m√°quina, ampliaci√≥n de
+fotograf√≠as",C; E; G; J,905
+8132,"Operadores de m√°quina, fabricaci√≥n de
+cosm√©ticos",C; E; G; J,903
+8132,"Operadores de m√°quina, fabricaci√≥n de
 detergentes",C; E; G; J,903
-8131,"Operadores de m·quina, fabricaciÛn de
+8131,"Operadores de m√°quina, fabricaci√≥n de
 municiones",C; G; J; M,901
-8114,"Operadores de m·quina, fabricaciÛn de
+8114,"Operadores de m√°quina, fabricaci√≥n de
 piedra artificial",A; B; C; G; H; J; M,895
-8131,"Operadores de m·quina, fabricaciÛn de
+8131,"Operadores de m√°quina, fabricaci√≥n de
 pinturas",C; G; J; M,901
-8132,"Operadores de m·quina, fabricaciÛn de
-productos farmacÈuticos",C; E; G; J,903
-8122,"Operadores de m·quina, galvanoplastia",A; B; C; E; H; J; M,899
-8114,"Operadores de m·quina, productos
-prefabricados de hormigÛn",A; B; C; G; H; J; M,895
-8122,"Operadores de m·quina,
+8132,"Operadores de m√°quina, fabricaci√≥n de
+productos farmac√©uticos",C; E; G; J,903
+8122,"Operadores de m√°quina, galvanoplastia",A; B; C; E; H; J; M,899
+8114,"Operadores de m√°quina, productos
+prefabricados de hormig√≥n",A; B; C; G; H; J; M,895
+8122,"Operadores de m√°quina,
 pulidora/metalurgia",A; B; C; E; H; J; M,899
-8122,"Operadores de m·quina,
+8122,"Operadores de m√°quina,
 recubridora/alambre",A; B; C; E; H; J; M,899
-CODIGO,DESCRIPCION,GRUPO,PAG.
-8133,"Operadores de m·quina, revelado de
-fotografÌas",C; E; G; J,905
-8133,"Operadores de m·quina, revelado de
-pelÌculas de cine",C; E; G; J,905
-8133,"Operadores de m·quina, revelado de
-radiografÌas",C; E; G; J,905
-8156,"Operadores de m·quinas autom·tica para
+|CODIGO,DESCRIPCION,GRUPO,PAG.
+8133,"Operadores de m√°quina, revelado de
+fotograf√≠as",C; E; G; J,905
+8133,"Operadores de m√°quina, revelado de
+pel√≠culas de cine",C; E; G; J,905
+8133,"Operadores de m√°quina, revelado de
+radiograf√≠as",C; E; G; J,905
+8156,"Operadores de m√°quinas autom√°tica para
 lijar zapatos",C; E; G; H; J; M,927
-8145,"Operadores de m·quinas blanqueadoras
+8145,"Operadores de m√°quinas blanqueadoras
 de pasta de papel",C; D; G; J; M,915
-8151,"Operadores de m·quinas bobinadoras y
+8151,"Operadores de m√°quinas bobinadoras y
 trascanadoras de hilos",C; D; G; J; M,917
-8145,"Operadores de m·quinas calandradoras-
+8145,"Operadores de m√°quinas calandradoras-
 satinadoras de papel",C; D; G; J; M,915
-8151,"Operadores de m·quinas cardadoras de
+8151,"Operadores de m√°quinas cardadoras de
 fibras",C; D; G; J; M,917
-8152,"Operadores de m·quinas circular tejedora
-de gÈnero de punto",C; G; J; M,919
-8156,"Operadores de m·quinas cortadora de
+8152,"Operadores de m√°quinas circular tejedora
+de g√©nero de punto",C; G; J; M,919
+8156,"Operadores de m√°quinas cortadora de
 piezas de calzado",C; E; G; H; J; M,927
-8143,Operadores de m·quinas cortadora/plegadora de papel y cartÛn,C; G; J; M,911
-8155,"Operadores de m·quinas cortadoras
-(preparaciÛn de pieles y cueros)",B; C; D; G; J; M,925
-8145,"Operadores de m·quinas cortadoras de
+8143,Operadores de m√°quinas cortadora/plegadora de papel y cart√≥n,C; G; J; M,911
+8155,"Operadores de m√°quinas cortadoras
+(preparaci√≥n de pieles y cueros)",B; C; D; G; J; M,925
+8145,"Operadores de m√°quinas cortadoras de
 papel",C; D; G; J; M,915
-8159,"Operadores de m·quinas cortadoras de
-pieles y cueros (confecciÛn)",B; C; D; G; J; M,929
-8156,"Operadores de m·quinas de acabado de
+8159,"Operadores de m√°quinas cortadoras de
+pieles y cueros (confecci√≥n)",B; C; D; G; J; M,929
+8156,"Operadores de m√°quinas de acabado de
 calzado",C; E; G; H; J; M,927
-8156,"Operadores de m·quinas de cosido y
+8156,"Operadores de m√°quinas de cosido y
 aparado de calzado",C; E; G; H; J; M,927
-8155,"Operadores de m·quinas de curtido de
+8155,"Operadores de m√°quinas de curtido de
 pieles y cueros",B; C; D; G; J; M,925
-3134,Operadores de m·quinas de destilaciÛn para refinaciÛn de petrÛleo y gas natural,C; G; J; M,370
-7623,"Operadores de m·quinas de estampaciÛn
+3134,Operadores de m√°quinas de destilaci√≥n para refinaci√≥n de petr√≥leo y gas natural,C; G; J; M,370
+7623,"Operadores de m√°quinas de estampaci√≥n
 en caliente",B; C; D; E; G; H; J; M,838
-8144,"Operadores de m·quinas de fabricaciÛn de
+8144,"Operadores de m√°quinas de fabricaci√≥n de
 aglomerados",C; D; G; J; M,913
-7812,"Operadores de m·quinas de fabricaciÛn de
+7812,"Operadores de m√°quinas de fabricaci√≥n de
 muebles",A; B; C; D; G; J; M,860
-8145,"Operadores de m·quinas de fabricaciÛn de
-papel y cartÛn",C; D; G; J; M,915
-7323,"Operadores de m·quinas de fabricaciÛn de
+8145,"Operadores de m√°quinas de fabricaci√≥n de
+papel y cart√≥n",C; D; G; J; M,915
+7323,"Operadores de m√°quinas de fabricaci√≥n de
 remaches",A; B; C; E; G; H; J; M,790
-8151,Operadores de m·quinas de hilar continua,C; D; G; J; M,917
-7622,"Operadores de m·quinas de impresiÛn
+8151,Operadores de m√°quinas de hilar continua,C; D; G; J; M,917
+7622,"Operadores de m√°quinas de impresi√≥n
 digital",A; B; C; D; E; G; H; J; M,836
-8170,Operadores de m·quinas de lavanderÌa,B; C; D; G; J; M,933
-8170,"Operadores de m·quinas de limpieza en
+8170,Operadores de m√°quinas de lavander√≠a,B; C; D; G; J; M,933
+8170,"Operadores de m√°quinas de limpieza en
 seco",B; C; D; G; J; M,933
-CODIGO,DESCRIPCION,GRUPO,PAG.
-8191,"Operadores de m·quinas de mezclado de
+|CODIGO,DESCRIPCION,GRUPO,PAG.
+8191,"Operadores de m√°quinas de mezclado de
 arcilla",B; C; D; G; J; M,935
-8191,"Operadores de m·quinas de mezclado de
+8191,"Operadores de m√°quinas de mezclado de
 vidrio",B; C; D; G; J; M,935
-8170,Operadores de m·quinas de planchado,B; C; D; G; J; M,933
-8155,"Operadores de m·quinas de planchado y
+8170,Operadores de m√°quinas de planchado,B; C; D; G; J; M,933
+8155,"Operadores de m√°quinas de planchado y
 grabado de curtidos",B; C; D; G; J; M,925
-8191,"Operadores de m·quinas de soplado de
+8191,"Operadores de m√°quinas de soplado de
 vidrio",B; C; D; G; J; M,935
-8154,"Operadores de m·quinas de tintura de
+8154,"Operadores de m√°quinas de tintura de
 hilados y fibras",B; C; D; G; J; M,923
-8170,"Operadores de m·quinas de tintura de
-prendas en lavanderÌa",B; C; D; G; J; M,933
-8154,"Operadores de m·quinas de tintura de
+8170,"Operadores de m√°quinas de tintura de
+prendas en lavander√≠a",B; C; D; G; J; M,933
+8154,"Operadores de m√°quinas de tintura de
 telas",B; C; D; G; J; M,923
-8112,"Operadores de m·quinas del labrado de la
+8112,"Operadores de m√°quinas del labrado de la
 piedra",A; B; C; G; H; J; M,891
-8144,"Operadores de m·quinas descortezadoras
+8144,"Operadores de m√°quinas descortezadoras
 de madera",C; D; G; J; M,913
-8193,"Operadores de m·quinas embotelladoras
+8193,"Operadores de m√°quinas embotelladoras
 de bebidas",C; G; H; J; M,939
-8193,Operadores de m·quinas empaquetadoras,C; G; H; J; M,939
+8193,Operadores de m√°quinas empaquetadoras,C; G; H; J; M,939
 8114,"Operadores de maquinas en planta de
-aglomerados asf·lticos",A; B; C; G; H; J; M,895
+aglomerados asf√°lticos",A; B; C; G; H; J; M,895
 8114,"Operadores de maquinas en planta de
-·ridos",A; B; C; G; H; J; M,895
-8193,"Operadores de m·quinas enlatadoras de
+√°ridos",A; B; C; G; H; J; M,895
+8193,"Operadores de m√°quinas enlatadoras de
 conservas",C; G; H; J; M,939
-8193,"Operadores de m·quinas envasadoras de
-az˙car",C; G; H; J; M,939
-8193,"Operadores de m·quinas envasadoras de
+8193,"Operadores de m√°quinas envasadoras de
+az√∫car",C; G; H; J; M,939
+8193,"Operadores de m√°quinas envasadoras de
 pastas alimenticias",C; G; H; J; M,939
-8154,"Operadores de m·quinas estampadoras
+8154,"Operadores de m√°quinas estampadoras
 de textiles",B; C; D; G; J; M,923
-8193,Operadores de m·quinas etiquetadoras,C; G; H; J; M,939
-8111,"Operadores de m·quinas extractoras de
+8193,Operadores de m√°quinas etiquetadoras,C; G; H; J; M,939
+8111,"Operadores de m√°quinas extractoras de
 mineral",A; B; C; D; H; M,889
-8142,"Operadores de m·quinas extrusoras de
+8142,"Operadores de m√°quinas extrusoras de
 PVC",C; G; J; M,909
-7323,Operadores de m·quinas herramientas,A; B; C; E; G; H; J; M,790
-8153,"Operadores de m·quinas industrial de
+7323,Operadores de m√°quinas herramientas,A; B; C; E; G; H; J; M,790
+8153,"Operadores de m√°quinas industrial de
 bordar",C; E; G; H; J; M,921
-8153,"Operadores de m·quinas industriales de
+8153,"Operadores de m√°quinas industriales de
 coser",C; E; G; H; J; M,921
-8142,"Operadores de m·quinas inyectoras de
-pl·sticos",C; G; J; M,909
-8151,"Operadores de m·quinas lavadoras de
+8142,"Operadores de m√°quinas inyectoras de
+pl√°sticos",C; G; J; M,909
+8151,"Operadores de m√°quinas lavadoras de
 fibras textiles",C; D; G; J; M,917
-8154,"Operadores de m·quinas lavadoras de
+8154,"Operadores de m√°quinas lavadoras de
 hilados",B; C; D; G; J; M,923
-8145,"Operadores de m·quinas lavadoras de
+8145,"Operadores de m√°quinas lavadoras de
 pasta de papel",C; D; G; J; M,915
-CODIGO,DESCRIPCION,GRUPO,PAG.
-8142,"Operadores de m·quinas metalizadoras de
-pl·stico por alto vacÌo",C; G; J; M,909
-8159,"Operadores de m·quinas para confeccionar adornos para tocado y
+|CODIGO,DESCRIPCION,GRUPO,PAG.
+8142,"Operadores de m√°quinas metalizadoras de
+pl√°stico por alto vac√≠o",C; G; J; M,909
+8159,"Operadores de m√°quinas para confeccionar adornos para tocado y
 vestido",B; C; D; G; J; M,929
-8159,"Operadores de m·quinas para
-confeccionar pasamanerÌa",B; C; D; G; J; M,929
-8159,"Operadores de m·quinas para
+8159,"Operadores de m√°quinas para
+confeccionar pasamaner√≠a",B; C; D; G; J; M,929
+8159,"Operadores de m√°quinas para
 confeccionar sombreros",B; C; D; G; J; M,929
-8159,"Operadores de m·quinas para
+8159,"Operadores de m√°quinas para
 confeccionar telas no tejidas",B; C; D; G; J; M,929
-8154,"Operadores de m·quinas para el acabado
+8154,"Operadores de m√°quinas para el acabado
 de productos textiles",B; C; D; G; J; M,923
-8144,"Operadores de m·quinas para el
+8144,"Operadores de m√°quinas para el
 tratamiento del corcho",C; D; G; J; M,913
-8114,Operadores de m·quinas para elaborar cal,A; B; C; G; H; J; M,895
-8114,"Operadores de m·quinas para elaborar
+8114,Operadores de m√°quinas para elaborar cal,A; B; C; G; H; J; M,895
+8114,"Operadores de m√°quinas para elaborar
 yeso o escayola",A; B; C; G; H; J; M,895
-8143,"Operadores de m·quinas para fabricar
-artÌculos de cartÛn",C; G; J; M,911
-8156,"Operadores de m·quinas para fabricar
-artÌculos de marroquinerÌa",C; E; G; H; J; M,927
-8144,Operadores de m·quinas para fabricar chapas y tableros contrachapados,C; D; G; J; M,913
-8159,"Operadores de m·quinas para fabricar
+8143,"Operadores de m√°quinas para fabricar
+art√≠culos de cart√≥n",C; G; J; M,911
+8156,"Operadores de m√°quinas para fabricar
+art√≠culos de marroquiner√≠a",C; E; G; H; J; M,927
+8144,Operadores de m√°quinas para fabricar chapas y tableros contrachapados,C; D; G; J; M,913
+8159,"Operadores de m√°quinas para fabricar
 colchones",B; C; D; G; J; M,929
-8143,"Operadores de m·quinas para fabricar manteles, toallitas y compresas",C; G; J; M,911
-8142,"Operadores de m·quinas para fabricar
-productos de pl·stico",C; G; J; M,909
-8141,Operadores de m·quinas para fabricar productos derivados de resinas naturales,C; G; J; M,907
-8141,"Operadores de m·quinas para fabricar
+8143,"Operadores de m√°quinas para fabricar manteles, toallitas y compresas",C; G; J; M,911
+8142,"Operadores de m√°quinas para fabricar
+productos de pl√°stico",C; G; J; M,909
+8141,Operadores de m√°quinas para fabricar productos derivados de resinas naturales,C; G; J; M,907
+8141,"Operadores de m√°quinas para fabricar
 sellos de caucho",C; G; J; M,907
-8159,"Operadores de m·quinas para fabricar
+8159,"Operadores de m√°quinas para fabricar
 tiendas",B; C; D; G; J; M,929
-7812,"Operadores de m·quinas para la
-elaboraciÛn de productos de madera",A; B; C; D; G; J; M,860
-8142,"Operadores de m·quinas para preparar
+7812,"Operadores de m√°quinas para la
+elaboraci√≥n de productos de madera",A; B; C; D; G; J; M,860
+8142,"Operadores de m√°quinas para preparar
 moldes de resina",C; G; J; M,909
-8156,"Operadores de m·quinas para rebajar
+8156,"Operadores de m√°quinas para rebajar
 piezas (aparado de calzado)",C; E; G; H; J; M,927
-7812,"Operadores de m·quinas para trabajar la
+7812,"Operadores de m√°quinas para trabajar la
 madera",A; B; C; D; G; J; M,860
-8113,Operadores de m·quinas perforadoras de pozos de petrÛleo y gas,A; B; C; D; G; H; J; M,893
-8111,"Operadores de m·quinas perforadores en
+8113,Operadores de m√°quinas perforadoras de pozos de petr√≥leo y gas,A; B; C; D; G; H; J; M,893
+8111,"Operadores de m√°quinas perforadores en
 minas",A; B; C; D; H; M,889
-8154,"Operadores de m·quinas planchadoras de
-confecciÛn industrial",B; C; D; G; J; M,923
+8154,"Operadores de m√°quinas planchadoras de
+confecci√≥n industrial",B; C; D; G; J; M,923
 8114,"Operadores de maquinas pulidoras de
 piedras",A; B; C; G; H; J; M,895
-CODIGO,DESCRIPCION,GRUPO,PAG.
-8112,"Operadores de m·quinas quebrantadoras
+|CODIGO,DESCRIPCION,GRUPO,PAG.
+8112,"Operadores de m√°quinas quebrantadoras
 de mineral",A; B; C; G; H; J; M,891
-8152,Operadores de m·quinas remalladoras de prendas de gÈnero de punto,C; G; J; M,919
-8142,"Operadores de m·quinas soldadoras de
-material pl·stico",C; G; J; M,909
-8152,"Operadores de m·quinas tejedora de
+8152,Operadores de m√°quinas remalladoras de prendas de g√©nero de punto,C; G; J; M,919
+8142,"Operadores de m√°quinas soldadoras de
+material pl√°stico",C; G; J; M,909
+8152,"Operadores de m√°quinas tejedora de
 redes y mallas",C; G; J; M,919
-8152,"Operadores de m·quinas tejedoras en
+8152,"Operadores de m√°quinas tejedoras en
 telar de calada",C; G; J; M,919
-8144,"Operadores de m·quinas tronzadoras de
+8144,"Operadores de m√°quinas tronzadoras de
 madera",C; D; G; J; M,913
-8152,"Operadores de m·quinas urdidora-
+8152,"Operadores de m√°quinas urdidora-
 encoladora de hilos",C; G; J; M,919
 8331,Operadores de martinetes,B; C; G; H; I; J; M,957
 8331,Operadores de niveladoras,B; C; G; H; I; J; M,957
-7623,"Operadores de pequeÒas
+7623,"Operadores de peque√±as
 encuadernadoras de taller",B; C; D; E; G; H; J; M,838
-3811,Operadores de perifÈricos,E; G; J,524
-8121,"Operadores de planta de obtenciÛn de
+3811,Operadores de perif√©ricos,E; G; J,524
+8121,"Operadores de planta de obtenci√≥n de
 aluminio",A; B; C; H; J; M,897
-8131,Operadores de planta quÌmica,C; G; J; M,901
+8131,Operadores de planta qu√≠mica,C; G; J; M,901
 7623,Operadores de plegadoras,B; C; D; E; G; H; J; M,838
-7622,Operadores de prensas de flexografÌa,A; B; C; D; E; G; H; J; M,836
+7622,Operadores de prensas de flexograf√≠a,A; B; C; D; E; G; H; J; M,836
 7622,Operadores de prensas de fotograbado,A; B; C; D; E; G; H; J; M,836
-3134,Operadores de procesamiento del petrÛleo,C; G; J; M,370
+3134,Operadores de procesamiento del petr√≥leo,C; G; J; M,370
 8121,"Operadores de procesos de forjado de
 metales",A; B; C; H; J; M,897
 8331,Operadores de quitanieves,B; C; G; H; I; J; M,957
-8131,"Operadores de reactor, procesos quÌmicos",C; G; J; M,901
+8131,"Operadores de reactor, procesos qu√≠micos",C; G; J; M,901
 3813,Operadores de red,E; F; G; J,528
 7811,Operadores de secadora,A; B; C; D; M,858
 8144,Operadores de sierras circulares (madera),C; D; G; J; M,913
-7812,Operadores de sierras mec·nicas,A; B; C; D; G; J; M,860
-3131,Operadores de sistemas de energÌa,E; G; H; J; M,364
-8332,Operadores de telefÈricos,C; E; G; H; I; J; M,959
+7812,Operadores de sierras mec√°nicas,A; B; C; D; G; J; M,860
+3131,Operadores de sistemas de energ√≠a,E; G; H; J; M,364
+8332,Operadores de telef√©ricos,C; E; G; H; I; J; M,959
 3132,"Operadores de tratamiento de aguas
 residuales",G; J; M,366
 3132,"Operadores de tratamiento de residuos
-lÌquidos",G; J; M,366
-8113,"Operadores de tren de sondeo/rotaciÛn
-(pozos de petrÛleo y gas)",A; B; C; D; G; H; J; M,893
-5430,"Operadores de t˙nel/estaciÛn de lavado de
+l√≠quidos",G; J; M,366
+8113,"Operadores de tren de sondeo/rotaci√≥n
+(pozos de petr√≥leo y gas)",A; B; C; D; G; H; J; M,893
+5430,"Operadores de t√∫nel/estaci√≥n de lavado de
 coches",C; F; I; L,612
-8160,Operadores elaboraciÛn chocolates,C; G; H; J; M,931
+8160,Operadores elaboraci√≥n chocolates,C; G; H; J; M,931
 8145,"Operadores en instalaciones de
-fabricaciÛn de pasta de papel",C; D; G; J; M,915
+fabricaci√≥n de pasta de papel",C; D; G; J; M,915
 8114,"Operadores en instalaciones para la
-producciÛn de cemento",A; B; C; G; H; J; M,895
-8160,Operadores fabricaciÛn cigarrillos,C; G; H; J; M,931
-CODIGO,DESCRIPCION,GRUPO,PAG.
-8145,"Operadores m·quinas trituradoras de
+producci√≥n de cemento",A; B; C; G; H; J; M,895
+8160,Operadores fabricaci√≥n cigarrillos,C; G; H; J; M,931
+|CODIGO,DESCRIPCION,GRUPO,PAG.
+8145,"Operadores m√°quinas trituradoras de
 pasta de papel",C; D; G; J; M,915
-8160,Operadores preparaciÛn de carne,C; G; H; J; M,931
-8160,Operadores preparaciÛn de pescado,C; G; H; J; M,931
-8160,Operadores productos l·cteos,C; G; H; J; M,931
+8160,Operadores preparaci√≥n de carne,C; G; H; J; M,931
+8160,Operadores preparaci√≥n de pescado,C; G; H; J; M,931
+8160,Operadores productos l√°cteos,C; G; H; J; M,931
 8160,Operadores tratamiento de la leche,C; G; H; J; M,931
-7323,"Operadores-regulador de m·quinas
+7323,"Operadores-regulador de m√°quinas
 herramientas",A; B; C; E; G; H; J; M,790
-7199,"Operarios de construcciÛn trabajos a gran
+7199,"Operarios de construcci√≥n trabajos a gran
 altura",A; B; C; D; J; M,746
-7708,Operarios de fabricaciÛn de cigarrillos,C; M,854
-5430,"Operarios de lubricaciÛn, recambios y mantenimiento en estaciones de servicios
-de vehÌculos",C; F; I; L,612
+7708,Operarios de fabricaci√≥n de cigarrillos,C; M,854
+5430,"Operarios de lubricaci√≥n, recambios y mantenimiento en estaciones de servicios
+de veh√≠culos",C; F; I; L,612
 9442,Operarios de punto limpio,A; B; C; D; M,1008
-7707,Operarios en la elaboraciÛn de vinos,C,852
-7199,Operarios especializados en demoliciÛn,A; B; C; D; J; M,746
+7707,Operarios en la elaboraci√≥n de vinos,C,852
+7199,Operarios especializados en demolici√≥n,A; B; C; D; J; M,746
 9443,Operarios mantenedores de alcantarillado,A; B; C; D,1010
-2155,”pticos-optometristas,E; F; G; H; J,125
+2155,√ìpticos-optometristas,E; F; G; H; J,125
 9431,Ordenanzas,L,998
 7613,Orfebres,C; E; G; J; M,820
 3532,Organizadores de conferencias y eventos,F; G; H; J; L,464
@@ -1675,14 +1675,14 @@ de vehÌculos",C; F; I; L,612
 2624,Orientadores profesionales,F; G; J; L,273
 2824,Orientadores sociolaborales,F; G; J; L,311
 2932,Orquestadores,E; F; G; I; J; L; M,329
-3329,OsteÛpatas,C; F; G; L; M,438
+3329,Oste√≥patas,C; F; G; L; M,438
 7312,"Oxicortadores, a mano",A; B; C; D; G; H; J; M,778
-7703,"Panaderos, fabricaciÛn.",B; C; G; K; M,844
-7834,Parag¸eros,C; E; G; J; M,870
+7703,"Panaderos, fabricaci√≥n.",B; C; G; K; M,844
+7834,Parag√ºeros,C; E; G; J; M,870
 5899,Parejas de bailes,F; G; I; L,672
 7240,Parqueteros,A; B; C; D; J; M,762
 3711,"Pasantes, abogado",F; G; I; J; L,494
-7703,"Pasteleros, fabricaciÛn.",B; C; G; K; M,844
+7703,"Pasteleros, fabricaci√≥n.",B; C; G; K; M,844
 6202,Pastores de ovejas o cabras,A; B; C; D; G; M,705
 6423,Patrones de pesca de altura,A; B; C; D; G; J; M,723
 6423,Patrones de pesca de arrastre,A; B; C; D; G; J; M,723
@@ -1691,69 +1691,69 @@ de vehÌculos",C; F; I; L,612
 7832,Patronistas de pieles,C; E; G; J; M,866
 7832,Patronistas de prendas de vestir,C; E; G; J; M,866
 7820,Patronistas en madera,A; B; C; D; G; J; M,862
-7111,Pavimentadores a base de hormigÛn,A; B; C; D; H; J; M,728
+7111,Pavimentadores a base de hormig√≥n,A; B; C; D; H; J; M,728
 7240,Pavimentadores con adoquines,A; B; C; D; J; M,762
 2939,Payasos,F; G; H; J; M,341
 2321,Pedagogos,F; G; J; L,151
 5812,Pedicuros (no callistas),B; C; F; H; J; M,642
 7892,Pegadores,A; B; C; D; E; G; H; J,880
 9420,Pegadores de carteles,G; L,996
-CODIGO,DESCRIPCION,GRUPO,PAG.
+|CODIGO,DESCRIPCION,GRUPO,PAG.
 7618,Peinadores de fibras textiles,C; E; G; J; M,830
 7831,Peleteros,C; E; G; J; M,864
 5811,Peluqueros de caballeros,B; C; F; H; J; M,640
 5893,Peluqueros de perros,C; J; L; M,666
-5811,Peluqueros de prÛtesis capilares,B; C; F; H; J; M,640
-5811,Peluqueros de seÒoras,B; C; F; H; J; M,640
+5811,Peluqueros de pr√≥tesis capilares,B; C; F; H; J; M,640
+5811,Peluqueros de se√±oras,B; C; F; H; J; M,640
 5811,Peluqueros propietarios,B; C; F; H; J; M,640
-9530,Peones agrÌcola-ganaderos,A; B; C; D; M,1020
-9511,Peones agrÌcolas de la aceituna,A; B; C; D; M,1014
-9511,Peones agrÌcolas en general,A; B; C; D; M,1014
-9512,Peones agrÌcolas en horticultura,A; B; C; D; M,1016
-9512,Peones agrÌcolas en jardinerÌa,A; B; C; D; M,1016
-9512,Peones agrÌcolas en viveros,A; B; C; D; M,1016
+9530,Peones agr√≠cola-ganaderos,A; B; C; D; M,1020
+9511,Peones agr√≠colas de la aceituna,A; B; C; D; M,1014
+9511,Peones agr√≠colas en general,A; B; C; D; M,1014
+9512,Peones agr√≠colas en horticultura,A; B; C; D; M,1016
+9512,Peones agr√≠colas en jardiner√≠a,A; B; C; D; M,1016
+9512,Peones agr√≠colas en viveros,A; B; C; D; M,1016
 9530,Peones agropecuarios,A; B; C; D; M,1020
 9601,Peones asfaltadores,A; B; C; D; J; M,1028
 9601,Peones camineros,A; B; C; D; J; M,1028
 9700,Peones clasificadores de botellas,A; B; C; D; H; M,1034
 9542,Peones de acuicultura,A; B; C; D; M,1024
-9602,Peones de albaÒil,A; B; C; D; J; M,1030
+9602,Peones de alba√±il,A; B; C; D; J; M,1030
 9603,Peones de canteras,A; B; C; D; J; M,1032
 9811,Peones de carga y descarga,A; B; C; D; H; M,1036
-9602,Peones de demoliciÛn,A; B; C; D; J; M,1030
+9602,Peones de demolici√≥n,A; B; C; D; J; M,1030
 9603,Peones de exterior de minas,A; B; C; D; J; M,1032
-9520,Peones de granja cinegÈtica,A; B; C; D; M,1018
-9602,Peones de la construcciÛn de edificios,A; B; C; D; J; M,1030
+9520,Peones de granja cineg√©tica,A; B; C; D; M,1018
+9602,Peones de la construcci√≥n de edificios,A; B; C; D; J; M,1030
 9700,Peones de la industria,A; B; C; D; H; M,1034
 9541,Peones de la pesca,A; B; C; D; M,1022
-9520,"Peones de limpieza y alimentaciÛn del
+9520,"Peones de limpieza y alimentaci√≥n del
 ganado",A; B; C; D; M,1018
 9700,Peones de matadero industrial,A; B; C; D; H; M,1034
-9601,Peones de obras p˙blicas,A; B; C; D; J; M,1028
-9441,Peones de recolecciÛn de desechos,A; B; C; D; M,1006
+9601,Peones de obras p√∫blicas,A; B; C; D; J; M,1028
+9441,Peones de recolecci√≥n de desechos,A; B; C; D; M,1006
 9603,Peones de salinas,A; B; C; D; J; M,1032
 9520,"Peones en explotaciones de aves y
 conejos",A; B; C; D; M,1018
-9601,Peones excavaciones arqueolÛgicas,A; B; C; D; J; M,1028
+9601,Peones excavaciones arqueol√≥gicas,A; B; C; D; J; M,1028
 9543,Peones forestales,A; B; C; D; J; M,1026
 9520,"Peones ganaderos  en explotaciones de
 bovino/ovino",A; B; C; D; M,1018
 9520,"Peones ganaderos  en explotaciones de
 porcino",A; B; C; D; M,1018
 9700,Peones industria alimentaria,A; B; C; D; H; M,1034
-9700,Peones industria metal˙rgica,A; B; C; D; H; M,1034
+9700,Peones industria metal√∫rgica,A; B; C; D; H; M,1034
 9700,Peones industria textil,A; B; C; D; H; M,1034
-9443,Peones limpiadores de la vÌa p˙blica,A; B; C; D,1010
+9443,Peones limpiadores de la v√≠a p√∫blica,A; B; C; D,1010
 9700,Peones manipuladores de pescado,A; B; C; D; H; M,1034
 9700,Peones manipulares cargadores,A; B; C; D; H; M,1034
 9601,Peones mantenimiento de carreteras,A; B; C; D; J; M,1028
 9601,Peones mantenimiento de diques,A; B; C; D; J; M,1028
 2922,Periodistas,F; G; H; J,323
-CODIGO,DESCRIPCION,GRUPO,PAG.
+|CODIGO,DESCRIPCION,GRUPO,PAG.
 3405,Peritos judiciales,F; G; J; L,452
 3405,Peritos tasadores,F; G; J; L,452
 7131,Persianistas,A; B; C; D; J; M,736
-5891,"Personas de compaÒÌa (sin cuidados a
+5891,"Personas de compa√±√≠a (sin cuidados a
 enfermos o dependientes)",F; I; L,662
 7702,Pescaderos,A; B; C; D; G; J; M,842
 6422,Pescadores de agua dulce,A; B; C; D; G; J; M,721
@@ -1761,18 +1761,18 @@ enfermos o dependientes)",F; I; L,662
 6422,"Pescadores de bajura, costa o litoral",A; B; C; D; G; J; M,721
 3153,Pilotos de aeronaves,E; F; G; H; I; J; L; M,386
 9310,Pinches de cocina,C; M,990
-7231,"Pintores de bandas sobre vÌas urbanas y
+7231,"Pintores de bandas sobre v√≠as urbanas y
 carreteras",A; B; C; D; J; M,758
 7231,"Pintores de decorados de teatro, cine y
-televisiÛn",A; B; C; D; J; M,758
+televisi√≥n",A; B; C; D; J; M,758
 7231,Pintores de edificios,A; B; C; D; J; M,758
 7232,Pintores de productos manufacturados,A; B; C; D; J; M,760
-7616,Pintores de rÛtulos,C; E; G; J; M,826
-7232,Pintores de vehÌculos,A; B; C; D; J; M,760
-7616,Pintores decoradores de vidrio y cer·mica,C; E; G; J; M,826
-7232,Pintores-decoradores de jugueterÌa,A; B; C; D; J; M,760
+7616,Pintores de r√≥tulos,C; E; G; J; M,826
+7232,Pintores de veh√≠culos,A; B; C; D; J; M,760
+7616,Pintores decoradores de vidrio y cer√°mica,C; E; G; J; M,826
+7232,Pintores-decoradores de jugueter√≠a,A; B; C; D; J; M,760
 7232,Pintores-decoradores de muebles,A; B; C; D; J; M,760
-7619,PirotÈcnicos,C; E; G; J; M,832
+7619,Pirot√©cnicos,C; E; G; J; M,832
 5110,"Pizzero, restaurante",B; C; G; H; K; M,596
 9221,Planchadores a mano,B; C,982
 3532,Planificadores de bodas,F; G; H; J; L,464
@@ -1781,9 +1781,9 @@ televisiÛn",A; B; C; D; J; M,758
 2612,Planificadores financieros,F; G; J,263
 7613,Plateros,C; E; G; J; M,820
 7312,Plomeros,A; B; C; D; G; H; J; M,778
-2157,PodÛlogos,E; F; G; J; M,129
+2157,Pod√≥logos,E; F; G; J; M,129
 2921,Poetas,F; G; J,321
-2822,PolitÛlogos,F; G; J,307
+2822,Polit√≥logos,F; G; J,307
 7892,Polvoristas,A; B; C; D; E; G; H; J,880
 5833,Porteros de comunidad de vecinos,L,658
 5942,Porteros de hoteles,G; H; I; J; M,688
@@ -1799,85 +1799,85 @@ china",E; F; G; J; L; M,440
 7705,"Preparadores, aderezo y relleno de
 aceitunas",C; M,848
 7701,"Preparadores, jamones",A; B; C; D; G; J; M,840
-CODIGO,DESCRIPCION,GRUPO,PAG.
+|CODIGO,DESCRIPCION,GRUPO,PAG.
 8152,Preparadores-ajustadores de telares,C; G; J; M,919
 2936,Presentadores de noticias,F; G; H; J; L,337
 2936,Presentadores del tiempo,F; G; H; J; L,337
-1111,"Presidentes de DiputaciÛn provincial,
-DiputaciÛn Foral del PaÌs Vasco, Cabildo insular o Consejo insular",F; G; J; L,36
+1111,"Presidentes de Diputaci√≥n provincial,
+Diputaci√≥n Foral del Pa√≠s Vasco, Cabildo insular o Consejo insular",F; G; J; L,36
 2513,Presidentes de tribunales de justicia,F; G; H; J; L,253
 1111,Presidentes del Gobierno,F; G; J; L,36
 1120,Presidentes ejecutivos,F; G; J; L,42
 2939,Prestidigitadores,F; G; H; J; M,341
 2592,"Procuradores, justicia",F; G; J; L,257
-2934,"Productores de cine, radio y televisiÛn",F; G; J,333
+2934,"Productores de cine, radio y televisi√≥n",F; G; J,333
 6110,Productores de cultivos industriales,A; B; C; D; G; J; M,699
-3623,"Profesionales de apoyo, expediciÛn de licencias y permisos, Administraciones
-P˙blicas",F; G; I; J; L,486
-3623,"Profesionales de apoyo, expediciÛn de
-pasaportes, Administraciones P˙blicas",F; G; I; J; L,486
+3623,"Profesionales de apoyo, expedici√≥n de licencias y permisos, Administraciones
+P√∫blicas",F; G; I; J; L,486
+3623,"Profesionales de apoyo, expedici√≥n de
+pasaportes, Administraciones P√∫blicas",F; G; I; J; L,486
 3622,"Profesionales de apoyo,
-pensiones/Administraciones P˙blicas",F; G; I; J; L,484
+pensiones/Administraciones P√∫blicas",F; G; I; J; L,484
 3622,"Profesionales de apoyo, prestaciones
-sociales/Administraciones P˙blicas",F; G; I; J; L,484
-2625,Profesionales de la formaciÛn de personal en destrezas propias del puesto de trabajo,F; G; J; L,275
+sociales/Administraciones P√∫blicas",F; G; I; J; L,484
+2625,Profesionales de la formaci√≥n de personal en destrezas propias del puesto de trabajo,F; G; J; L,275
 2652,Profesionales en gabinete de prensa,F; G; J; L,283
-2652,Profesionales en relaciones p˙blicas,F; G; J; L,283
+2652,Profesionales en relaciones p√∫blicas,F; G; J; L,283
 2329,"Profesores de apoyo (clases particulares o
 academias)",F; G; J; L,163
 2311,Profesores de apoyo al aprendizaje,F; G; J; L,147
-2210,Profesores de arte dram·tico,F; G; J; L,135
-2324,"Profesores de arte dram·tico (clases
+2210,Profesores de arte dram√°tico,F; G; J; L,135
+2324,"Profesores de arte dram√°tico (clases
 particulares o academias)",C; E; F; G; J; L; M,157
 5894,Profesores de autoescuela,C; F; G; I; J; M,668
 2323,"Profesores de baile (clases particulares o
 academias)",C; F; G; I; J; L; M,155
 2323,"Profesores de canto (clases particulares o
 academias)",C; F; G; I; J; L; M,155
-2210,"Profesores de conservaciÛn y restauraciÛn
+2210,"Profesores de conservaci√≥n y restauraci√≥n
 de bienes culturales",F; G; J; L,135
-2325,"Profesores de cursos de formaciÛn en
-tecnologÌas de la informaciÛn",F; G; J; L,159
+2325,"Profesores de cursos de formaci√≥n en
+tecnolog√≠as de la informaci√≥n",F; G; J; L,159
 2323,"Profesores de danza (clases particulares o
 academias)",C; F; G; I; J; L; M,155
-2311,"Profesores de educaciÛn especial por
+2311,"Profesores de educaci√≥n especial por
 dificultades del aprendizaje",F; G; J; L,147
-2230,"Profesores de enseÒanza secundaria o
-formaciÛn profesional (materias no especÌficas)",F; G; J; L,139
-2230,"Profesores de enseÒanza secundaria,
+2230,"Profesores de ense√±anza secundaria o
+formaci√≥n profesional (materias no espec√≠ficas)",F; G; J; L,139
+2230,"Profesores de ense√±anza secundaria,
 artes",F; G; J; L,139
 2324,"Profesores de escultura (clases
 particulares o academias)",C; E; F; G; J; L; M,157
-CODIGO,DESCRIPCION,GRUPO,PAG.
+|CODIGO,DESCRIPCION,GRUPO,PAG.
 2210,"Profesores de estudios superiores de artes
-pl·sticas y diseÒo",F; G; J; L,135
+pl√°sticas y dise√±o",F; G; J; L,135
 2210,"Profesores de estudios superiores de
-m˙sica y danza",F; G; J; L,135
+m√∫sica y danza",F; G; J; L,135
 2323,"Profesores de guitarra (clases particulares
 o academias)",C; F; G; I; J; L; M,155
 2322,"Profesores de idiomas (clases particulares
 o academias)",F; G; J; L,153
 2322,Profesores de idiomas para inmigrantes,F; G; J; L,153
-2325,"Profesores de inform·tica (clases
+2325,"Profesores de inform√°tica (clases
 particulares o academias)",F; G; J; L,159
 2230,Profesores de instituto,F; G; J; L,139
 2323,"Profesores de piano (clases particulares o
 academias)",C; F; G; I; J; L; M,155
 2324,"Profesores de pintura (clases particulares
 o academias)",C; E; F; G; J; L; M,157
-2311,Profesores de recuperaciÛn,F; G; J; L,147
-2220,"Profesores de tecnologÌa para la formaciÛn
+2311,Profesores de recuperaci√≥n,F; G; J; L,147
+2220,"Profesores de tecnolog√≠a para la formaci√≥n
 profesional",F; G; J; L,137
 2210,"Profesores de titulaciones propias en
 universidades",F; G; J; L,135
-2323,"Profesores de violÌn (clases particulares o
+2323,"Profesores de viol√≠n (clases particulares o
 academias)",C; F; G; I; J; L; M,155
 2210,Profesores titulados de universidad,F; G; J; L,135
-2713,Programadores de animaciÛn multimedia,F; G; J,291
+2713,Programadores de animaci√≥n multimedia,F; G; J,291
 3820,Programadores de aplicaciones,E; G; J,532
 2713,Programadores de juegos de ordenador,F; G; J,291
 3820,Programadores de software,E; G; J,532
-3820,Programadores inform·ticos,E; G; J,532
+3820,Programadores inform√°ticos,E; G; J,532
 3714,Promotores de igualdad de oportunidades entre mujeres y hombres,F; G; I; J; L,500
 5840,"Propietarios de casas de turismo rural (sin
 trabajadores o muy pocos)",C; F; G; I; J; L,660
@@ -1885,33 +1885,33 @@ trabajadores o muy pocos)",C; F; G; I; J; L,660
 trabajadores o muy pocos)",C; F; G; I; J; L,660
 5412,"Propietarios de puestos de mercado
 ambulante",F; I; J; L,608
-2159,PsicÛlogos clÌnicos,F; G; J; L,133
-2823,PsicÛlogos de empresa,F; G; J; L,309
-2823,PsicÛlogos deportivos,F; G; J; L,309
-2823,PsicÛlogos escolares,F; G; J; L,309
+2159,Psic√≥logos cl√≠nicos,F; G; J; L,133
+2823,Psic√≥logos de empresa,F; G; J; L,309
+2823,Psic√≥logos deportivos,F; G; J; L,309
+2823,Psic√≥logos escolares,F; G; J; L,309
 2823,Psicoterapeutas,F; G; J; L,309
 2112,Psiquiatras,E; F; G; H; J; L; M,105
 7615,Pulidores de cristales,C; E; G; H; J; M,824
 7324,Pulidores de metales,B; C; E; G; J; M,792
-7899,Pulidores de objetivos Ûpticos,C; E; G; J,886
+7899,Pulidores de objetivos √≥pticos,C; E; G; J,886
 7704,"Queseros, artesanal",B; C; D; M,846
-5895,Quirom·nticos,F; G; I; L,670
-3329,Quiropr·cticos,C; F; G; L; M,438
+5895,Quirom√°nticos,F; G; I; L,670
+3329,Quiropr√°cticos,C; F; G; L; M,438
 2830,Rabinos,F; G; J; L,315
 2934,Realizadores de radio o TV,F; G; J,333
 7321,Rebabadores de forja,A; B; C; D; E; G; J; M,786
-CODIGO,DESCRIPCION,GRUPO,PAG.
+|CODIGO,DESCRIPCION,GRUPO,PAG.
 9433,Recadistas a pie,D; H,1002
-9434,"Recaudadores de m·quinas expendedoras (tabaco, bebidas, golosinas, etc.)",J,1004
-9434,Recaudadores de m·quinas recreativas,J,1004
-4412,Recepcionistas de consultorios mÈdicos,F; G; H; I; L,567
+9434,"Recaudadores de m√°quinas expendedoras (tabaco, bebidas, golosinas, etc.)",J,1004
+9434,Recaudadores de m√°quinas recreativas,J,1004
+4412,Recepcionistas de consultorios m√©dicos,F; G; H; I; L,567
 4422,Recepcionistas de hotel,F; G; H; I; L,571
 4412,Recepcionistas de oficina,F; G; H; I; L,567
-9442,Recogedores de cartÛn,A; B; C; D; M,1008
+9442,Recogedores de cart√≥n,A; B; C; D; M,1008
 9442,Recogedores de chatarra,A; B; C; D; M,1008
 9520,Recogedores de huevos,A; B; C; D; M,1018
 9442,Recogedores selectivos de residuos,A; B; C; D; M,1008
-9512,Recolectores de esp·rragos,A; B; C; D; M,1016
+9512,Recolectores de esp√°rragos,A; B; C; D; M,1016
 9512,Recolectores de fresas,A; B; C; D; M,1016
 9511,Recolectores de frutas,A; B; C; D; M,1014
 9512,"Recolectores de hortalizas (en cultivo
@@ -1925,31 +1925,31 @@ extensivo",A; B; C; D; M,1014
 3613,Redactores de actas,F; G; I; J; L,478
 2921,Redactores de discursos,F; G; J,321
 2922,Redactores deportivos,F; G; H; J,323
-2921,Redactores tÈcnicos,F; G; J,321
+2921,Redactores t√©cnicos,F; G; J,321
 2922,Redactores-jefes de prensa,F; G; H; J,323
 7618,Rederos,C; E; G; J; M,830
 3739,Regidores,G; I; J; L; M,522
 2591,Registradores de la propiedad,F; G; J; L,255
-7323,Reguladores de m·quinas herramientas,A; B; C; E; G; H; J; M,790
-7812,"Reguladores-operadores de m·quinas de
+7323,Reguladores de m√°quinas herramientas,A; B; C; E; G; H; J; M,790
+7812,"Reguladores-operadores de m√°quinas de
 labra de madera",A; B; C; D; G; J; M,860
 2937,Rejoneadores,A; B; C; D; E; G; H; J; M,339
-5899,Relaciones p˙blicas en salas de fiestas,F; G; I; L,672
-7314,Remachadores de elementos met·licos,A; B; C; D; G; J; M,782
+5899,Relaciones p√∫blicas en salas de fiestas,F; G; I; L,672
+7314,Remachadores de elementos met√°licos,A; B; C; D; G; J; M,782
 7405,Reparadores de bicicletas,A; B; C; D; E; G; J; M,802
-7405,Reparadores de cochecitos de niÒo,A; B; C; D; E; G; J; M,802
-7531,Reparadores de equipos electrÛnicos,A; B; C; D; E; G; J; M,810
-7223,Reparadores de grandes tuberÌas,A; B; C; D; J; M,756
-7403,Reparadores de maquinaria agrÌcola,A; B; C; D; E; G; J; M,798
+7405,Reparadores de cochecitos de ni√±o,A; B; C; D; E; G; J; M,802
+7531,Reparadores de equipos electr√≥nicos,A; B; C; D; E; G; J; M,810
+7223,Reparadores de grandes tuber√≠as,A; B; C; D; J; M,756
+7403,Reparadores de maquinaria agr√≠cola,A; B; C; D; E; G; J; M,798
 7403,"Reparadores de maquinaria de
-construcciÛn",A; B; C; D; E; G; J; M,798
-7403,Reparadores de m·quinas de minerÌa,A; B; C; D; E; G; J; M,798
-7403,Reparadores de m·quinas fijas,A; B; C; D; E; G; J; M,798
+construcci√≥n",A; B; C; D; E; G; J; M,798
+7403,Reparadores de m√°quinas de miner√≠a,A; B; C; D; E; G; J; M,798
+7403,Reparadores de m√°quinas fijas,A; B; C; D; E; G; J; M,798
 7404,Reparadores de motores de barco,A; B; C; D; E; G; J; M,800
 7404,Reparadores de motores de tren,A; B; C; D; E; G; J; M,800
 7820,Reparadores de muebles,A; B; C; D; G; J; M,862
 7405,Reparadores de sillas de ruedas,A; B; C; D; E; G; J; M,802
-CODIGO,DESCRIPCION,GRUPO,PAG.
+|CODIGO,DESCRIPCION,GRUPO,PAG.
 7291,Reparadores de tejados,A; B; C; D; J; M,766
 7294,"Reparadores- mantenedores de
 instalaciones",A; B; C; D; J; M,772
@@ -1960,31 +1960,31 @@ furgoneta",B; G; H; I; J; L; M,967
 furgoneta",B; G; H; I; J; L; M,965
 9433,Repartidores de prensa a domicilio,D; H,1002
 9420,Repartidores de publicidad,G; L,996
-9543,Replantadores de ·rboles en montes,A; B; C; D; J; M,1026
+9543,Replantadores de √°rboles en montes,A; B; C; D; J; M,1026
 9820,Reponedores de hipermercados,A; B; C; D,1040
-9434,"Reponedores de m·quinas expendedoras
-autom·ticas",J,1004
+9434,"Reponedores de m√°quinas expendedoras
+autom√°ticas",J,1004
 2922,Reporteros de radio/TV,F; G; H; J,323
 5110,Reposteros-pasteleros,B; C; G; H; K; M,596
 2640,Representantes (productos industriales),F; G; H; J; L,279
 3510,Representantes comerciales,F; G; J; L,454
 3531,Representantes de aduana,F; J; L,462
 3539,Representantes musicales,F; I; J; L,472
-2640,Representantes tÈcnicos,F; G; H; J; L,279
+2640,Representantes t√©cnicos,F; G; H; J; L,279
 2158,"Responsables corporativos de seguridad
 en el trabajo",F; G; J,131
 2158,"Responsables de calidad y seguridad
 alimentaria",F; G; J,131
-3402,Responsables de crÈditos hipotecarios,F; G; J; L,446
-2158,"Responsables tÈcnicos de salud ambiental
+3402,Responsables de cr√©ditos hipotecarios,F; G; J; L,446
+2158,"Responsables t√©cnicos de salud ambiental
 urbana",F; G; J,131
 2931,Restauradores de cuadros,F; G; J,327
 2931,Retratistas,F; G; J,327
-5822,Revisores de autob˙s,F; G; I; J; L,646
+5822,Revisores de autob√∫s,F; G; I; J; L,646
 5822,Revisores de funicular,F; G; I; J; L,646
-9490,Revisores de parquÌmetros,D,1012
+9490,Revisores de parqu√≠metros,D,1012
 9490,"Revisores de tickets de entrada en
-espect·culos",D,1012
+espect√°culos",D,1012
 5822,Revisores de tren,F; G; I; J; L,646
 7212,Revocadores,A; B; C; D; J; M,750
 2830,Sacerdotes,F; G; J; L,315
@@ -1998,31 +1998,31 @@ espect·culos",D,1012
 2623,Secretarios de Ayuntamiento,F; G; J,271
 1111,Secretarios de Estado,F; G; J; L,36
 2599,Secretarios judiciales,F; G; J; L,259
-3614,Secretarios mÈdicos,F; I; J; L,480
+3614,Secretarios m√©dicos,F; I; J; L,480
 3734,Segundos de cocina,F; G; H; J; K; M,520
 1111,Senadores,F; G; J; L,36
-CODIGO,DESCRIPCION,GRUPO,PAG.
-4123,SeÒalistas de aviones,G; J,551
+|CODIGO,DESCRIPCION,GRUPO,PAG.
+4123,Se√±alistas de aviones,G; J,551
 9601,Sepultureros,A; B; C; D; J; M,1028
 6204,Sericultores,B; C; G; J; M,709
 6205,Sexadores de polluelos,A; B; C; D; G; M,711
 7706,Sidreros,C,850
 7836,Sobadores de pieles,A; B; C; E; G; J; M,874
-5821,Sobrecargos de aviÛn,D; F; G; I; J; L; M,644
-2821,SociÛlogos,F; G; J,305
+5821,Sobrecargos de avi√≥n,D; F; G; I; J; L; M,644
+2821,Soci√≥logos,F; G; J,305
 5992,Socorristas de piscina,A; C; D; F; G; H; I; J; L; M,692
 5992,Socorristas de playa,A; C; D; F; G; H; I; J; L; M,692
 7240,Soladores,A; B; C; D; J; M,762
-7312,"Soldadores, por arco elÈctrico",A; B; C; D; G; H; J; M,778
+7312,"Soldadores, por arco el√©ctrico",A; B; C; D; G; H; J; M,778
 0020,Soldados,A; B; C; D; H; I; J; L,1047
 7831,Sombrereros,C; E; G; J; M,864
-8113,Sondistas de roca o carbÛn,A; B; C; D; G; H; J; M,893
+8113,Sondistas de roca o carb√≥n,A; B; C; D; G; H; J; M,893
 8113,"Sondistas prospectores, pozos en
-explotaciÛn",A; B; C; D; G; H; J; M,893
+explotaci√≥n",A; B; C; D; G; H; J; M,893
 7615,Sopladores de vidrio,C; E; G; H; J; M,824
 3539,Subastadores,F; I; J; L,472
 2623,Subinspectores de Finanzas del Estado,F; G; J,271
-3631,Subinspectores de policÌa,F; G; H; I; J; L,490
+3631,Subinspectores de polic√≠a,F; G; H; I; J; L,490
 2623,Subinspectores de Trabajo,F; G; J,271
 3632,Suboficiales de la guardia civil,F; G; H; I; J; L,492
 1112,Subsecretarios de Estado,F; G; J; L,38
@@ -2030,19 +2030,19 @@ explotaciÛn",A; B; C; D; G; H; J; M,893
 5120,Sumilleres,B; C; F; I; J; K; L; M,598
 7402,"Supervisores de  mantenimiento de
 aviones",A; B; C; D; E; G; J; M,796
-3202,Supervisores de la construcciÛn,D; F; H; J; L,396
+3202,Supervisores de la construcci√≥n,D; F; H; J; L,396
 3209,"Supervisores de otras industrias
 manufactureras",F; G; J; L,408
-3203,"Supervisores de producciÛn de industrias
+3203,"Supervisores de producci√≥n de industrias
 alimenticias",F; G; J; L,398
-3611,"Supervisores del personal de grabaciÛn de
+3611,"Supervisores del personal de grabaci√≥n de
 datos",G; I; J; L,474
 3611,Supervisores del personal de oficina,G; I; J; L,474
-7835,Tapiceros de artÌculos de ortopedia,C; E; G; J; M,872
+7835,Tapiceros de art√≠culos de ortopedia,C; E; G; J; M,872
 7835,Tapiceros de muebles,C; E; G; J; M,872
-7835,Tapiceros de vehÌculos,C; E; G; J; M,872
-4301,TaquÌgrafos,J,561
-5500,Taquilleros de espect·culos,F; H; J,622
+7835,Tapiceros de veh√≠culos,C; E; G; J; M,872
+4301,Taqu√≠grafos,J,561
+5500,Taquilleros de espect√°culos,F; H; J,622
 3405,Tasadores de inmuebles,F; G; J; L,452
 3405,Tasadores de seguros,F; G; J; L,452
 3405,Tasadores de siniestros,F; G; J; L,452
@@ -2052,163 +2052,163 @@ datos",G; I; J; L,474
 8411,Taxistas propietarios,B; G; H; I; J; L; M,965
 7291,Techadores con asfalto,A; B; C; D; J; M,766
 7291,Techadores con metal,A; B; C; D; J; M,766
-CODIGO,DESCRIPCION,GRUPO,PAG.
+|CODIGO,DESCRIPCION,GRUPO,PAG.
 7291,Techadores con pizarra,A; B; C; D; J; M,766
-3126,TÈcnicos aeron·utico,E; G; J; M,356
-5611,TÈcnicos auxiliares de clÌnica,B; C; D; F; H; I; J; L; M,624
-5621,TÈcnicos auxiliares de farmacia,F; I; J; L,628
-3812,TÈcnicos consultores en ofim·tica,E; F; G; J; L,526
-3713,TÈcnicos de apoyo al desarrollo local,F; G; I; J; L,498
-3139,TÈcnicos de control de proceso n.c.o.p.,G; J; M,374
-7531,TÈcnicos de fotocopiadoras,A; B; C; D; E; G; J; M,810
-3831,TÈcnicos de grabaciÛn de sonido,E; G; I; J,534
-2630,TÈcnicos de informaciÛn turÌstica,F; G; J; L,277
-3314,TÈcnicos de laboratorio sanitario,E; G; J,416
-7402,TÈcnicos de mantenimiento de aviones,A; B; C; D; E; G; J; M,796
-7532,"TÈcnicos de mantenimiento de equipos de
+3126,T√©cnicos aeron√°utico,E; G; J; M,356
+5611,T√©cnicos auxiliares de cl√≠nica,B; C; D; F; H; I; J; L; M,624
+5621,T√©cnicos auxiliares de farmacia,F; I; J; L,628
+3812,T√©cnicos consultores en ofim√°tica,E; F; G; J; L,526
+3713,T√©cnicos de apoyo al desarrollo local,F; G; I; J; L,498
+3139,T√©cnicos de control de proceso n.c.o.p.,G; J; M,374
+7531,T√©cnicos de fotocopiadoras,A; B; C; D; E; G; J; M,810
+3831,T√©cnicos de grabaci√≥n de sonido,E; G; I; J,534
+2630,T√©cnicos de informaci√≥n tur√≠stica,F; G; J; L,277
+3314,T√©cnicos de laboratorio sanitario,E; G; J,416
+7402,T√©cnicos de mantenimiento de aviones,A; B; C; D; E; G; J; M,796
+7532,"T√©cnicos de mantenimiento de equipos de
 electromedicina",A; B; C; E; G; J; M,812
-3122,"TÈcnicos de montaje de instalaciones en la
-construcciÛn",E; G; J,348
-3122,TÈcnicos de obras p˙blicas,E; G; J,348
-3122,"TÈcnicos de prevenciÛn de incendios en la
-construcciÛn",E; G; J,348
-4421,"TÈcnicos de productos en agencias de
+3122,"T√©cnicos de montaje de instalaciones en la
+construcci√≥n",E; G; J,348
+3122,T√©cnicos de obras p√∫blicas,E; G; J,348
+3122,"T√©cnicos de prevenci√≥n de incendios en la
+construcci√≥n",E; G; J,348
+4421,"T√©cnicos de productos en agencias de
 viajes",F; G; H; I; J; L,569
-3326,"TÈcnicos de seguridad e higiene en el
+3326,"T√©cnicos de seguridad e higiene en el
 trabajo",G; J,434
-3122,TÈcnicos de seguridad en la construcciÛn,E; G; J,348
-3812,TÈcnicos de soporte inform·tico,E; F; G; J; L,526
-3739,TÈcnicos de teatro,G; I; J; L; M,522
-3833,TÈcnicos de telecomunicaciones,E; G; H; J,538
-4421,TÈcnicos de ventas en agencias de viajes,F; G; H; I; J; L,569
-2312,"TÈcnicos educadores de personas
+3122,T√©cnicos de seguridad en la construcci√≥n,E; G; J,348
+3812,T√©cnicos de soporte inform√°tico,E; F; G; J; L,526
+3739,T√©cnicos de teatro,G; I; J; L; M,522
+3833,T√©cnicos de telecomunicaciones,E; G; H; J,538
+4421,T√©cnicos de ventas en agencias de viajes,F; G; H; I; J; L,569
+2312,"T√©cnicos educadores de personas
 discapacitadas",F; G; J; L,149
-8209,TÈcnicos en acabado de maletas,C; E; G; H; J; M,947
-8209,TÈcnicos en acabado de muebles,C; E; G; H; J; M,947
-3831,TÈcnicos en audiovisuales,E; G; I; J,534
-3141,TÈcnicos en bacteriologÌa,G; J,376
-3733,TÈcnicos en bibliotecas,G; J,518
-3141,TÈcnicos en bioquÌmica,G; J,376
-3522,TÈcnicos en comercio exterior,F; G; J; L,458
-3122,TÈcnicos en construcciÛn,E; G; J,348
-3141,TÈcnicos en cultivos de tejidos,G; J,376
-2252,TÈcnicos en educaciÛn infantil,F; G; J; L,145
-3739,TÈcnicos en efectos especiales,G; I; J; L; M,522
-3123,TÈcnicos en electricidad,E; G; J; M,350
-3125,TÈcnicos en electromedicina,E; G; H; J,354
-3124,TÈcnicos en electrÛnica,E; G; H; J,352
-5622,TÈcnicos en emergencias sanitarias,H; I; J; L; M,630
-2630,TÈcnicos en empresas turÌsticas,F; G; J; L,277
-3312,TÈcnicos en equipos de electrocardiografÌa,E; G; J,412
-3312,TÈcnicos en equipos de encefalografÌa,E; G; J,412
-8192,TÈcnicos en equipos fijos,C; G; J; M,937
-CODIGO,DESCRIPCION,GRUPO,PAG.
-3404,"TÈcnicos en estadÌstica, profesionales de
+8209,T√©cnicos en acabado de maletas,C; E; G; H; J; M,947
+8209,T√©cnicos en acabado de muebles,C; E; G; H; J; M,947
+3831,T√©cnicos en audiovisuales,E; G; I; J,534
+3141,T√©cnicos en bacteriolog√≠a,G; J,376
+3733,T√©cnicos en bibliotecas,G; J,518
+3141,T√©cnicos en bioqu√≠mica,G; J,376
+3522,T√©cnicos en comercio exterior,F; G; J; L,458
+3122,T√©cnicos en construcci√≥n,E; G; J,348
+3141,T√©cnicos en cultivos de tejidos,G; J,376
+2252,T√©cnicos en educaci√≥n infantil,F; G; J; L,145
+3739,T√©cnicos en efectos especiales,G; I; J; L; M,522
+3123,T√©cnicos en electricidad,E; G; J; M,350
+3125,T√©cnicos en electromedicina,E; G; H; J,354
+3124,T√©cnicos en electr√≥nica,E; G; H; J,352
+5622,T√©cnicos en emergencias sanitarias,H; I; J; L; M,630
+2630,T√©cnicos en empresas tur√≠sticas,F; G; J; L,277
+3312,T√©cnicos en equipos de electrocardiograf√≠a,E; G; J,412
+3312,T√©cnicos en equipos de encefalograf√≠a,E; G; J,412
+8192,T√©cnicos en equipos fijos,C; G; J; M,937
+|CODIGO,DESCRIPCION,GRUPO,PAG.
+3404,"T√©cnicos en estad√≠stica, profesionales de
 apoyo",G; J; L,450
-3129,"TÈcnicos en estimaciÛn de tiempos y
+3129,"T√©cnicos en estimaci√≥n de tiempos y
 costes",E; G; J,362
-3129,"TÈcnicos en estudios de tiempos y
+3129,"T√©cnicos en estudios de tiempos y
 movimientos",E; G; J,362
-3128,"TÈcnicos en extracciÛn/petrÛleo y gas
+3128,"T√©cnicos en extracci√≥n/petr√≥leo y gas
 natural",E; G; J,360
-3733,TÈcnicos en galerÌas de arte,G; J,518
-3122,TÈcnicos en geotecnia (construcciÛn),E; G; J,348
-3522,"TÈcnicos en gestiÛn de existencias y/o
-almacÈn",F; G; J; L,458
-3739,TÈcnicos en iluminaciÛn,G; I; J; L; M,522
-3128,TÈcnicos en ingenierÌa de minas,E; G; J,360
-3126,TÈcnicos en ingenierÌa mec·nica,E; G; J; M,356
-3126,TÈcnicos en ingenierÌa naval,E; G; J; M,356
-3127,TÈcnicos en ingenierÌa quÌmica,E; G; J,358
-3327,TÈcnicos en inseminaciÛn artificial,J; M,436
-3122,"TÈcnicos en instalaciones de sistemas
+3733,T√©cnicos en galer√≠as de arte,G; J,518
+3122,T√©cnicos en geotecnia (construcci√≥n),E; G; J,348
+3522,"T√©cnicos en gesti√≥n de existencias y/o
+almac√©n",F; G; J; L,458
+3739,T√©cnicos en iluminaci√≥n,G; I; J; L; M,522
+3128,T√©cnicos en ingenier√≠a de minas,E; G; J,360
+3126,T√©cnicos en ingenier√≠a mec√°nica,E; G; J; M,356
+3126,T√©cnicos en ingenier√≠a naval,E; G; J; M,356
+3127,T√©cnicos en ingenier√≠a qu√≠mica,E; G; J,358
+3327,T√©cnicos en inseminaci√≥n artificial,J; M,436
+3122,"T√©cnicos en instalaciones de sistemas
 antiincendios",E; G; J,348
-3129,TÈcnicos en investigaciÛn de incendios,E; G; J,362
-3142,TÈcnicos en la industria l·ctea,C; E; G; J,378
-3314,"TÈcnicos en laboratorio de diagnÛstico
-clÌnico",E; G; J,416
-3128,TÈcnicos en metalurgia/fundiciÛn,E; G; J,360
-3128,"TÈcnicos en metalurgia/producciÛn y
+3129,T√©cnicos en investigaci√≥n de incendios,E; G; J,362
+3142,T√©cnicos en la industria l√°ctea,C; E; G; J,378
+3314,"T√©cnicos en laboratorio de diagn√≥stico
+cl√≠nico",E; G; J,416
+3128,T√©cnicos en metalurgia/fundici√≥n,E; G; J,360
+3128,"T√©cnicos en metalurgia/producci√≥n y
 refinado de metales",E; G; J,360
-3733,TÈcnicos en museos,G; J,518
-3324,TÈcnicos en optometrÌa,E; F; G; J,430
-3129,TÈcnicos en organizaciÛn industrial,E; G; J,362
-2621,"TÈcnicos en organizaciÛn y administraciÛn de empresas, analistas de organizaciÛn y
-mÈtodos",F; G; J,267
-3129,"TÈcnicos en planificaciÛn y control de la
-producciÛn",E; G; J,362
-7621,TÈcnicos en preimpresiÛn,A; B; C; D; E; G; H; J; M,834
-3326,"TÈcnicos en prevenciÛn de riesgos
+3733,T√©cnicos en museos,G; J,518
+3324,T√©cnicos en optometr√≠a,E; F; G; J,430
+3129,T√©cnicos en organizaci√≥n industrial,E; G; J,362
+2621,"T√©cnicos en organizaci√≥n y administraci√≥n de empresas, analistas de organizaci√≥n y
+m√©todos",F; G; J,267
+3129,"T√©cnicos en planificaci√≥n y control de la
+producci√≥n",E; G; J,362
+7621,T√©cnicos en preimpresi√≥n,A; B; C; D; E; G; H; J; M,834
+3326,"T√©cnicos en prevenci√≥n de riesgos
 laborales",G; J,434
-3134,TÈcnicos en procesos de refinaciÛn,C; G; J; M,370
-3133,TÈcnicos en procesos quÌmicos,G; J; M,368
-2158,"TÈcnicos en protecciÛn radiolÛgica en
+3134,T√©cnicos en procesos de refinaci√≥n,C; G; J; M,370
+3133,T√©cnicos en procesos qu√≠micos,G; J; M,368
+2158,"T√©cnicos en protecci√≥n radiol√≥gica en
 instalaciones nucleares",F; G; J,131
-3127,TÈcnicos en quÌmica industrial,E; G; J,358
-3832,TÈcnicos en radiodifusiÛn,E; G; I; J; L,536
-3813,TÈcnicos en redes inform·ticas,E; F; G; J,528
-3535,TÈcnicos en relaciones p˙blicas,F; I; J; L,470
-3129,TÈcnicos en robÛtica,E; G; J,362
-3326,TÈcnicos en salud ambiental,G; J,434
-3142,"TÈcnicos en salud y producciÛn de las
+3127,T√©cnicos en qu√≠mica industrial,E; G; J,358
+3832,T√©cnicos en radiodifusi√≥n,E; G; I; J; L,536
+3813,T√©cnicos en redes inform√°ticas,E; F; G; J,528
+3535,T√©cnicos en relaciones p√∫blicas,F; I; J; L,470
+3129,T√©cnicos en rob√≥tica,E; G; J,362
+3326,T√©cnicos en salud ambiental,G; J,434
+3142,"T√©cnicos en salud y producci√≥n de las
 vacas lecheras",C; E; G; J,378
-3155,TÈcnicos en seguridad aeron·utica,E; G; H; J; L; M,390
-3141,TÈcnicos en serologÌa,G; J,376
-CODIGO,DESCRIPCION,GRUPO,PAG.
-3143,TÈcnicos en silvicultura,C; D; G; J; M,380
-3122,TÈcnicos en topografÌa,E; G; J,348
-3123,"TÈcnicos en transmisiÛn de energÌa
-elÈctrica",E; G; J; M,350
-3141,TÈcnicos en zoologÌa,G; J,376
-3317,TÈcnicos especialistas audioprotesistas,E; F; G; I; J; L,422
-3313,"TÈcnicos especialistas en anatomÌa
-patolÛgica y citologÌa",E; G; J,414
-3312,"TÈcnicos especialistas en medicina
+3155,T√©cnicos en seguridad aeron√°utica,E; G; H; J; L; M,390
+3141,T√©cnicos en serolog√≠a,G; J,376
+|CODIGO,DESCRIPCION,GRUPO,PAG.
+3143,T√©cnicos en silvicultura,C; D; G; J; M,380
+3122,T√©cnicos en topograf√≠a,E; G; J,348
+3123,"T√©cnicos en transmisi√≥n de energ√≠a
+el√©ctrica",E; G; J; M,350
+3141,T√©cnicos en zoolog√≠a,G; J,376
+3317,T√©cnicos especialistas audioprotesistas,E; F; G; I; J; L,422
+3313,"T√©cnicos especialistas en anatom√≠a
+patol√≥gica y citolog√≠a",E; G; J,414
+3312,"T√©cnicos especialistas en medicina
 nuclear",E; G; J,412
-3312,TÈcnicos especialistas en radiologÌa,E; G; J,412
-3311,TÈcnicos especialistas en radioterapia,E; F; G; J,410
-2437,"TÈcnicos especialistas en recuperaciÛn
+3312,T√©cnicos especialistas en radiolog√≠a,E; G; J,412
+3311,T√©cnicos especialistas en radioterapia,E; F; G; J,410
+2437,"T√©cnicos especialistas en recuperaci√≥n
 ambiental",F; G; J,203
-3631,"TÈcnicos especialistas, policÌa",F; G; H; I; J; L,490
-3121,TÈcnicos fÌsicos,E; G; J,346
-3143,TÈcnicos forestales,C; D; G; J; M,380
-3121,TÈcnicos geÛlogos,E; G; J,346
-3812,"TÈcnicos instaladores de sistemas
-inform·ticos",E; F; G; J; L,526
-2622,"TÈcnicos medios en organizaciÛn y
-administraciÛn de empresas",F; G; J,269
-3121,TÈcnicos meteorÛlogos,E; G; J,346
-3312,"TÈcnicos operadores de equipos mÈdicos
-de esc·ner",E; G; J,412
-3315,TÈcnicos ortoprotÈsicos,E; G; J; M,418
-3121,TÈcnicos quÌmicos,E; G; J,346
-7532,"TÈcnicos reparadores de aparatos de
+3631,"T√©cnicos especialistas, polic√≠a",F; G; H; I; J; L,490
+3121,T√©cnicos f√≠sicos,E; G; J,346
+3143,T√©cnicos forestales,C; D; G; J; M,380
+3121,T√©cnicos ge√≥logos,E; G; J,346
+3812,"T√©cnicos instaladores de sistemas
+inform√°ticos",E; F; G; J; L,526
+2622,"T√©cnicos medios en organizaci√≥n y
+administraci√≥n de empresas",F; G; J,269
+3121,T√©cnicos meteor√≥logos,E; G; J,346
+3312,"T√©cnicos operadores de equipos m√©dicos
+de esc√°ner",E; G; J,412
+3315,T√©cnicos ortoprot√©sicos,E; G; J; M,418
+3121,T√©cnicos qu√≠micos,E; G; J,346
+7532,"T√©cnicos reparadores de aparatos de
 electromedicina",A; B; C; E; G; J; M,812
-7533,"TÈcnicos reparadores de equipos de
+7533,"T√©cnicos reparadores de equipos de
 telecomunicaciones",A; B; C; E; G; J; M,814
-7533,"TÈcnicos reparadores de equipos
-inform·ticos",A; B; C; E; G; J; M,814
-2624,"TÈcnicos superiores en administraciÛn de
+7533,"T√©cnicos reparadores de equipos
+inform√°ticos",A; B; C; E; G; J; M,814
+2624,"T√©cnicos superiores en administraci√≥n de
 personal",F; G; J; L,273
-3313,"TÈcnicos superiores en anatomÌa
-patolÛgica y citologÌa",E; G; J,414
-3317,TÈcnicos superiores en audioprÛtesis,E; F; G; I; J; L,422
-3323,TÈcnicos superiores en dietÈtica y nutriciÛn,G; J,428
-3322,"TÈcnicos superiores en documentaciÛn
+3313,"T√©cnicos superiores en anatom√≠a
+patol√≥gica y citolog√≠a",E; G; J,414
+3317,T√©cnicos superiores en audiopr√≥tesis,E; F; G; I; J; L,422
+3323,T√©cnicos superiores en diet√©tica y nutrici√≥n,G; J,428
+3322,"T√©cnicos superiores en documentaci√≥n
 sanitaria",G; J,426
-3321,TÈcnicos superiores en higiene bucodental,E; F; G; J; M,424
-3312,"TÈcnicos superiores en imagen para el
-diagnÛstico",E; G; J,412
-2622,"TÈcnicos superiores en organizaciÛn y
-administraciÛn de empresas",F; G; J,269
-3311,TÈcnicos superiores en radioterapia,E; F; G; J,410
-2624,TÈcnicos superiores en recursos humanos,F; G; J; L,273
-2481,TÈcnicos urbanistas,E; F; G; J,241
-CODIGO,DESCRIPCION,GRUPO,PAG.
-3160,"TÈcnicos, control de calidad en industrias
+3321,T√©cnicos superiores en higiene bucodental,E; F; G; J; M,424
+3312,"T√©cnicos superiores en imagen para el
+diagn√≥stico",E; G; J,412
+2622,"T√©cnicos superiores en organizaci√≥n y
+administraci√≥n de empresas",F; G; J,269
+3311,T√©cnicos superiores en radioterapia,E; F; G; J,410
+2624,T√©cnicos superiores en recursos humanos,F; G; J; L,273
+2481,T√©cnicos urbanistas,E; F; G; J,241
+|CODIGO,DESCRIPCION,GRUPO,PAG.
+3160,"T√©cnicos, control de calidad en industrias
 manufactureras",G; J,392
-3160,"TÈcnicos, inspecciÛn tÈcnica de vehÌculos",G; J,392
-3160,"TÈcnicos, normas ISO",G; J,392
+3160,"T√©cnicos, inspecci√≥n t√©cnica de veh√≠culos",G; J,392
+3160,"T√©cnicos, normas ISO",G; J,392
 7291,Tejadores,A; B; C; D; J; M,766
 7617,Tejedores de muebles de mimbre,C; E; G; J; M,828
 7618,Tejedores de telar,C; E; G; J; M,830
@@ -2235,17 +2235,17 @@ manufactureras",G; J,392
 corral",C; E; G; J,378
 6421,"Trabajadores cualificados en granjas
 marinas",A; B; C; D; G; M,719
-6421,Trabajadores cualificados en piscifactorÌas,A; B; C; D; G; M,719
+6421,Trabajadores cualificados en piscifactor√≠as,A; B; C; D; G; M,719
 6410,Trabajadores cualificados forestales,A; B; C; D; G; J; M,717
 3713,"Trabajadores de apoyo a los servicios
 sociales",F; G; I; J; L,498
 7191,"Trabajadores de mantenimiento de
 colegios",B; C; D; J; M,740
 3713,Trabajadores de servicios a menores,F; G; I; J; L,498
-7811,"Trabajadores del tratamiento de la madera y corcho (excep.operadores de m·quinas
+7811,"Trabajadores del tratamiento de la madera y corcho (excep.operadores de m√°quinas
 de procesamiento)",A; B; C; D; M,858
 3713,Trabajadores desarrollo comunitario,F; G; I; J; L,498
-5840,"Trabajadores propietarios de pequeÒos
+5840,"Trabajadores propietarios de peque√±os
 alojamientos",C; F; G; I; J; L,660
 2824,Trabajadores sociales,F; G; J; L,311
 8321,Tractoristas,B; C; G; H; I; J; M,953
@@ -2253,28 +2253,28 @@ alojamientos",C; F; G; I; J; L,660
 2923,Traductores-revisores,F; G; J; L,325
 3739,Tramoyistas,G; I; J; L; M,522
 4123,Transitarios,G; J,551
-CODIGO,DESCRIPCION,GRUPO,PAG.
-7314,Trazadores de estructuras met·licas,A; B; C; D; G; J; M,782
-7621,"Troqueladores, artes gr·ficas",A; B; C; D; E; G; H; J; M,834
+|CODIGO,DESCRIPCION,GRUPO,PAG.
+7314,Trazadores de estructuras met√°licas,A; B; C; D; G; J; M,782
+7621,"Troqueladores, artes gr√°ficas",A; B; C; D; E; G; H; J; M,834
 8113,Tuberistas de minas y sondeos,A; B; C; D; G; H; J; M,893
 7703,Turroneros,B; C; G; K; M,844
 2453,Urbanistas,F; G; J,217
 5491,Vendedores a domicilio,F; I; J; L,614
-4442,Vendedores ambulantes de loterÌa,F; G; I; J; L,581
+4442,Vendedores ambulantes de loter√≠a,F; G; I; J; L,581
 9410,Vendedores callejeros,A; B; D; F; G; L,994
-5412,Vendedores de artesanÌa en mercadillos,F; I; J; L,608
+5412,Vendedores de artesan√≠a en mercadillos,F; I; J; L,608
 3534,Vendedores de inmuebles,F; I; J; L,468
 5491,Vendedores de libros a domicilio,F; I; J; L,614
-4442,Vendedores de loterÌa en kioscos,F; G; I; J; L,581
+4442,Vendedores de loter√≠a en kioscos,F; G; I; J; L,581
 3539,"Vendedores de servicios
 comerciales/publicidad",F; I; J; L,472
-4442,Vendedores en administraciones de loterÌa,F; G; I; J; L,581
-5491,Vendedores por cat·logo a domicilio,F; I; J; L,614
-5420,Vendedores por telÈfono,F; I; J; L,610
-2653,"Vendedores tÈcnicos de equipos y material
-de inform·tica",F; G; H; J; L,285
+4442,Vendedores en administraciones de loter√≠a,F; G; I; J; L,581
+5491,Vendedores por cat√°logo a domicilio,F; I; J; L,614
+5420,Vendedores por tel√©fono,F; I; J; L,610
+2653,"Vendedores t√©cnicos de equipos y material
+de inform√°tica",F; G; H; J; L,285
 9511,Vendimiadores,A; B; C; D; M,1014
-2939,VentrÌlocuos,F; G; H; J; M,341
+2939,Ventr√≠locuos,F; G; H; J; M,341
 2130,Veterinarios,C; E; G; H; J; M,113
 3510,"Viajantes, comercio",F; G; J; L,454
 5999,Vigilantes de aparcamientos,J; L,696
@@ -2285,11 +2285,11 @@ vigilantes-bomberos)",A; C; D; F; G; H; I; J; M,694
 armados",G; H; I; J; L; M,686
 5942,"Vigilantes de seguridad no habilitados para
 ir armados",G; H; I; J; M,688
-2640,Visitadores mÈdicos,F; G; H; J; L,279
+2640,Visitadores m√©dicos,F; G; H; J; L,279
 6110,Viticultores,A; B; C; D; G; J; M,699
 3814,Webmasters,E; G; J,530
 7212,Yesistas enlucidores,A; B; C; D; J; M,750
 7837,Zapateros,C; E; G; J; M,876
-7837,Zapateros ortopÈdicos,C; E; G; J; M,876
+7837,Zapateros ortop√©dicos,C; E; G; J; M,876
 7837,Zapateros remendones,C; E; G; J; M,876
-2421,ZoÛlogos,E; F; G; J,177
+2421,Zo√≥logos,E; F; G; J,177
